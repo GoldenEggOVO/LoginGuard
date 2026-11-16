@@ -1,0 +1,26 @@
+{
+  "target_budget": 0.015444593210994723,
+  "thresholds": {
+    "forest_all": 0.6474730330573547,
+    "forest_success": 0.6291169905899292,
+    "global_surprisal": 6.2281048760915,
+    "surprisal_a1": 5.9568826116163125,
+    "surprisal_a10": 5.899563795669595,
+    "surprisal_a100": 5.909356743809306,
+    "ratio_a1": 5.829748204408762,
+    "ratio_a10": 5.829748204408762,
+    "ratio_a100": 5.829748204408762,
+    "global_matched": 6.366727275469037,
+    "personal_matched": 6.048544474493058
+  },
+  "rates": {
+    "global_matched": 0.015444593210994723,
+    "personal_matched": 0.015444593210994723
+  },
+  "selected": "surprisal_a10",
+  "parent_selection_sha256": "afccaa672a2e65f9af2d345032b7fa6be0d0fb9cbfe2ce10a35ad62c2f2fee85",
+  "archive_sha256": "ca1d974e97aebfb30878a613f4ca5c793860a98ba2acb5185c9bc610d7432a33",
+  "holdout_start_row": 8000001,
+  "holdout_end_row": 12000000,
+  "context_source_sha256": "fceda11eb006dabde66968ad73fc88b91b68e2d92a68b1acbbb04038ad1e44de"
+}

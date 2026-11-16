@@ -1,0 +1,11 @@
+event_id,timestamp,user_id,ip_address,device_id,status,is_anomaly,attack_type
+1,2024-01-01 08:00:00,user_00,192.0.2.1,device_00_0,success,0,normal
+2,2024-01-01 08:05:00,user_01,198.51.100.200,device_01_0,failure,0,normal
+3,2024-01-01 08:06:00,user_01,198.51.100.200,device_01_0,success,0,normal
+4,2024-01-01 23:15:00,user_02,192.0.2.3,device_02_1,success,0,normal
+5,2024-01-02 09:00:00,user_03,203.0.113.10,unknown_1,failure,1,brute_force
+6,2024-01-02 09:00:10,user_03,203.0.113.10,unknown_1,failure,1,brute_force
+7,2024-01-02 10:00:00,user_04,203.0.113.11,unknown_2,failure,1,password_spray
+8,2024-01-02 10:00:10,user_05,203.0.113.11,unknown_2,failure,1,password_spray
+9,2024-01-02 11:00:00,user_06,203.0.113.12,unknown_3,failure,1,suspicious_success
+10,2024-01-02 11:00:10,user_06,203.0.113.12,unknown_3,success,1,suspicious_success

@@ -1,0 +1,20 @@
+{
+  "source_rows": 12000000,
+  "excluded_rows": 0,
+  "excluded_known_positive": 0,
+  "split_timestamps": {
+    "1200000": "2020-02-19 07:57:52.891000",
+    "2000000": "2020-02-29 21:09:37.953000",
+    "4000000": "2020-03-29 06:25:27.532000",
+    "8000000": "2020-05-23 13:12:33.886000"
+  },
+  "last_timestamp": "2020-07-18 13:26:43.487000",
+  "top_id_train_count": 432121,
+  "archive_sha256": "ca1d974e97aebfb30878a613f4ca5c793860a98ba2acb5185c9bc610d7432a33",
+  "archive_md5": "cc1b1078b3929650e6c08678caffcc57",
+  "publisher_md5_verified": true,
+  "selection_sha256": "22900840b25434b010046780d1547d91e27cce86a7651a87899f6b20d36c331a",
+  "holdout_rows": 4000000,
+  "first_holdout_timestamp": "2020-05-23 13:12:33.886000",
+  "holdout_known_positive_failures": 1
+}

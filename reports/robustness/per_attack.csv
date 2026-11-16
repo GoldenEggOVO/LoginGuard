@@ -1,0 +1,181 @@
+seed,scenario,method,attack_type,attack_events,detected,recall
+11,baseline,Rules,brute_force,46,1,0.021739130434782608
+11,baseline,Rules,password_spray,28,12,0.42857142857142855
+11,baseline,Rules,suspicious_success,23,4,0.17391304347826086
+11,baseline,Isolation Forest,brute_force,46,46,1.0
+11,baseline,Isolation Forest,password_spray,28,28,1.0
+11,baseline,Isolation Forest,suspicious_success,23,21,0.9130434782608695
+11,baseline,Isolation Forest without new_device,brute_force,46,40,0.8695652173913043
+11,baseline,Isolation Forest without new_device,password_spray,28,16,0.5714285714285714
+11,baseline,Isolation Forest without new_device,suspicious_success,23,17,0.7391304347826086
+11,familiar_slow,Rules,brute_force,46,0,0.0
+11,familiar_slow,Rules,password_spray,28,13,0.4642857142857143
+11,familiar_slow,Rules,suspicious_success,23,4,0.17391304347826086
+11,familiar_slow,Isolation Forest,brute_force,46,41,0.8913043478260869
+11,familiar_slow,Isolation Forest,password_spray,28,24,0.8571428571428571
+11,familiar_slow,Isolation Forest,suspicious_success,23,16,0.6956521739130435
+11,familiar_slow,Isolation Forest without new_device,brute_force,46,39,0.8478260869565217
+11,familiar_slow,Isolation Forest without new_device,password_spray,28,17,0.6071428571428571
+11,familiar_slow,Isolation Forest without new_device,suspicious_success,23,16,0.6956521739130435
+23,baseline,Rules,brute_force,45,2,0.044444444444444446
+23,baseline,Rules,password_spray,20,5,0.25
+23,baseline,Rules,suspicious_success,21,3,0.14285714285714285
+23,baseline,Isolation Forest,brute_force,45,40,0.8888888888888888
+23,baseline,Isolation Forest,password_spray,20,20,1.0
+23,baseline,Isolation Forest,suspicious_success,21,17,0.8095238095238095
+23,baseline,Isolation Forest without new_device,brute_force,45,35,0.7777777777777778
+23,baseline,Isolation Forest without new_device,password_spray,20,15,0.75
+23,baseline,Isolation Forest without new_device,suspicious_success,21,13,0.6190476190476191
+23,familiar_slow,Rules,brute_force,45,0,0.0
+23,familiar_slow,Rules,password_spray,20,5,0.25
+23,familiar_slow,Rules,suspicious_success,21,4,0.19047619047619047
+23,familiar_slow,Isolation Forest,brute_force,45,33,0.7333333333333333
+23,familiar_slow,Isolation Forest,password_spray,20,15,0.75
+23,familiar_slow,Isolation Forest,suspicious_success,21,12,0.5714285714285714
+23,familiar_slow,Isolation Forest without new_device,brute_force,45,36,0.8
+23,familiar_slow,Isolation Forest without new_device,password_spray,20,15,0.75
+23,familiar_slow,Isolation Forest without new_device,suspicious_success,21,13,0.6190476190476191
+37,baseline,Rules,brute_force,45,6,0.13333333333333333
+37,baseline,Rules,password_spray,19,4,0.21052631578947367
+37,baseline,Rules,suspicious_success,23,5,0.21739130434782608
+37,baseline,Isolation Forest,brute_force,45,32,0.7111111111111111
+37,baseline,Isolation Forest,password_spray,19,15,0.7894736842105263
+37,baseline,Isolation Forest,suspicious_success,23,13,0.5652173913043478
+37,baseline,Isolation Forest without new_device,brute_force,45,36,0.8
+37,baseline,Isolation Forest without new_device,password_spray,19,15,0.7894736842105263
+37,baseline,Isolation Forest without new_device,suspicious_success,23,15,0.6521739130434783
+37,familiar_slow,Rules,brute_force,45,0,0.0
+37,familiar_slow,Rules,password_spray,19,4,0.21052631578947367
+37,familiar_slow,Rules,suspicious_success,23,4,0.17391304347826086
+37,familiar_slow,Isolation Forest,brute_force,45,31,0.6888888888888889
+37,familiar_slow,Isolation Forest,password_spray,19,12,0.631578947368421
+37,familiar_slow,Isolation Forest,suspicious_success,23,17,0.7391304347826086
+37,familiar_slow,Isolation Forest without new_device,brute_force,45,35,0.7777777777777778
+37,familiar_slow,Isolation Forest without new_device,password_spray,19,16,0.8421052631578947
+37,familiar_slow,Isolation Forest without new_device,suspicious_success,23,21,0.9130434782608695
+42,baseline,Rules,brute_force,43,3,0.06976744186046512
+42,baseline,Rules,password_spray,28,12,0.42857142857142855
+42,baseline,Rules,suspicious_success,15,2,0.13333333333333333
+42,baseline,Isolation Forest,brute_force,43,42,0.9767441860465116
+42,baseline,Isolation Forest,password_spray,28,28,1.0
+42,baseline,Isolation Forest,suspicious_success,15,14,0.9333333333333333
+42,baseline,Isolation Forest without new_device,brute_force,43,35,0.813953488372093
+42,baseline,Isolation Forest without new_device,password_spray,28,8,0.2857142857142857
+42,baseline,Isolation Forest without new_device,suspicious_success,15,11,0.7333333333333333
+42,familiar_slow,Rules,brute_force,43,0,0.0
+42,familiar_slow,Rules,password_spray,28,15,0.5357142857142857
+42,familiar_slow,Rules,suspicious_success,15,2,0.13333333333333333
+42,familiar_slow,Isolation Forest,brute_force,43,34,0.7906976744186046
+42,familiar_slow,Isolation Forest,password_spray,28,4,0.14285714285714285
+42,familiar_slow,Isolation Forest,suspicious_success,15,8,0.5333333333333333
+42,familiar_slow,Isolation Forest without new_device,brute_force,43,35,0.813953488372093
+42,familiar_slow,Isolation Forest without new_device,password_spray,28,8,0.2857142857142857
+42,familiar_slow,Isolation Forest without new_device,suspicious_success,15,9,0.6
+53,baseline,Rules,brute_force,46,5,0.10869565217391304
+53,baseline,Rules,password_spray,28,12,0.42857142857142855
+53,baseline,Rules,suspicious_success,22,5,0.22727272727272727
+53,baseline,Isolation Forest,brute_force,46,46,1.0
+53,baseline,Isolation Forest,password_spray,28,28,1.0
+53,baseline,Isolation Forest,suspicious_success,22,19,0.8636363636363636
+53,baseline,Isolation Forest without new_device,brute_force,46,38,0.8260869565217391
+53,baseline,Isolation Forest without new_device,password_spray,28,24,0.8571428571428571
+53,baseline,Isolation Forest without new_device,suspicious_success,22,16,0.7272727272727273
+53,familiar_slow,Rules,brute_force,46,0,0.0
+53,familiar_slow,Rules,password_spray,28,13,0.4642857142857143
+53,familiar_slow,Rules,suspicious_success,22,4,0.18181818181818182
+53,familiar_slow,Isolation Forest,brute_force,46,39,0.8478260869565217
+53,familiar_slow,Isolation Forest,password_spray,28,25,0.8928571428571429
+53,familiar_slow,Isolation Forest,suspicious_success,22,14,0.6363636363636364
+53,familiar_slow,Isolation Forest without new_device,brute_force,46,38,0.8260869565217391
+53,familiar_slow,Isolation Forest without new_device,password_spray,28,25,0.8928571428571429
+53,familiar_slow,Isolation Forest without new_device,suspicious_success,22,15,0.6818181818181818
+67,baseline,Rules,brute_force,45,1,0.022222222222222223
+67,baseline,Rules,password_spray,23,8,0.34782608695652173
+67,baseline,Rules,suspicious_success,29,6,0.20689655172413793
+67,baseline,Isolation Forest,brute_force,45,44,0.9777777777777777
+67,baseline,Isolation Forest,password_spray,23,23,1.0
+67,baseline,Isolation Forest,suspicious_success,29,26,0.896551724137931
+67,baseline,Isolation Forest without new_device,brute_force,45,38,0.8444444444444444
+67,baseline,Isolation Forest without new_device,password_spray,23,18,0.782608695652174
+67,baseline,Isolation Forest without new_device,suspicious_success,29,22,0.7586206896551724
+67,familiar_slow,Rules,brute_force,45,0,0.0
+67,familiar_slow,Rules,password_spray,23,8,0.34782608695652173
+67,familiar_slow,Rules,suspicious_success,29,4,0.13793103448275862
+67,familiar_slow,Isolation Forest,brute_force,45,38,0.8444444444444444
+67,familiar_slow,Isolation Forest,password_spray,23,10,0.43478260869565216
+67,familiar_slow,Isolation Forest,suspicious_success,29,21,0.7241379310344828
+67,familiar_slow,Isolation Forest without new_device,brute_force,45,38,0.8444444444444444
+67,familiar_slow,Isolation Forest without new_device,password_spray,23,18,0.782608695652174
+67,familiar_slow,Isolation Forest without new_device,suspicious_success,29,22,0.7586206896551724
+79,baseline,Rules,brute_force,46,3,0.06521739130434782
+79,baseline,Rules,password_spray,20,6,0.3
+79,baseline,Rules,suspicious_success,20,5,0.25
+79,baseline,Isolation Forest,brute_force,46,46,1.0
+79,baseline,Isolation Forest,password_spray,20,20,1.0
+79,baseline,Isolation Forest,suspicious_success,20,20,1.0
+79,baseline,Isolation Forest without new_device,brute_force,46,39,0.8478260869565217
+79,baseline,Isolation Forest without new_device,password_spray,20,10,0.5
+79,baseline,Isolation Forest without new_device,suspicious_success,20,16,0.8
+79,familiar_slow,Rules,brute_force,46,0,0.0
+79,familiar_slow,Rules,password_spray,20,7,0.35
+79,familiar_slow,Rules,suspicious_success,20,3,0.15
+79,familiar_slow,Isolation Forest,brute_force,46,39,0.8478260869565217
+79,familiar_slow,Isolation Forest,password_spray,20,6,0.3
+79,familiar_slow,Isolation Forest,suspicious_success,20,12,0.6
+79,familiar_slow,Isolation Forest without new_device,brute_force,46,39,0.8478260869565217
+79,familiar_slow,Isolation Forest without new_device,password_spray,20,9,0.45
+79,familiar_slow,Isolation Forest without new_device,suspicious_success,20,14,0.7
+83,baseline,Rules,brute_force,46,5,0.10869565217391304
+83,baseline,Rules,password_spray,23,7,0.30434782608695654
+83,baseline,Rules,suspicious_success,18,3,0.16666666666666666
+83,baseline,Isolation Forest,brute_force,46,46,1.0
+83,baseline,Isolation Forest,password_spray,23,23,1.0
+83,baseline,Isolation Forest,suspicious_success,18,16,0.8888888888888888
+83,baseline,Isolation Forest without new_device,brute_force,46,38,0.8260869565217391
+83,baseline,Isolation Forest without new_device,password_spray,23,17,0.7391304347826086
+83,baseline,Isolation Forest without new_device,suspicious_success,18,13,0.7222222222222222
+83,familiar_slow,Rules,brute_force,46,0,0.0
+83,familiar_slow,Rules,password_spray,23,7,0.30434782608695654
+83,familiar_slow,Rules,suspicious_success,18,3,0.16666666666666666
+83,familiar_slow,Isolation Forest,brute_force,46,39,0.8478260869565217
+83,familiar_slow,Isolation Forest,password_spray,23,18,0.782608695652174
+83,familiar_slow,Isolation Forest,suspicious_success,18,12,0.6666666666666666
+83,familiar_slow,Isolation Forest without new_device,brute_force,46,38,0.8260869565217391
+83,familiar_slow,Isolation Forest without new_device,password_spray,23,17,0.7391304347826086
+83,familiar_slow,Isolation Forest without new_device,suspicious_success,18,13,0.7222222222222222
+97,baseline,Rules,brute_force,42,2,0.047619047619047616
+97,baseline,Rules,password_spray,14,0,0.0
+97,baseline,Rules,suspicious_success,24,4,0.16666666666666666
+97,baseline,Isolation Forest,brute_force,42,37,0.8809523809523809
+97,baseline,Isolation Forest,password_spray,14,14,1.0
+97,baseline,Isolation Forest,suspicious_success,24,16,0.6666666666666666
+97,baseline,Isolation Forest without new_device,brute_force,42,29,0.6904761904761905
+97,baseline,Isolation Forest without new_device,password_spray,14,9,0.6428571428571429
+97,baseline,Isolation Forest without new_device,suspicious_success,24,12,0.5
+97,familiar_slow,Rules,brute_force,42,0,0.0
+97,familiar_slow,Rules,password_spray,14,0,0.0
+97,familiar_slow,Rules,suspicious_success,24,4,0.16666666666666666
+97,familiar_slow,Isolation Forest,brute_force,42,27,0.6428571428571429
+97,familiar_slow,Isolation Forest,password_spray,14,10,0.7142857142857143
+97,familiar_slow,Isolation Forest,suspicious_success,24,15,0.625
+97,familiar_slow,Isolation Forest without new_device,brute_force,42,27,0.6428571428571429
+97,familiar_slow,Isolation Forest without new_device,password_spray,14,9,0.6428571428571429
+97,familiar_slow,Isolation Forest without new_device,suspicious_success,24,14,0.5833333333333334
+101,baseline,Rules,brute_force,47,7,0.14893617021276595
+101,baseline,Rules,password_spray,18,4,0.2222222222222222
+101,baseline,Rules,suspicious_success,28,6,0.21428571428571427
+101,baseline,Isolation Forest,brute_force,47,44,0.9361702127659575
+101,baseline,Isolation Forest,password_spray,18,18,1.0
+101,baseline,Isolation Forest,suspicious_success,28,23,0.8214285714285714
+101,baseline,Isolation Forest without new_device,brute_force,47,36,0.7659574468085106
+101,baseline,Isolation Forest without new_device,password_spray,18,12,0.6666666666666666
+101,baseline,Isolation Forest without new_device,suspicious_success,28,18,0.6428571428571429
+101,familiar_slow,Rules,brute_force,47,0,0.0
+101,familiar_slow,Rules,password_spray,18,4,0.2222222222222222
+101,familiar_slow,Rules,suspicious_success,28,4,0.14285714285714285
+101,familiar_slow,Isolation Forest,brute_force,47,36,0.7659574468085106
+101,familiar_slow,Isolation Forest,password_spray,18,13,0.7222222222222222
+101,familiar_slow,Isolation Forest,suspicious_success,28,19,0.6785714285714286
+101,familiar_slow,Isolation Forest without new_device,brute_force,47,36,0.7659574468085106
+101,familiar_slow,Isolation Forest without new_device,password_spray,18,14,0.7777777777777778
+101,familiar_slow,Isolation Forest without new_device,suspicious_success,28,19,0.6785714285714286

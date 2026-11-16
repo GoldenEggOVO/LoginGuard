@@ -1,0 +1,3073 @@
+seed,gap_seconds,familiar_device,shared_ip,method,episode_id,detected,latency_seconds
+103,20,False,False,Rules,10_0,0,
+103,20,False,False,Rules,10_1,0,
+103,20,False,False,Rules,10_2,1,120.0
+103,20,False,False,Rules,10_3,0,
+103,20,False,False,Rules,11_0,0,
+103,20,False,False,Rules,11_1,1,80.0
+103,20,False,False,Rules,11_2,1,80.0
+103,20,False,False,Rules,11_3,0,
+103,20,False,False,Rules,12_0,0,
+103,20,False,False,Rules,12_1,1,80.0
+103,20,False,False,Rules,12_2,1,60.0
+103,20,False,False,Rules,12_3,0,
+103,20,False,False,Rules,13_0,0,
+103,20,False,False,Rules,13_1,0,
+103,20,False,False,Rules,13_2,1,60.0
+103,20,False,False,Rules,13_3,0,
+103,20,False,False,Isolation Forest,10_0,1,0.0
+103,20,False,False,Isolation Forest,10_1,1,0.0
+103,20,False,False,Isolation Forest,10_2,1,0.0
+103,20,False,False,Isolation Forest,10_3,1,0.0
+103,20,False,False,Isolation Forest,11_0,1,0.0
+103,20,False,False,Isolation Forest,11_1,1,0.0
+103,20,False,False,Isolation Forest,11_2,1,0.0
+103,20,False,False,Isolation Forest,11_3,1,0.0
+103,20,False,False,Isolation Forest,12_0,1,0.0
+103,20,False,False,Isolation Forest,12_1,1,0.0
+103,20,False,False,Isolation Forest,12_2,1,0.0
+103,20,False,False,Isolation Forest,12_3,1,0.0
+103,20,False,False,Isolation Forest,13_0,1,0.0
+103,20,False,False,Isolation Forest,13_1,1,0.0
+103,20,False,False,Isolation Forest,13_2,1,0.0
+103,20,False,False,Isolation Forest,13_3,1,0.0
+103,20,False,True,Rules,10_0,0,
+103,20,False,True,Rules,10_1,1,60.0
+103,20,False,True,Rules,10_2,1,120.0
+103,20,False,True,Rules,10_3,0,
+103,20,False,True,Rules,11_0,0,
+103,20,False,True,Rules,11_1,1,60.0
+103,20,False,True,Rules,11_2,1,80.0
+103,20,False,True,Rules,11_3,0,
+103,20,False,True,Rules,12_0,0,
+103,20,False,True,Rules,12_1,1,80.0
+103,20,False,True,Rules,12_2,1,60.0
+103,20,False,True,Rules,12_3,0,
+103,20,False,True,Rules,13_0,0,
+103,20,False,True,Rules,13_1,0,
+103,20,False,True,Rules,13_2,1,60.0
+103,20,False,True,Rules,13_3,0,
+103,20,False,True,Isolation Forest,10_0,1,0.0
+103,20,False,True,Isolation Forest,10_1,1,0.0
+103,20,False,True,Isolation Forest,10_2,1,0.0
+103,20,False,True,Isolation Forest,10_3,1,0.0
+103,20,False,True,Isolation Forest,11_0,1,0.0
+103,20,False,True,Isolation Forest,11_1,1,0.0
+103,20,False,True,Isolation Forest,11_2,1,0.0
+103,20,False,True,Isolation Forest,11_3,1,0.0
+103,20,False,True,Isolation Forest,12_0,1,0.0
+103,20,False,True,Isolation Forest,12_1,1,0.0
+103,20,False,True,Isolation Forest,12_2,1,0.0
+103,20,False,True,Isolation Forest,12_3,1,0.0
+103,20,False,True,Isolation Forest,13_0,1,0.0
+103,20,False,True,Isolation Forest,13_1,1,0.0
+103,20,False,True,Isolation Forest,13_2,1,0.0
+103,20,False,True,Isolation Forest,13_3,1,0.0
+103,20,True,False,Rules,10_0,0,
+103,20,True,False,Rules,10_1,0,
+103,20,True,False,Rules,10_2,1,120.0
+103,20,True,False,Rules,10_3,0,
+103,20,True,False,Rules,11_0,0,
+103,20,True,False,Rules,11_1,1,80.0
+103,20,True,False,Rules,11_2,1,80.0
+103,20,True,False,Rules,11_3,0,
+103,20,True,False,Rules,12_0,0,
+103,20,True,False,Rules,12_1,1,80.0
+103,20,True,False,Rules,12_2,1,60.0
+103,20,True,False,Rules,12_3,0,
+103,20,True,False,Rules,13_0,0,
+103,20,True,False,Rules,13_1,0,
+103,20,True,False,Rules,13_2,1,60.0
+103,20,True,False,Rules,13_3,0,
+103,20,True,False,Isolation Forest,10_0,1,40.0
+103,20,True,False,Isolation Forest,10_1,1,20.0
+103,20,True,False,Isolation Forest,10_2,1,20.0
+103,20,True,False,Isolation Forest,10_3,1,40.0
+103,20,True,False,Isolation Forest,11_0,1,40.0
+103,20,True,False,Isolation Forest,11_1,1,40.0
+103,20,True,False,Isolation Forest,11_2,1,20.0
+103,20,True,False,Isolation Forest,11_3,1,40.0
+103,20,True,False,Isolation Forest,12_0,1,0.0
+103,20,True,False,Isolation Forest,12_1,1,40.0
+103,20,True,False,Isolation Forest,12_2,1,20.0
+103,20,True,False,Isolation Forest,12_3,1,20.0
+103,20,True,False,Isolation Forest,13_0,1,20.0
+103,20,True,False,Isolation Forest,13_1,1,40.0
+103,20,True,False,Isolation Forest,13_2,1,20.0
+103,20,True,False,Isolation Forest,13_3,1,40.0
+103,20,True,True,Rules,10_0,0,
+103,20,True,True,Rules,10_1,1,60.0
+103,20,True,True,Rules,10_2,1,120.0
+103,20,True,True,Rules,10_3,0,
+103,20,True,True,Rules,11_0,0,
+103,20,True,True,Rules,11_1,1,60.0
+103,20,True,True,Rules,11_2,1,80.0
+103,20,True,True,Rules,11_3,0,
+103,20,True,True,Rules,12_0,0,
+103,20,True,True,Rules,12_1,1,80.0
+103,20,True,True,Rules,12_2,1,60.0
+103,20,True,True,Rules,12_3,0,
+103,20,True,True,Rules,13_0,0,
+103,20,True,True,Rules,13_1,0,
+103,20,True,True,Rules,13_2,1,60.0
+103,20,True,True,Rules,13_3,0,
+103,20,True,True,Isolation Forest,10_0,1,40.0
+103,20,True,True,Isolation Forest,10_1,1,20.0
+103,20,True,True,Isolation Forest,10_2,1,20.0
+103,20,True,True,Isolation Forest,10_3,1,40.0
+103,20,True,True,Isolation Forest,11_0,1,40.0
+103,20,True,True,Isolation Forest,11_1,1,20.0
+103,20,True,True,Isolation Forest,11_2,1,20.0
+103,20,True,True,Isolation Forest,11_3,1,40.0
+103,20,True,True,Isolation Forest,12_0,1,0.0
+103,20,True,True,Isolation Forest,12_1,1,40.0
+103,20,True,True,Isolation Forest,12_2,1,20.0
+103,20,True,True,Isolation Forest,12_3,1,20.0
+103,20,True,True,Isolation Forest,13_0,1,20.0
+103,20,True,True,Isolation Forest,13_1,1,40.0
+103,20,True,True,Isolation Forest,13_2,1,20.0
+103,20,True,True,Isolation Forest,13_3,1,40.0
+103,60,False,False,Rules,10_0,0,
+103,60,False,False,Rules,10_1,0,
+103,60,False,False,Rules,10_2,1,360.0
+103,60,False,False,Rules,10_3,0,
+103,60,False,False,Rules,11_0,0,
+103,60,False,False,Rules,11_1,1,240.0
+103,60,False,False,Rules,11_2,1,240.0
+103,60,False,False,Rules,11_3,0,
+103,60,False,False,Rules,12_0,0,
+103,60,False,False,Rules,12_1,1,240.0
+103,60,False,False,Rules,12_2,1,180.0
+103,60,False,False,Rules,12_3,0,
+103,60,False,False,Rules,13_0,0,
+103,60,False,False,Rules,13_1,0,
+103,60,False,False,Rules,13_2,1,180.0
+103,60,False,False,Rules,13_3,0,
+103,60,False,False,Isolation Forest,10_0,1,0.0
+103,60,False,False,Isolation Forest,10_1,1,0.0
+103,60,False,False,Isolation Forest,10_2,1,0.0
+103,60,False,False,Isolation Forest,10_3,1,0.0
+103,60,False,False,Isolation Forest,11_0,1,0.0
+103,60,False,False,Isolation Forest,11_1,1,0.0
+103,60,False,False,Isolation Forest,11_2,1,0.0
+103,60,False,False,Isolation Forest,11_3,1,0.0
+103,60,False,False,Isolation Forest,12_0,1,0.0
+103,60,False,False,Isolation Forest,12_1,1,0.0
+103,60,False,False,Isolation Forest,12_2,1,0.0
+103,60,False,False,Isolation Forest,12_3,1,0.0
+103,60,False,False,Isolation Forest,13_0,1,0.0
+103,60,False,False,Isolation Forest,13_1,1,0.0
+103,60,False,False,Isolation Forest,13_2,1,0.0
+103,60,False,False,Isolation Forest,13_3,1,0.0
+103,60,False,True,Rules,10_0,0,
+103,60,False,True,Rules,10_1,1,180.0
+103,60,False,True,Rules,10_2,1,360.0
+103,60,False,True,Rules,10_3,0,
+103,60,False,True,Rules,11_0,0,
+103,60,False,True,Rules,11_1,1,240.0
+103,60,False,True,Rules,11_2,1,240.0
+103,60,False,True,Rules,11_3,0,
+103,60,False,True,Rules,12_0,0,
+103,60,False,True,Rules,12_1,1,240.0
+103,60,False,True,Rules,12_2,1,180.0
+103,60,False,True,Rules,12_3,0,
+103,60,False,True,Rules,13_0,0,
+103,60,False,True,Rules,13_1,0,
+103,60,False,True,Rules,13_2,1,180.0
+103,60,False,True,Rules,13_3,0,
+103,60,False,True,Isolation Forest,10_0,1,0.0
+103,60,False,True,Isolation Forest,10_1,1,0.0
+103,60,False,True,Isolation Forest,10_2,1,0.0
+103,60,False,True,Isolation Forest,10_3,1,0.0
+103,60,False,True,Isolation Forest,11_0,1,0.0
+103,60,False,True,Isolation Forest,11_1,1,0.0
+103,60,False,True,Isolation Forest,11_2,1,0.0
+103,60,False,True,Isolation Forest,11_3,1,0.0
+103,60,False,True,Isolation Forest,12_0,1,0.0
+103,60,False,True,Isolation Forest,12_1,1,0.0
+103,60,False,True,Isolation Forest,12_2,1,0.0
+103,60,False,True,Isolation Forest,12_3,1,0.0
+103,60,False,True,Isolation Forest,13_0,1,0.0
+103,60,False,True,Isolation Forest,13_1,1,0.0
+103,60,False,True,Isolation Forest,13_2,1,0.0
+103,60,False,True,Isolation Forest,13_3,1,0.0
+103,60,True,False,Rules,10_0,0,
+103,60,True,False,Rules,10_1,0,
+103,60,True,False,Rules,10_2,1,360.0
+103,60,True,False,Rules,10_3,0,
+103,60,True,False,Rules,11_0,0,
+103,60,True,False,Rules,11_1,1,240.0
+103,60,True,False,Rules,11_2,1,240.0
+103,60,True,False,Rules,11_3,0,
+103,60,True,False,Rules,12_0,0,
+103,60,True,False,Rules,12_1,1,240.0
+103,60,True,False,Rules,12_2,1,180.0
+103,60,True,False,Rules,12_3,0,
+103,60,True,False,Rules,13_0,0,
+103,60,True,False,Rules,13_1,0,
+103,60,True,False,Rules,13_2,1,180.0
+103,60,True,False,Rules,13_3,0,
+103,60,True,False,Isolation Forest,10_0,1,120.0
+103,60,True,False,Isolation Forest,10_1,1,60.0
+103,60,True,False,Isolation Forest,10_2,1,60.0
+103,60,True,False,Isolation Forest,10_3,1,120.0
+103,60,True,False,Isolation Forest,11_0,1,120.0
+103,60,True,False,Isolation Forest,11_1,1,120.0
+103,60,True,False,Isolation Forest,11_2,1,60.0
+103,60,True,False,Isolation Forest,11_3,1,120.0
+103,60,True,False,Isolation Forest,12_0,1,0.0
+103,60,True,False,Isolation Forest,12_1,1,120.0
+103,60,True,False,Isolation Forest,12_2,1,60.0
+103,60,True,False,Isolation Forest,12_3,1,60.0
+103,60,True,False,Isolation Forest,13_0,1,60.0
+103,60,True,False,Isolation Forest,13_1,1,120.0
+103,60,True,False,Isolation Forest,13_2,1,60.0
+103,60,True,False,Isolation Forest,13_3,1,120.0
+103,60,True,True,Rules,10_0,0,
+103,60,True,True,Rules,10_1,1,180.0
+103,60,True,True,Rules,10_2,1,360.0
+103,60,True,True,Rules,10_3,0,
+103,60,True,True,Rules,11_0,0,
+103,60,True,True,Rules,11_1,1,240.0
+103,60,True,True,Rules,11_2,1,240.0
+103,60,True,True,Rules,11_3,0,
+103,60,True,True,Rules,12_0,0,
+103,60,True,True,Rules,12_1,1,240.0
+103,60,True,True,Rules,12_2,1,180.0
+103,60,True,True,Rules,12_3,0,
+103,60,True,True,Rules,13_0,0,
+103,60,True,True,Rules,13_1,0,
+103,60,True,True,Rules,13_2,1,180.0
+103,60,True,True,Rules,13_3,0,
+103,60,True,True,Isolation Forest,10_0,1,120.0
+103,60,True,True,Isolation Forest,10_1,1,60.0
+103,60,True,True,Isolation Forest,10_2,1,60.0
+103,60,True,True,Isolation Forest,10_3,1,120.0
+103,60,True,True,Isolation Forest,11_0,1,120.0
+103,60,True,True,Isolation Forest,11_1,1,60.0
+103,60,True,True,Isolation Forest,11_2,1,60.0
+103,60,True,True,Isolation Forest,11_3,1,120.0
+103,60,True,True,Isolation Forest,12_0,1,0.0
+103,60,True,True,Isolation Forest,12_1,1,120.0
+103,60,True,True,Isolation Forest,12_2,1,60.0
+103,60,True,True,Isolation Forest,12_3,1,60.0
+103,60,True,True,Isolation Forest,13_0,1,60.0
+103,60,True,True,Isolation Forest,13_1,1,120.0
+103,60,True,True,Isolation Forest,13_2,1,60.0
+103,60,True,True,Isolation Forest,13_3,1,120.0
+103,150,False,False,Rules,10_0,0,
+103,150,False,False,Rules,10_1,0,
+103,150,False,False,Rules,10_2,1,900.0
+103,150,False,False,Rules,10_3,0,
+103,150,False,False,Rules,11_0,0,
+103,150,False,False,Rules,11_1,1,600.0
+103,150,False,False,Rules,11_2,1,600.0
+103,150,False,False,Rules,11_3,0,
+103,150,False,False,Rules,12_0,0,
+103,150,False,False,Rules,12_1,1,600.0
+103,150,False,False,Rules,12_2,1,450.0
+103,150,False,False,Rules,12_3,0,
+103,150,False,False,Rules,13_0,0,
+103,150,False,False,Rules,13_1,0,
+103,150,False,False,Rules,13_2,1,450.0
+103,150,False,False,Rules,13_3,0,
+103,150,False,False,Isolation Forest,10_0,1,0.0
+103,150,False,False,Isolation Forest,10_1,1,0.0
+103,150,False,False,Isolation Forest,10_2,1,0.0
+103,150,False,False,Isolation Forest,10_3,1,0.0
+103,150,False,False,Isolation Forest,11_0,1,0.0
+103,150,False,False,Isolation Forest,11_1,1,0.0
+103,150,False,False,Isolation Forest,11_2,1,0.0
+103,150,False,False,Isolation Forest,11_3,1,0.0
+103,150,False,False,Isolation Forest,12_0,1,0.0
+103,150,False,False,Isolation Forest,12_1,1,0.0
+103,150,False,False,Isolation Forest,12_2,1,0.0
+103,150,False,False,Isolation Forest,12_3,1,0.0
+103,150,False,False,Isolation Forest,13_0,1,0.0
+103,150,False,False,Isolation Forest,13_1,1,0.0
+103,150,False,False,Isolation Forest,13_2,1,0.0
+103,150,False,False,Isolation Forest,13_3,1,0.0
+103,150,False,True,Rules,10_0,0,
+103,150,False,True,Rules,10_1,0,
+103,150,False,True,Rules,10_2,1,900.0
+103,150,False,True,Rules,10_3,0,
+103,150,False,True,Rules,11_0,0,
+103,150,False,True,Rules,11_1,1,600.0
+103,150,False,True,Rules,11_2,1,600.0
+103,150,False,True,Rules,11_3,0,
+103,150,False,True,Rules,12_0,0,
+103,150,False,True,Rules,12_1,1,600.0
+103,150,False,True,Rules,12_2,1,450.0
+103,150,False,True,Rules,12_3,0,
+103,150,False,True,Rules,13_0,0,
+103,150,False,True,Rules,13_1,0,
+103,150,False,True,Rules,13_2,1,450.0
+103,150,False,True,Rules,13_3,0,
+103,150,False,True,Isolation Forest,10_0,1,0.0
+103,150,False,True,Isolation Forest,10_1,1,0.0
+103,150,False,True,Isolation Forest,10_2,1,0.0
+103,150,False,True,Isolation Forest,10_3,1,0.0
+103,150,False,True,Isolation Forest,11_0,1,0.0
+103,150,False,True,Isolation Forest,11_1,1,0.0
+103,150,False,True,Isolation Forest,11_2,1,0.0
+103,150,False,True,Isolation Forest,11_3,1,0.0
+103,150,False,True,Isolation Forest,12_0,1,0.0
+103,150,False,True,Isolation Forest,12_1,1,0.0
+103,150,False,True,Isolation Forest,12_2,1,0.0
+103,150,False,True,Isolation Forest,12_3,1,0.0
+103,150,False,True,Isolation Forest,13_0,1,0.0
+103,150,False,True,Isolation Forest,13_1,1,0.0
+103,150,False,True,Isolation Forest,13_2,1,0.0
+103,150,False,True,Isolation Forest,13_3,1,0.0
+103,150,True,False,Rules,10_0,0,
+103,150,True,False,Rules,10_1,0,
+103,150,True,False,Rules,10_2,1,900.0
+103,150,True,False,Rules,10_3,0,
+103,150,True,False,Rules,11_0,0,
+103,150,True,False,Rules,11_1,1,600.0
+103,150,True,False,Rules,11_2,1,600.0
+103,150,True,False,Rules,11_3,0,
+103,150,True,False,Rules,12_0,0,
+103,150,True,False,Rules,12_1,1,600.0
+103,150,True,False,Rules,12_2,1,450.0
+103,150,True,False,Rules,12_3,0,
+103,150,True,False,Rules,13_0,0,
+103,150,True,False,Rules,13_1,0,
+103,150,True,False,Rules,13_2,1,450.0
+103,150,True,False,Rules,13_3,0,
+103,150,True,False,Isolation Forest,10_0,1,300.0
+103,150,True,False,Isolation Forest,10_1,1,150.0
+103,150,True,False,Isolation Forest,10_2,1,150.0
+103,150,True,False,Isolation Forest,10_3,1,300.0
+103,150,True,False,Isolation Forest,11_0,1,300.0
+103,150,True,False,Isolation Forest,11_1,1,300.0
+103,150,True,False,Isolation Forest,11_2,1,150.0
+103,150,True,False,Isolation Forest,11_3,1,300.0
+103,150,True,False,Isolation Forest,12_0,1,0.0
+103,150,True,False,Isolation Forest,12_1,1,300.0
+103,150,True,False,Isolation Forest,12_2,1,150.0
+103,150,True,False,Isolation Forest,12_3,1,150.0
+103,150,True,False,Isolation Forest,13_0,1,150.0
+103,150,True,False,Isolation Forest,13_1,1,300.0
+103,150,True,False,Isolation Forest,13_2,1,150.0
+103,150,True,False,Isolation Forest,13_3,1,300.0
+103,150,True,True,Rules,10_0,0,
+103,150,True,True,Rules,10_1,0,
+103,150,True,True,Rules,10_2,1,900.0
+103,150,True,True,Rules,10_3,0,
+103,150,True,True,Rules,11_0,0,
+103,150,True,True,Rules,11_1,1,600.0
+103,150,True,True,Rules,11_2,1,600.0
+103,150,True,True,Rules,11_3,0,
+103,150,True,True,Rules,12_0,0,
+103,150,True,True,Rules,12_1,1,600.0
+103,150,True,True,Rules,12_2,1,450.0
+103,150,True,True,Rules,12_3,0,
+103,150,True,True,Rules,13_0,0,
+103,150,True,True,Rules,13_1,0,
+103,150,True,True,Rules,13_2,1,450.0
+103,150,True,True,Rules,13_3,0,
+103,150,True,True,Isolation Forest,10_0,1,300.0
+103,150,True,True,Isolation Forest,10_1,1,150.0
+103,150,True,True,Isolation Forest,10_2,1,150.0
+103,150,True,True,Isolation Forest,10_3,1,300.0
+103,150,True,True,Isolation Forest,11_0,1,300.0
+103,150,True,True,Isolation Forest,11_1,1,150.0
+103,150,True,True,Isolation Forest,11_2,1,150.0
+103,150,True,True,Isolation Forest,11_3,1,300.0
+103,150,True,True,Isolation Forest,12_0,1,0.0
+103,150,True,True,Isolation Forest,12_1,1,300.0
+103,150,True,True,Isolation Forest,12_2,1,150.0
+103,150,True,True,Isolation Forest,12_3,1,150.0
+103,150,True,True,Isolation Forest,13_0,1,150.0
+103,150,True,True,Isolation Forest,13_1,1,300.0
+103,150,True,True,Isolation Forest,13_2,1,150.0
+103,150,True,True,Isolation Forest,13_3,1,300.0
+107,20,False,False,Rules,10_0,0,
+107,20,False,False,Rules,10_1,1,80.0
+107,20,False,False,Rules,10_2,1,100.0
+107,20,False,False,Rules,10_3,0,
+107,20,False,False,Rules,11_0,0,
+107,20,False,False,Rules,11_1,0,
+107,20,False,False,Rules,11_2,1,140.0
+107,20,False,False,Rules,11_3,0,
+107,20,False,False,Rules,12_0,0,
+107,20,False,False,Rules,12_1,0,
+107,20,False,False,Rules,12_2,1,100.0
+107,20,False,False,Rules,12_3,0,
+107,20,False,False,Rules,13_0,0,
+107,20,False,False,Rules,13_1,1,80.0
+107,20,False,False,Rules,13_2,1,60.0
+107,20,False,False,Rules,13_3,0,
+107,20,False,False,Isolation Forest,10_0,1,0.0
+107,20,False,False,Isolation Forest,10_1,1,0.0
+107,20,False,False,Isolation Forest,10_2,1,0.0
+107,20,False,False,Isolation Forest,10_3,1,0.0
+107,20,False,False,Isolation Forest,11_0,1,0.0
+107,20,False,False,Isolation Forest,11_1,1,0.0
+107,20,False,False,Isolation Forest,11_2,1,0.0
+107,20,False,False,Isolation Forest,11_3,1,0.0
+107,20,False,False,Isolation Forest,12_0,1,0.0
+107,20,False,False,Isolation Forest,12_1,1,0.0
+107,20,False,False,Isolation Forest,12_2,1,0.0
+107,20,False,False,Isolation Forest,12_3,1,0.0
+107,20,False,False,Isolation Forest,13_0,1,0.0
+107,20,False,False,Isolation Forest,13_1,1,0.0
+107,20,False,False,Isolation Forest,13_2,1,0.0
+107,20,False,False,Isolation Forest,13_3,1,0.0
+107,20,False,True,Rules,10_0,0,
+107,20,False,True,Rules,10_1,1,80.0
+107,20,False,True,Rules,10_2,1,100.0
+107,20,False,True,Rules,10_3,0,
+107,20,False,True,Rules,11_0,0,
+107,20,False,True,Rules,11_1,0,
+107,20,False,True,Rules,11_2,1,140.0
+107,20,False,True,Rules,11_3,0,
+107,20,False,True,Rules,12_0,0,
+107,20,False,True,Rules,12_1,0,
+107,20,False,True,Rules,12_2,1,100.0
+107,20,False,True,Rules,12_3,0,
+107,20,False,True,Rules,13_0,0,
+107,20,False,True,Rules,13_1,1,80.0
+107,20,False,True,Rules,13_2,1,60.0
+107,20,False,True,Rules,13_3,0,
+107,20,False,True,Isolation Forest,10_0,1,0.0
+107,20,False,True,Isolation Forest,10_1,1,0.0
+107,20,False,True,Isolation Forest,10_2,1,0.0
+107,20,False,True,Isolation Forest,10_3,1,0.0
+107,20,False,True,Isolation Forest,11_0,1,0.0
+107,20,False,True,Isolation Forest,11_1,1,0.0
+107,20,False,True,Isolation Forest,11_2,1,0.0
+107,20,False,True,Isolation Forest,11_3,1,0.0
+107,20,False,True,Isolation Forest,12_0,1,0.0
+107,20,False,True,Isolation Forest,12_1,1,0.0
+107,20,False,True,Isolation Forest,12_2,1,0.0
+107,20,False,True,Isolation Forest,12_3,1,0.0
+107,20,False,True,Isolation Forest,13_0,1,0.0
+107,20,False,True,Isolation Forest,13_1,1,0.0
+107,20,False,True,Isolation Forest,13_2,1,0.0
+107,20,False,True,Isolation Forest,13_3,1,0.0
+107,20,True,False,Rules,10_0,0,
+107,20,True,False,Rules,10_1,1,80.0
+107,20,True,False,Rules,10_2,1,100.0
+107,20,True,False,Rules,10_3,0,
+107,20,True,False,Rules,11_0,0,
+107,20,True,False,Rules,11_1,0,
+107,20,True,False,Rules,11_2,1,140.0
+107,20,True,False,Rules,11_3,0,
+107,20,True,False,Rules,12_0,0,
+107,20,True,False,Rules,12_1,0,
+107,20,True,False,Rules,12_2,1,100.0
+107,20,True,False,Rules,12_3,0,
+107,20,True,False,Rules,13_0,0,
+107,20,True,False,Rules,13_1,1,80.0
+107,20,True,False,Rules,13_2,1,60.0
+107,20,True,False,Rules,13_3,0,
+107,20,True,False,Isolation Forest,10_0,1,20.0
+107,20,True,False,Isolation Forest,10_1,1,20.0
+107,20,True,False,Isolation Forest,10_2,1,40.0
+107,20,True,False,Isolation Forest,10_3,1,20.0
+107,20,True,False,Isolation Forest,11_0,1,0.0
+107,20,True,False,Isolation Forest,11_1,1,20.0
+107,20,True,False,Isolation Forest,11_2,1,20.0
+107,20,True,False,Isolation Forest,11_3,1,20.0
+107,20,True,False,Isolation Forest,12_0,1,20.0
+107,20,True,False,Isolation Forest,12_1,1,20.0
+107,20,True,False,Isolation Forest,12_2,1,20.0
+107,20,True,False,Isolation Forest,12_3,1,20.0
+107,20,True,False,Isolation Forest,13_0,1,40.0
+107,20,True,False,Isolation Forest,13_1,1,20.0
+107,20,True,False,Isolation Forest,13_2,1,20.0
+107,20,True,False,Isolation Forest,13_3,1,20.0
+107,20,True,True,Rules,10_0,0,
+107,20,True,True,Rules,10_1,1,80.0
+107,20,True,True,Rules,10_2,1,100.0
+107,20,True,True,Rules,10_3,0,
+107,20,True,True,Rules,11_0,0,
+107,20,True,True,Rules,11_1,0,
+107,20,True,True,Rules,11_2,1,140.0
+107,20,True,True,Rules,11_3,0,
+107,20,True,True,Rules,12_0,0,
+107,20,True,True,Rules,12_1,0,
+107,20,True,True,Rules,12_2,1,100.0
+107,20,True,True,Rules,12_3,0,
+107,20,True,True,Rules,13_0,0,
+107,20,True,True,Rules,13_1,1,80.0
+107,20,True,True,Rules,13_2,1,60.0
+107,20,True,True,Rules,13_3,0,
+107,20,True,True,Isolation Forest,10_0,1,0.0
+107,20,True,True,Isolation Forest,10_1,1,20.0
+107,20,True,True,Isolation Forest,10_2,1,40.0
+107,20,True,True,Isolation Forest,10_3,1,0.0
+107,20,True,True,Isolation Forest,11_0,1,0.0
+107,20,True,True,Isolation Forest,11_1,1,0.0
+107,20,True,True,Isolation Forest,11_2,1,20.0
+107,20,True,True,Isolation Forest,11_3,1,0.0
+107,20,True,True,Isolation Forest,12_0,1,0.0
+107,20,True,True,Isolation Forest,12_1,1,20.0
+107,20,True,True,Isolation Forest,12_2,1,20.0
+107,20,True,True,Isolation Forest,12_3,1,20.0
+107,20,True,True,Isolation Forest,13_0,1,40.0
+107,20,True,True,Isolation Forest,13_1,1,20.0
+107,20,True,True,Isolation Forest,13_2,1,20.0
+107,20,True,True,Isolation Forest,13_3,1,0.0
+107,60,False,False,Rules,10_0,0,
+107,60,False,False,Rules,10_1,1,240.0
+107,60,False,False,Rules,10_2,1,300.0
+107,60,False,False,Rules,10_3,0,
+107,60,False,False,Rules,11_0,0,
+107,60,False,False,Rules,11_1,0,
+107,60,False,False,Rules,11_2,0,
+107,60,False,False,Rules,11_3,0,
+107,60,False,False,Rules,12_0,0,
+107,60,False,False,Rules,12_1,0,
+107,60,False,False,Rules,12_2,1,300.0
+107,60,False,False,Rules,12_3,0,
+107,60,False,False,Rules,13_0,0,
+107,60,False,False,Rules,13_1,1,240.0
+107,60,False,False,Rules,13_2,1,180.0
+107,60,False,False,Rules,13_3,0,
+107,60,False,False,Isolation Forest,10_0,1,0.0
+107,60,False,False,Isolation Forest,10_1,1,0.0
+107,60,False,False,Isolation Forest,10_2,1,0.0
+107,60,False,False,Isolation Forest,10_3,1,0.0
+107,60,False,False,Isolation Forest,11_0,1,0.0
+107,60,False,False,Isolation Forest,11_1,1,0.0
+107,60,False,False,Isolation Forest,11_2,1,0.0
+107,60,False,False,Isolation Forest,11_3,1,0.0
+107,60,False,False,Isolation Forest,12_0,1,0.0
+107,60,False,False,Isolation Forest,12_1,1,0.0
+107,60,False,False,Isolation Forest,12_2,1,0.0
+107,60,False,False,Isolation Forest,12_3,1,0.0
+107,60,False,False,Isolation Forest,13_0,1,0.0
+107,60,False,False,Isolation Forest,13_1,1,0.0
+107,60,False,False,Isolation Forest,13_2,1,0.0
+107,60,False,False,Isolation Forest,13_3,1,0.0
+107,60,False,True,Rules,10_0,0,
+107,60,False,True,Rules,10_1,1,240.0
+107,60,False,True,Rules,10_2,1,300.0
+107,60,False,True,Rules,10_3,0,
+107,60,False,True,Rules,11_0,0,
+107,60,False,True,Rules,11_1,0,
+107,60,False,True,Rules,11_2,0,
+107,60,False,True,Rules,11_3,0,
+107,60,False,True,Rules,12_0,0,
+107,60,False,True,Rules,12_1,0,
+107,60,False,True,Rules,12_2,1,300.0
+107,60,False,True,Rules,12_3,0,
+107,60,False,True,Rules,13_0,0,
+107,60,False,True,Rules,13_1,1,240.0
+107,60,False,True,Rules,13_2,1,180.0
+107,60,False,True,Rules,13_3,0,
+107,60,False,True,Isolation Forest,10_0,1,0.0
+107,60,False,True,Isolation Forest,10_1,1,0.0
+107,60,False,True,Isolation Forest,10_2,1,0.0
+107,60,False,True,Isolation Forest,10_3,1,0.0
+107,60,False,True,Isolation Forest,11_0,1,0.0
+107,60,False,True,Isolation Forest,11_1,1,0.0
+107,60,False,True,Isolation Forest,11_2,1,0.0
+107,60,False,True,Isolation Forest,11_3,1,0.0
+107,60,False,True,Isolation Forest,12_0,1,0.0
+107,60,False,True,Isolation Forest,12_1,1,0.0
+107,60,False,True,Isolation Forest,12_2,1,0.0
+107,60,False,True,Isolation Forest,12_3,1,0.0
+107,60,False,True,Isolation Forest,13_0,1,0.0
+107,60,False,True,Isolation Forest,13_1,1,0.0
+107,60,False,True,Isolation Forest,13_2,1,0.0
+107,60,False,True,Isolation Forest,13_3,1,0.0
+107,60,True,False,Rules,10_0,0,
+107,60,True,False,Rules,10_1,1,240.0
+107,60,True,False,Rules,10_2,1,300.0
+107,60,True,False,Rules,10_3,0,
+107,60,True,False,Rules,11_0,0,
+107,60,True,False,Rules,11_1,0,
+107,60,True,False,Rules,11_2,0,
+107,60,True,False,Rules,11_3,0,
+107,60,True,False,Rules,12_0,0,
+107,60,True,False,Rules,12_1,0,
+107,60,True,False,Rules,12_2,1,300.0
+107,60,True,False,Rules,12_3,0,
+107,60,True,False,Rules,13_0,0,
+107,60,True,False,Rules,13_1,1,240.0
+107,60,True,False,Rules,13_2,1,180.0
+107,60,True,False,Rules,13_3,0,
+107,60,True,False,Isolation Forest,10_0,1,60.0
+107,60,True,False,Isolation Forest,10_1,1,60.0
+107,60,True,False,Isolation Forest,10_2,1,120.0
+107,60,True,False,Isolation Forest,10_3,1,60.0
+107,60,True,False,Isolation Forest,11_0,1,0.0
+107,60,True,False,Isolation Forest,11_1,1,60.0
+107,60,True,False,Isolation Forest,11_2,1,60.0
+107,60,True,False,Isolation Forest,11_3,1,60.0
+107,60,True,False,Isolation Forest,12_0,1,60.0
+107,60,True,False,Isolation Forest,12_1,1,60.0
+107,60,True,False,Isolation Forest,12_2,1,60.0
+107,60,True,False,Isolation Forest,12_3,1,60.0
+107,60,True,False,Isolation Forest,13_0,1,120.0
+107,60,True,False,Isolation Forest,13_1,1,60.0
+107,60,True,False,Isolation Forest,13_2,1,60.0
+107,60,True,False,Isolation Forest,13_3,1,60.0
+107,60,True,True,Rules,10_0,0,
+107,60,True,True,Rules,10_1,1,240.0
+107,60,True,True,Rules,10_2,1,300.0
+107,60,True,True,Rules,10_3,0,
+107,60,True,True,Rules,11_0,0,
+107,60,True,True,Rules,11_1,0,
+107,60,True,True,Rules,11_2,0,
+107,60,True,True,Rules,11_3,0,
+107,60,True,True,Rules,12_0,0,
+107,60,True,True,Rules,12_1,0,
+107,60,True,True,Rules,12_2,1,300.0
+107,60,True,True,Rules,12_3,0,
+107,60,True,True,Rules,13_0,0,
+107,60,True,True,Rules,13_1,1,240.0
+107,60,True,True,Rules,13_2,1,180.0
+107,60,True,True,Rules,13_3,0,
+107,60,True,True,Isolation Forest,10_0,1,0.0
+107,60,True,True,Isolation Forest,10_1,1,60.0
+107,60,True,True,Isolation Forest,10_2,1,120.0
+107,60,True,True,Isolation Forest,10_3,1,0.0
+107,60,True,True,Isolation Forest,11_0,1,0.0
+107,60,True,True,Isolation Forest,11_1,1,0.0
+107,60,True,True,Isolation Forest,11_2,1,60.0
+107,60,True,True,Isolation Forest,11_3,1,0.0
+107,60,True,True,Isolation Forest,12_0,1,0.0
+107,60,True,True,Isolation Forest,12_1,1,60.0
+107,60,True,True,Isolation Forest,12_2,1,60.0
+107,60,True,True,Isolation Forest,12_3,1,60.0
+107,60,True,True,Isolation Forest,13_0,1,120.0
+107,60,True,True,Isolation Forest,13_1,1,60.0
+107,60,True,True,Isolation Forest,13_2,1,60.0
+107,60,True,True,Isolation Forest,13_3,1,0.0
+107,150,False,False,Rules,10_0,0,
+107,150,False,False,Rules,10_1,1,600.0
+107,150,False,False,Rules,10_2,1,750.0
+107,150,False,False,Rules,10_3,0,
+107,150,False,False,Rules,11_0,0,
+107,150,False,False,Rules,11_1,0,
+107,150,False,False,Rules,11_2,1,1050.0
+107,150,False,False,Rules,11_3,0,
+107,150,False,False,Rules,12_0,0,
+107,150,False,False,Rules,12_1,0,
+107,150,False,False,Rules,12_2,1,750.0
+107,150,False,False,Rules,12_3,0,
+107,150,False,False,Rules,13_0,0,
+107,150,False,False,Rules,13_1,1,600.0
+107,150,False,False,Rules,13_2,1,450.0
+107,150,False,False,Rules,13_3,0,
+107,150,False,False,Isolation Forest,10_0,1,0.0
+107,150,False,False,Isolation Forest,10_1,1,0.0
+107,150,False,False,Isolation Forest,10_2,1,0.0
+107,150,False,False,Isolation Forest,10_3,1,0.0
+107,150,False,False,Isolation Forest,11_0,1,0.0
+107,150,False,False,Isolation Forest,11_1,1,0.0
+107,150,False,False,Isolation Forest,11_2,1,0.0
+107,150,False,False,Isolation Forest,11_3,1,0.0
+107,150,False,False,Isolation Forest,12_0,1,0.0
+107,150,False,False,Isolation Forest,12_1,1,0.0
+107,150,False,False,Isolation Forest,12_2,1,0.0
+107,150,False,False,Isolation Forest,12_3,1,0.0
+107,150,False,False,Isolation Forest,13_0,1,0.0
+107,150,False,False,Isolation Forest,13_1,1,0.0
+107,150,False,False,Isolation Forest,13_2,1,0.0
+107,150,False,False,Isolation Forest,13_3,1,0.0
+107,150,False,True,Rules,10_0,0,
+107,150,False,True,Rules,10_1,1,600.0
+107,150,False,True,Rules,10_2,1,750.0
+107,150,False,True,Rules,10_3,0,
+107,150,False,True,Rules,11_0,0,
+107,150,False,True,Rules,11_1,0,
+107,150,False,True,Rules,11_2,1,1050.0
+107,150,False,True,Rules,11_3,0,
+107,150,False,True,Rules,12_0,0,
+107,150,False,True,Rules,12_1,0,
+107,150,False,True,Rules,12_2,1,750.0
+107,150,False,True,Rules,12_3,0,
+107,150,False,True,Rules,13_0,0,
+107,150,False,True,Rules,13_1,1,600.0
+107,150,False,True,Rules,13_2,1,450.0
+107,150,False,True,Rules,13_3,0,
+107,150,False,True,Isolation Forest,10_0,1,0.0
+107,150,False,True,Isolation Forest,10_1,1,0.0
+107,150,False,True,Isolation Forest,10_2,1,0.0
+107,150,False,True,Isolation Forest,10_3,1,0.0
+107,150,False,True,Isolation Forest,11_0,1,0.0
+107,150,False,True,Isolation Forest,11_1,1,0.0
+107,150,False,True,Isolation Forest,11_2,1,0.0
+107,150,False,True,Isolation Forest,11_3,1,0.0
+107,150,False,True,Isolation Forest,12_0,1,0.0
+107,150,False,True,Isolation Forest,12_1,1,0.0
+107,150,False,True,Isolation Forest,12_2,1,0.0
+107,150,False,True,Isolation Forest,12_3,1,0.0
+107,150,False,True,Isolation Forest,13_0,1,0.0
+107,150,False,True,Isolation Forest,13_1,1,0.0
+107,150,False,True,Isolation Forest,13_2,1,0.0
+107,150,False,True,Isolation Forest,13_3,1,0.0
+107,150,True,False,Rules,10_0,0,
+107,150,True,False,Rules,10_1,1,600.0
+107,150,True,False,Rules,10_2,1,750.0
+107,150,True,False,Rules,10_3,0,
+107,150,True,False,Rules,11_0,0,
+107,150,True,False,Rules,11_1,0,
+107,150,True,False,Rules,11_2,1,1050.0
+107,150,True,False,Rules,11_3,0,
+107,150,True,False,Rules,12_0,0,
+107,150,True,False,Rules,12_1,0,
+107,150,True,False,Rules,12_2,1,750.0
+107,150,True,False,Rules,12_3,0,
+107,150,True,False,Rules,13_0,0,
+107,150,True,False,Rules,13_1,1,600.0
+107,150,True,False,Rules,13_2,1,450.0
+107,150,True,False,Rules,13_3,0,
+107,150,True,False,Isolation Forest,10_0,1,150.0
+107,150,True,False,Isolation Forest,10_1,1,150.0
+107,150,True,False,Isolation Forest,10_2,1,300.0
+107,150,True,False,Isolation Forest,10_3,1,150.0
+107,150,True,False,Isolation Forest,11_0,1,0.0
+107,150,True,False,Isolation Forest,11_1,1,150.0
+107,150,True,False,Isolation Forest,11_2,1,150.0
+107,150,True,False,Isolation Forest,11_3,1,150.0
+107,150,True,False,Isolation Forest,12_0,1,150.0
+107,150,True,False,Isolation Forest,12_1,1,150.0
+107,150,True,False,Isolation Forest,12_2,1,150.0
+107,150,True,False,Isolation Forest,12_3,1,150.0
+107,150,True,False,Isolation Forest,13_0,1,300.0
+107,150,True,False,Isolation Forest,13_1,1,150.0
+107,150,True,False,Isolation Forest,13_2,1,150.0
+107,150,True,False,Isolation Forest,13_3,1,150.0
+107,150,True,True,Rules,10_0,0,
+107,150,True,True,Rules,10_1,1,600.0
+107,150,True,True,Rules,10_2,1,750.0
+107,150,True,True,Rules,10_3,0,
+107,150,True,True,Rules,11_0,0,
+107,150,True,True,Rules,11_1,0,
+107,150,True,True,Rules,11_2,1,1050.0
+107,150,True,True,Rules,11_3,0,
+107,150,True,True,Rules,12_0,0,
+107,150,True,True,Rules,12_1,0,
+107,150,True,True,Rules,12_2,1,750.0
+107,150,True,True,Rules,12_3,0,
+107,150,True,True,Rules,13_0,0,
+107,150,True,True,Rules,13_1,1,600.0
+107,150,True,True,Rules,13_2,1,450.0
+107,150,True,True,Rules,13_3,0,
+107,150,True,True,Isolation Forest,10_0,1,0.0
+107,150,True,True,Isolation Forest,10_1,1,150.0
+107,150,True,True,Isolation Forest,10_2,1,300.0
+107,150,True,True,Isolation Forest,10_3,1,0.0
+107,150,True,True,Isolation Forest,11_0,1,0.0
+107,150,True,True,Isolation Forest,11_1,1,0.0
+107,150,True,True,Isolation Forest,11_2,1,150.0
+107,150,True,True,Isolation Forest,11_3,1,0.0
+107,150,True,True,Isolation Forest,12_0,1,0.0
+107,150,True,True,Isolation Forest,12_1,1,150.0
+107,150,True,True,Isolation Forest,12_2,1,150.0
+107,150,True,True,Isolation Forest,12_3,1,150.0
+107,150,True,True,Isolation Forest,13_0,1,300.0
+107,150,True,True,Isolation Forest,13_1,1,150.0
+107,150,True,True,Isolation Forest,13_2,1,150.0
+107,150,True,True,Isolation Forest,13_3,1,0.0
+109,20,False,False,Rules,10_0,0,
+109,20,False,False,Rules,10_1,1,80.0
+109,20,False,False,Rules,10_2,1,140.0
+109,20,False,False,Rules,10_3,0,
+109,20,False,False,Rules,11_0,0,
+109,20,False,False,Rules,11_1,1,80.0
+109,20,False,False,Rules,11_2,1,140.0
+109,20,False,False,Rules,11_3,0,
+109,20,False,False,Rules,12_0,0,
+109,20,False,False,Rules,12_1,1,80.0
+109,20,False,False,Rules,12_2,1,100.0
+109,20,False,False,Rules,12_3,0,
+109,20,False,False,Rules,13_0,0,
+109,20,False,False,Rules,13_1,1,80.0
+109,20,False,False,Rules,13_2,1,120.0
+109,20,False,False,Rules,13_3,0,
+109,20,False,False,Isolation Forest,10_0,1,0.0
+109,20,False,False,Isolation Forest,10_1,1,0.0
+109,20,False,False,Isolation Forest,10_2,1,0.0
+109,20,False,False,Isolation Forest,10_3,1,0.0
+109,20,False,False,Isolation Forest,11_0,1,0.0
+109,20,False,False,Isolation Forest,11_1,1,0.0
+109,20,False,False,Isolation Forest,11_2,1,0.0
+109,20,False,False,Isolation Forest,11_3,1,0.0
+109,20,False,False,Isolation Forest,12_0,1,0.0
+109,20,False,False,Isolation Forest,12_1,1,0.0
+109,20,False,False,Isolation Forest,12_2,1,0.0
+109,20,False,False,Isolation Forest,12_3,1,0.0
+109,20,False,False,Isolation Forest,13_0,1,0.0
+109,20,False,False,Isolation Forest,13_1,1,0.0
+109,20,False,False,Isolation Forest,13_2,1,0.0
+109,20,False,False,Isolation Forest,13_3,1,0.0
+109,20,False,True,Rules,10_0,0,
+109,20,False,True,Rules,10_1,1,40.0
+109,20,False,True,Rules,10_2,1,140.0
+109,20,False,True,Rules,10_3,0,
+109,20,False,True,Rules,11_0,0,
+109,20,False,True,Rules,11_1,1,80.0
+109,20,False,True,Rules,11_2,1,140.0
+109,20,False,True,Rules,11_3,0,
+109,20,False,True,Rules,12_0,0,
+109,20,False,True,Rules,12_1,1,80.0
+109,20,False,True,Rules,12_2,1,100.0
+109,20,False,True,Rules,12_3,0,
+109,20,False,True,Rules,13_0,0,
+109,20,False,True,Rules,13_1,1,80.0
+109,20,False,True,Rules,13_2,1,120.0
+109,20,False,True,Rules,13_3,0,
+109,20,False,True,Isolation Forest,10_0,1,0.0
+109,20,False,True,Isolation Forest,10_1,1,0.0
+109,20,False,True,Isolation Forest,10_2,1,0.0
+109,20,False,True,Isolation Forest,10_3,1,0.0
+109,20,False,True,Isolation Forest,11_0,1,0.0
+109,20,False,True,Isolation Forest,11_1,1,0.0
+109,20,False,True,Isolation Forest,11_2,1,0.0
+109,20,False,True,Isolation Forest,11_3,1,0.0
+109,20,False,True,Isolation Forest,12_0,1,0.0
+109,20,False,True,Isolation Forest,12_1,1,0.0
+109,20,False,True,Isolation Forest,12_2,1,0.0
+109,20,False,True,Isolation Forest,12_3,1,0.0
+109,20,False,True,Isolation Forest,13_0,1,0.0
+109,20,False,True,Isolation Forest,13_1,1,0.0
+109,20,False,True,Isolation Forest,13_2,1,0.0
+109,20,False,True,Isolation Forest,13_3,1,0.0
+109,20,True,False,Rules,10_0,0,
+109,20,True,False,Rules,10_1,1,80.0
+109,20,True,False,Rules,10_2,1,140.0
+109,20,True,False,Rules,10_3,0,
+109,20,True,False,Rules,11_0,0,
+109,20,True,False,Rules,11_1,1,80.0
+109,20,True,False,Rules,11_2,1,140.0
+109,20,True,False,Rules,11_3,0,
+109,20,True,False,Rules,12_0,0,
+109,20,True,False,Rules,12_1,1,80.0
+109,20,True,False,Rules,12_2,1,100.0
+109,20,True,False,Rules,12_3,0,
+109,20,True,False,Rules,13_0,0,
+109,20,True,False,Rules,13_1,1,80.0
+109,20,True,False,Rules,13_2,1,120.0
+109,20,True,False,Rules,13_3,0,
+109,20,True,False,Isolation Forest,10_0,1,20.0
+109,20,True,False,Isolation Forest,10_1,1,20.0
+109,20,True,False,Isolation Forest,10_2,1,20.0
+109,20,True,False,Isolation Forest,10_3,1,20.0
+109,20,True,False,Isolation Forest,11_0,1,20.0
+109,20,True,False,Isolation Forest,11_1,1,20.0
+109,20,True,False,Isolation Forest,11_2,1,20.0
+109,20,True,False,Isolation Forest,11_3,1,40.0
+109,20,True,False,Isolation Forest,12_0,1,20.0
+109,20,True,False,Isolation Forest,12_1,1,40.0
+109,20,True,False,Isolation Forest,12_2,1,40.0
+109,20,True,False,Isolation Forest,12_3,1,20.0
+109,20,True,False,Isolation Forest,13_0,1,20.0
+109,20,True,False,Isolation Forest,13_1,1,0.0
+109,20,True,False,Isolation Forest,13_2,1,20.0
+109,20,True,False,Isolation Forest,13_3,1,0.0
+109,20,True,True,Rules,10_0,0,
+109,20,True,True,Rules,10_1,1,40.0
+109,20,True,True,Rules,10_2,1,140.0
+109,20,True,True,Rules,10_3,0,
+109,20,True,True,Rules,11_0,0,
+109,20,True,True,Rules,11_1,1,80.0
+109,20,True,True,Rules,11_2,1,140.0
+109,20,True,True,Rules,11_3,0,
+109,20,True,True,Rules,12_0,0,
+109,20,True,True,Rules,12_1,1,80.0
+109,20,True,True,Rules,12_2,1,100.0
+109,20,True,True,Rules,12_3,0,
+109,20,True,True,Rules,13_0,0,
+109,20,True,True,Rules,13_1,1,80.0
+109,20,True,True,Rules,13_2,1,120.0
+109,20,True,True,Rules,13_3,0,
+109,20,True,True,Isolation Forest,10_0,1,20.0
+109,20,True,True,Isolation Forest,10_1,1,0.0
+109,20,True,True,Isolation Forest,10_2,1,20.0
+109,20,True,True,Isolation Forest,10_3,1,20.0
+109,20,True,True,Isolation Forest,11_0,1,20.0
+109,20,True,True,Isolation Forest,11_1,1,20.0
+109,20,True,True,Isolation Forest,11_2,1,20.0
+109,20,True,True,Isolation Forest,11_3,1,40.0
+109,20,True,True,Isolation Forest,12_0,1,20.0
+109,20,True,True,Isolation Forest,12_1,1,40.0
+109,20,True,True,Isolation Forest,12_2,1,40.0
+109,20,True,True,Isolation Forest,12_3,1,20.0
+109,20,True,True,Isolation Forest,13_0,1,20.0
+109,20,True,True,Isolation Forest,13_1,1,0.0
+109,20,True,True,Isolation Forest,13_2,1,20.0
+109,20,True,True,Isolation Forest,13_3,1,0.0
+109,60,False,False,Rules,10_0,0,
+109,60,False,False,Rules,10_1,1,240.0
+109,60,False,False,Rules,10_2,1,420.0
+109,60,False,False,Rules,10_3,0,
+109,60,False,False,Rules,11_0,0,
+109,60,False,False,Rules,11_1,1,240.0
+109,60,False,False,Rules,11_2,1,420.0
+109,60,False,False,Rules,11_3,0,
+109,60,False,False,Rules,12_0,0,
+109,60,False,False,Rules,12_1,1,240.0
+109,60,False,False,Rules,12_2,1,300.0
+109,60,False,False,Rules,12_3,0,
+109,60,False,False,Rules,13_0,0,
+109,60,False,False,Rules,13_1,1,240.0
+109,60,False,False,Rules,13_2,1,360.0
+109,60,False,False,Rules,13_3,0,
+109,60,False,False,Isolation Forest,10_0,1,0.0
+109,60,False,False,Isolation Forest,10_1,1,0.0
+109,60,False,False,Isolation Forest,10_2,1,0.0
+109,60,False,False,Isolation Forest,10_3,1,0.0
+109,60,False,False,Isolation Forest,11_0,1,0.0
+109,60,False,False,Isolation Forest,11_1,1,0.0
+109,60,False,False,Isolation Forest,11_2,1,0.0
+109,60,False,False,Isolation Forest,11_3,1,0.0
+109,60,False,False,Isolation Forest,12_0,1,0.0
+109,60,False,False,Isolation Forest,12_1,1,0.0
+109,60,False,False,Isolation Forest,12_2,1,0.0
+109,60,False,False,Isolation Forest,12_3,1,0.0
+109,60,False,False,Isolation Forest,13_0,1,0.0
+109,60,False,False,Isolation Forest,13_1,1,0.0
+109,60,False,False,Isolation Forest,13_2,1,0.0
+109,60,False,False,Isolation Forest,13_3,1,0.0
+109,60,False,True,Rules,10_0,0,
+109,60,False,True,Rules,10_1,1,120.0
+109,60,False,True,Rules,10_2,1,420.0
+109,60,False,True,Rules,10_3,0,
+109,60,False,True,Rules,11_0,0,
+109,60,False,True,Rules,11_1,1,240.0
+109,60,False,True,Rules,11_2,1,420.0
+109,60,False,True,Rules,11_3,0,
+109,60,False,True,Rules,12_0,0,
+109,60,False,True,Rules,12_1,1,240.0
+109,60,False,True,Rules,12_2,1,300.0
+109,60,False,True,Rules,12_3,0,
+109,60,False,True,Rules,13_0,0,
+109,60,False,True,Rules,13_1,1,240.0
+109,60,False,True,Rules,13_2,1,360.0
+109,60,False,True,Rules,13_3,0,
+109,60,False,True,Isolation Forest,10_0,1,0.0
+109,60,False,True,Isolation Forest,10_1,1,0.0
+109,60,False,True,Isolation Forest,10_2,1,0.0
+109,60,False,True,Isolation Forest,10_3,1,0.0
+109,60,False,True,Isolation Forest,11_0,1,0.0
+109,60,False,True,Isolation Forest,11_1,1,0.0
+109,60,False,True,Isolation Forest,11_2,1,0.0
+109,60,False,True,Isolation Forest,11_3,1,0.0
+109,60,False,True,Isolation Forest,12_0,1,0.0
+109,60,False,True,Isolation Forest,12_1,1,0.0
+109,60,False,True,Isolation Forest,12_2,1,0.0
+109,60,False,True,Isolation Forest,12_3,1,0.0
+109,60,False,True,Isolation Forest,13_0,1,0.0
+109,60,False,True,Isolation Forest,13_1,1,0.0
+109,60,False,True,Isolation Forest,13_2,1,0.0
+109,60,False,True,Isolation Forest,13_3,1,0.0
+109,60,True,False,Rules,10_0,0,
+109,60,True,False,Rules,10_1,1,240.0
+109,60,True,False,Rules,10_2,1,420.0
+109,60,True,False,Rules,10_3,0,
+109,60,True,False,Rules,11_0,0,
+109,60,True,False,Rules,11_1,1,240.0
+109,60,True,False,Rules,11_2,1,420.0
+109,60,True,False,Rules,11_3,0,
+109,60,True,False,Rules,12_0,0,
+109,60,True,False,Rules,12_1,1,240.0
+109,60,True,False,Rules,12_2,1,300.0
+109,60,True,False,Rules,12_3,0,
+109,60,True,False,Rules,13_0,0,
+109,60,True,False,Rules,13_1,1,240.0
+109,60,True,False,Rules,13_2,1,360.0
+109,60,True,False,Rules,13_3,0,
+109,60,True,False,Isolation Forest,10_0,1,60.0
+109,60,True,False,Isolation Forest,10_1,1,60.0
+109,60,True,False,Isolation Forest,10_2,1,60.0
+109,60,True,False,Isolation Forest,10_3,1,60.0
+109,60,True,False,Isolation Forest,11_0,1,60.0
+109,60,True,False,Isolation Forest,11_1,1,60.0
+109,60,True,False,Isolation Forest,11_2,1,60.0
+109,60,True,False,Isolation Forest,11_3,1,120.0
+109,60,True,False,Isolation Forest,12_0,1,60.0
+109,60,True,False,Isolation Forest,12_1,1,120.0
+109,60,True,False,Isolation Forest,12_2,1,120.0
+109,60,True,False,Isolation Forest,12_3,1,60.0
+109,60,True,False,Isolation Forest,13_0,1,60.0
+109,60,True,False,Isolation Forest,13_1,1,0.0
+109,60,True,False,Isolation Forest,13_2,1,60.0
+109,60,True,False,Isolation Forest,13_3,1,0.0
+109,60,True,True,Rules,10_0,0,
+109,60,True,True,Rules,10_1,1,120.0
+109,60,True,True,Rules,10_2,1,420.0
+109,60,True,True,Rules,10_3,0,
+109,60,True,True,Rules,11_0,0,
+109,60,True,True,Rules,11_1,1,240.0
+109,60,True,True,Rules,11_2,1,420.0
+109,60,True,True,Rules,11_3,0,
+109,60,True,True,Rules,12_0,0,
+109,60,True,True,Rules,12_1,1,240.0
+109,60,True,True,Rules,12_2,1,300.0
+109,60,True,True,Rules,12_3,0,
+109,60,True,True,Rules,13_0,0,
+109,60,True,True,Rules,13_1,1,240.0
+109,60,True,True,Rules,13_2,1,360.0
+109,60,True,True,Rules,13_3,0,
+109,60,True,True,Isolation Forest,10_0,1,60.0
+109,60,True,True,Isolation Forest,10_1,1,0.0
+109,60,True,True,Isolation Forest,10_2,1,60.0
+109,60,True,True,Isolation Forest,10_3,1,60.0
+109,60,True,True,Isolation Forest,11_0,1,60.0
+109,60,True,True,Isolation Forest,11_1,1,60.0
+109,60,True,True,Isolation Forest,11_2,1,60.0
+109,60,True,True,Isolation Forest,11_3,1,120.0
+109,60,True,True,Isolation Forest,12_0,1,60.0
+109,60,True,True,Isolation Forest,12_1,1,120.0
+109,60,True,True,Isolation Forest,12_2,1,120.0
+109,60,True,True,Isolation Forest,12_3,1,60.0
+109,60,True,True,Isolation Forest,13_0,1,60.0
+109,60,True,True,Isolation Forest,13_1,1,0.0
+109,60,True,True,Isolation Forest,13_2,1,60.0
+109,60,True,True,Isolation Forest,13_3,1,0.0
+109,150,False,False,Rules,10_0,0,
+109,150,False,False,Rules,10_1,1,600.0
+109,150,False,False,Rules,10_2,1,1050.0
+109,150,False,False,Rules,10_3,0,
+109,150,False,False,Rules,11_0,0,
+109,150,False,False,Rules,11_1,1,600.0
+109,150,False,False,Rules,11_2,1,1050.0
+109,150,False,False,Rules,11_3,0,
+109,150,False,False,Rules,12_0,0,
+109,150,False,False,Rules,12_1,1,600.0
+109,150,False,False,Rules,12_2,1,750.0
+109,150,False,False,Rules,12_3,0,
+109,150,False,False,Rules,13_0,0,
+109,150,False,False,Rules,13_1,1,600.0
+109,150,False,False,Rules,13_2,1,900.0
+109,150,False,False,Rules,13_3,0,
+109,150,False,False,Isolation Forest,10_0,1,0.0
+109,150,False,False,Isolation Forest,10_1,1,0.0
+109,150,False,False,Isolation Forest,10_2,1,0.0
+109,150,False,False,Isolation Forest,10_3,1,0.0
+109,150,False,False,Isolation Forest,11_0,1,0.0
+109,150,False,False,Isolation Forest,11_1,1,0.0
+109,150,False,False,Isolation Forest,11_2,1,0.0
+109,150,False,False,Isolation Forest,11_3,1,0.0
+109,150,False,False,Isolation Forest,12_0,1,0.0
+109,150,False,False,Isolation Forest,12_1,1,0.0
+109,150,False,False,Isolation Forest,12_2,1,0.0
+109,150,False,False,Isolation Forest,12_3,1,0.0
+109,150,False,False,Isolation Forest,13_0,1,0.0
+109,150,False,False,Isolation Forest,13_1,1,0.0
+109,150,False,False,Isolation Forest,13_2,1,0.0
+109,150,False,False,Isolation Forest,13_3,1,0.0
+109,150,False,True,Rules,10_0,0,
+109,150,False,True,Rules,10_1,1,300.0
+109,150,False,True,Rules,10_2,1,1050.0
+109,150,False,True,Rules,10_3,0,
+109,150,False,True,Rules,11_0,0,
+109,150,False,True,Rules,11_1,1,600.0
+109,150,False,True,Rules,11_2,1,1050.0
+109,150,False,True,Rules,11_3,0,
+109,150,False,True,Rules,12_0,0,
+109,150,False,True,Rules,12_1,1,600.0
+109,150,False,True,Rules,12_2,1,750.0
+109,150,False,True,Rules,12_3,0,
+109,150,False,True,Rules,13_0,0,
+109,150,False,True,Rules,13_1,1,600.0
+109,150,False,True,Rules,13_2,1,900.0
+109,150,False,True,Rules,13_3,0,
+109,150,False,True,Isolation Forest,10_0,1,0.0
+109,150,False,True,Isolation Forest,10_1,1,0.0
+109,150,False,True,Isolation Forest,10_2,1,0.0
+109,150,False,True,Isolation Forest,10_3,1,0.0
+109,150,False,True,Isolation Forest,11_0,1,0.0
+109,150,False,True,Isolation Forest,11_1,1,0.0
+109,150,False,True,Isolation Forest,11_2,1,0.0
+109,150,False,True,Isolation Forest,11_3,1,0.0
+109,150,False,True,Isolation Forest,12_0,1,0.0
+109,150,False,True,Isolation Forest,12_1,1,0.0
+109,150,False,True,Isolation Forest,12_2,1,0.0
+109,150,False,True,Isolation Forest,12_3,1,0.0
+109,150,False,True,Isolation Forest,13_0,1,0.0
+109,150,False,True,Isolation Forest,13_1,1,0.0
+109,150,False,True,Isolation Forest,13_2,1,0.0
+109,150,False,True,Isolation Forest,13_3,1,0.0
+109,150,True,False,Rules,10_0,0,
+109,150,True,False,Rules,10_1,1,600.0
+109,150,True,False,Rules,10_2,1,1050.0
+109,150,True,False,Rules,10_3,0,
+109,150,True,False,Rules,11_0,0,
+109,150,True,False,Rules,11_1,1,600.0
+109,150,True,False,Rules,11_2,1,1050.0
+109,150,True,False,Rules,11_3,0,
+109,150,True,False,Rules,12_0,0,
+109,150,True,False,Rules,12_1,1,600.0
+109,150,True,False,Rules,12_2,1,750.0
+109,150,True,False,Rules,12_3,0,
+109,150,True,False,Rules,13_0,0,
+109,150,True,False,Rules,13_1,1,600.0
+109,150,True,False,Rules,13_2,1,900.0
+109,150,True,False,Rules,13_3,0,
+109,150,True,False,Isolation Forest,10_0,1,150.0
+109,150,True,False,Isolation Forest,10_1,1,150.0
+109,150,True,False,Isolation Forest,10_2,1,150.0
+109,150,True,False,Isolation Forest,10_3,1,150.0
+109,150,True,False,Isolation Forest,11_0,1,150.0
+109,150,True,False,Isolation Forest,11_1,1,150.0
+109,150,True,False,Isolation Forest,11_2,1,150.0
+109,150,True,False,Isolation Forest,11_3,1,300.0
+109,150,True,False,Isolation Forest,12_0,1,150.0
+109,150,True,False,Isolation Forest,12_1,1,300.0
+109,150,True,False,Isolation Forest,12_2,1,300.0
+109,150,True,False,Isolation Forest,12_3,1,150.0
+109,150,True,False,Isolation Forest,13_0,1,150.0
+109,150,True,False,Isolation Forest,13_1,1,0.0
+109,150,True,False,Isolation Forest,13_2,1,150.0
+109,150,True,False,Isolation Forest,13_3,1,0.0
+109,150,True,True,Rules,10_0,0,
+109,150,True,True,Rules,10_1,1,300.0
+109,150,True,True,Rules,10_2,1,1050.0
+109,150,True,True,Rules,10_3,0,
+109,150,True,True,Rules,11_0,0,
+109,150,True,True,Rules,11_1,1,600.0
+109,150,True,True,Rules,11_2,1,1050.0
+109,150,True,True,Rules,11_3,0,
+109,150,True,True,Rules,12_0,0,
+109,150,True,True,Rules,12_1,1,600.0
+109,150,True,True,Rules,12_2,1,750.0
+109,150,True,True,Rules,12_3,0,
+109,150,True,True,Rules,13_0,0,
+109,150,True,True,Rules,13_1,1,600.0
+109,150,True,True,Rules,13_2,1,900.0
+109,150,True,True,Rules,13_3,0,
+109,150,True,True,Isolation Forest,10_0,1,150.0
+109,150,True,True,Isolation Forest,10_1,1,0.0
+109,150,True,True,Isolation Forest,10_2,1,150.0
+109,150,True,True,Isolation Forest,10_3,1,150.0
+109,150,True,True,Isolation Forest,11_0,1,150.0
+109,150,True,True,Isolation Forest,11_1,1,150.0
+109,150,True,True,Isolation Forest,11_2,1,150.0
+109,150,True,True,Isolation Forest,11_3,1,300.0
+109,150,True,True,Isolation Forest,12_0,1,150.0
+109,150,True,True,Isolation Forest,12_1,1,300.0
+109,150,True,True,Isolation Forest,12_2,1,300.0
+109,150,True,True,Isolation Forest,12_3,1,150.0
+109,150,True,True,Isolation Forest,13_0,1,150.0
+109,150,True,True,Isolation Forest,13_1,1,0.0
+109,150,True,True,Isolation Forest,13_2,1,150.0
+109,150,True,True,Isolation Forest,13_3,1,0.0
+113,20,False,False,Rules,10_0,0,
+113,20,False,False,Rules,10_1,1,80.0
+113,20,False,False,Rules,10_2,1,140.0
+113,20,False,False,Rules,10_3,0,
+113,20,False,False,Rules,11_0,0,
+113,20,False,False,Rules,11_1,0,
+113,20,False,False,Rules,11_2,1,120.0
+113,20,False,False,Rules,11_3,0,
+113,20,False,False,Rules,12_0,0,
+113,20,False,False,Rules,12_1,1,80.0
+113,20,False,False,Rules,12_2,1,80.0
+113,20,False,False,Rules,12_3,0,
+113,20,False,False,Rules,13_0,0,
+113,20,False,False,Rules,13_1,0,
+113,20,False,False,Rules,13_2,1,80.0
+113,20,False,False,Rules,13_3,0,
+113,20,False,False,Isolation Forest,10_0,1,0.0
+113,20,False,False,Isolation Forest,10_1,1,0.0
+113,20,False,False,Isolation Forest,10_2,1,0.0
+113,20,False,False,Isolation Forest,10_3,1,0.0
+113,20,False,False,Isolation Forest,11_0,1,0.0
+113,20,False,False,Isolation Forest,11_1,1,0.0
+113,20,False,False,Isolation Forest,11_2,1,0.0
+113,20,False,False,Isolation Forest,11_3,1,0.0
+113,20,False,False,Isolation Forest,12_0,1,0.0
+113,20,False,False,Isolation Forest,12_1,1,0.0
+113,20,False,False,Isolation Forest,12_2,1,0.0
+113,20,False,False,Isolation Forest,12_3,1,0.0
+113,20,False,False,Isolation Forest,13_0,1,0.0
+113,20,False,False,Isolation Forest,13_1,1,0.0
+113,20,False,False,Isolation Forest,13_2,1,0.0
+113,20,False,False,Isolation Forest,13_3,1,0.0
+113,20,False,True,Rules,10_0,1,0.0
+113,20,False,True,Rules,10_1,1,60.0
+113,20,False,True,Rules,10_2,1,140.0
+113,20,False,True,Rules,10_3,0,
+113,20,False,True,Rules,11_0,0,
+113,20,False,True,Rules,11_1,0,
+113,20,False,True,Rules,11_2,1,120.0
+113,20,False,True,Rules,11_3,0,
+113,20,False,True,Rules,12_0,0,
+113,20,False,True,Rules,12_1,1,80.0
+113,20,False,True,Rules,12_2,1,80.0
+113,20,False,True,Rules,12_3,0,
+113,20,False,True,Rules,13_0,0,
+113,20,False,True,Rules,13_1,0,
+113,20,False,True,Rules,13_2,1,80.0
+113,20,False,True,Rules,13_3,0,
+113,20,False,True,Isolation Forest,10_0,1,0.0
+113,20,False,True,Isolation Forest,10_1,1,0.0
+113,20,False,True,Isolation Forest,10_2,1,0.0
+113,20,False,True,Isolation Forest,10_3,1,0.0
+113,20,False,True,Isolation Forest,11_0,1,0.0
+113,20,False,True,Isolation Forest,11_1,1,0.0
+113,20,False,True,Isolation Forest,11_2,1,0.0
+113,20,False,True,Isolation Forest,11_3,1,0.0
+113,20,False,True,Isolation Forest,12_0,1,0.0
+113,20,False,True,Isolation Forest,12_1,1,0.0
+113,20,False,True,Isolation Forest,12_2,1,0.0
+113,20,False,True,Isolation Forest,12_3,1,0.0
+113,20,False,True,Isolation Forest,13_0,1,0.0
+113,20,False,True,Isolation Forest,13_1,1,0.0
+113,20,False,True,Isolation Forest,13_2,1,0.0
+113,20,False,True,Isolation Forest,13_3,1,0.0
+113,20,True,False,Rules,10_0,0,
+113,20,True,False,Rules,10_1,1,80.0
+113,20,True,False,Rules,10_2,1,140.0
+113,20,True,False,Rules,10_3,0,
+113,20,True,False,Rules,11_0,0,
+113,20,True,False,Rules,11_1,0,
+113,20,True,False,Rules,11_2,1,120.0
+113,20,True,False,Rules,11_3,0,
+113,20,True,False,Rules,12_0,0,
+113,20,True,False,Rules,12_1,1,80.0
+113,20,True,False,Rules,12_2,1,80.0
+113,20,True,False,Rules,12_3,0,
+113,20,True,False,Rules,13_0,0,
+113,20,True,False,Rules,13_1,0,
+113,20,True,False,Rules,13_2,1,80.0
+113,20,True,False,Rules,13_3,0,
+113,20,True,False,Isolation Forest,10_0,1,20.0
+113,20,True,False,Isolation Forest,10_1,1,40.0
+113,20,True,False,Isolation Forest,10_2,1,20.0
+113,20,True,False,Isolation Forest,10_3,1,0.0
+113,20,True,False,Isolation Forest,11_0,1,20.0
+113,20,True,False,Isolation Forest,11_1,1,0.0
+113,20,True,False,Isolation Forest,11_2,1,0.0
+113,20,True,False,Isolation Forest,11_3,1,20.0
+113,20,True,False,Isolation Forest,12_0,1,20.0
+113,20,True,False,Isolation Forest,12_1,1,20.0
+113,20,True,False,Isolation Forest,12_2,1,20.0
+113,20,True,False,Isolation Forest,12_3,1,0.0
+113,20,True,False,Isolation Forest,13_0,1,20.0
+113,20,True,False,Isolation Forest,13_1,1,20.0
+113,20,True,False,Isolation Forest,13_2,1,20.0
+113,20,True,False,Isolation Forest,13_3,1,20.0
+113,20,True,True,Rules,10_0,1,0.0
+113,20,True,True,Rules,10_1,1,60.0
+113,20,True,True,Rules,10_2,1,140.0
+113,20,True,True,Rules,10_3,0,
+113,20,True,True,Rules,11_0,0,
+113,20,True,True,Rules,11_1,0,
+113,20,True,True,Rules,11_2,1,120.0
+113,20,True,True,Rules,11_3,0,
+113,20,True,True,Rules,12_0,0,
+113,20,True,True,Rules,12_1,1,80.0
+113,20,True,True,Rules,12_2,1,80.0
+113,20,True,True,Rules,12_3,0,
+113,20,True,True,Rules,13_0,0,
+113,20,True,True,Rules,13_1,0,
+113,20,True,True,Rules,13_2,1,80.0
+113,20,True,True,Rules,13_3,0,
+113,20,True,True,Isolation Forest,10_0,1,0.0
+113,20,True,True,Isolation Forest,10_1,1,40.0
+113,20,True,True,Isolation Forest,10_2,1,20.0
+113,20,True,True,Isolation Forest,10_3,1,0.0
+113,20,True,True,Isolation Forest,11_0,1,20.0
+113,20,True,True,Isolation Forest,11_1,1,0.0
+113,20,True,True,Isolation Forest,11_2,1,0.0
+113,20,True,True,Isolation Forest,11_3,1,20.0
+113,20,True,True,Isolation Forest,12_0,1,20.0
+113,20,True,True,Isolation Forest,12_1,1,20.0
+113,20,True,True,Isolation Forest,12_2,1,20.0
+113,20,True,True,Isolation Forest,12_3,1,0.0
+113,20,True,True,Isolation Forest,13_0,1,20.0
+113,20,True,True,Isolation Forest,13_1,1,20.0
+113,20,True,True,Isolation Forest,13_2,1,20.0
+113,20,True,True,Isolation Forest,13_3,1,20.0
+113,60,False,False,Rules,10_0,0,
+113,60,False,False,Rules,10_1,1,240.0
+113,60,False,False,Rules,10_2,1,420.0
+113,60,False,False,Rules,10_3,0,
+113,60,False,False,Rules,11_0,0,
+113,60,False,False,Rules,11_1,0,
+113,60,False,False,Rules,11_2,1,360.0
+113,60,False,False,Rules,11_3,0,
+113,60,False,False,Rules,12_0,0,
+113,60,False,False,Rules,12_1,1,240.0
+113,60,False,False,Rules,12_2,1,240.0
+113,60,False,False,Rules,12_3,0,
+113,60,False,False,Rules,13_0,0,
+113,60,False,False,Rules,13_1,0,
+113,60,False,False,Rules,13_2,1,240.0
+113,60,False,False,Rules,13_3,0,
+113,60,False,False,Isolation Forest,10_0,1,0.0
+113,60,False,False,Isolation Forest,10_1,1,0.0
+113,60,False,False,Isolation Forest,10_2,1,0.0
+113,60,False,False,Isolation Forest,10_3,1,0.0
+113,60,False,False,Isolation Forest,11_0,1,0.0
+113,60,False,False,Isolation Forest,11_1,1,0.0
+113,60,False,False,Isolation Forest,11_2,1,0.0
+113,60,False,False,Isolation Forest,11_3,1,0.0
+113,60,False,False,Isolation Forest,12_0,1,0.0
+113,60,False,False,Isolation Forest,12_1,1,0.0
+113,60,False,False,Isolation Forest,12_2,1,0.0
+113,60,False,False,Isolation Forest,12_3,1,0.0
+113,60,False,False,Isolation Forest,13_0,1,0.0
+113,60,False,False,Isolation Forest,13_1,1,0.0
+113,60,False,False,Isolation Forest,13_2,1,0.0
+113,60,False,False,Isolation Forest,13_3,1,0.0
+113,60,False,True,Rules,10_0,1,120.0
+113,60,False,True,Rules,10_1,1,120.0
+113,60,False,True,Rules,10_2,1,420.0
+113,60,False,True,Rules,10_3,0,
+113,60,False,True,Rules,11_0,0,
+113,60,False,True,Rules,11_1,0,
+113,60,False,True,Rules,11_2,1,360.0
+113,60,False,True,Rules,11_3,0,
+113,60,False,True,Rules,12_0,0,
+113,60,False,True,Rules,12_1,1,240.0
+113,60,False,True,Rules,12_2,1,240.0
+113,60,False,True,Rules,12_3,0,
+113,60,False,True,Rules,13_0,0,
+113,60,False,True,Rules,13_1,0,
+113,60,False,True,Rules,13_2,1,240.0
+113,60,False,True,Rules,13_3,0,
+113,60,False,True,Isolation Forest,10_0,1,0.0
+113,60,False,True,Isolation Forest,10_1,1,0.0
+113,60,False,True,Isolation Forest,10_2,1,0.0
+113,60,False,True,Isolation Forest,10_3,1,0.0
+113,60,False,True,Isolation Forest,11_0,1,0.0
+113,60,False,True,Isolation Forest,11_1,1,0.0
+113,60,False,True,Isolation Forest,11_2,1,0.0
+113,60,False,True,Isolation Forest,11_3,1,0.0
+113,60,False,True,Isolation Forest,12_0,1,0.0
+113,60,False,True,Isolation Forest,12_1,1,0.0
+113,60,False,True,Isolation Forest,12_2,1,0.0
+113,60,False,True,Isolation Forest,12_3,1,0.0
+113,60,False,True,Isolation Forest,13_0,1,0.0
+113,60,False,True,Isolation Forest,13_1,1,0.0
+113,60,False,True,Isolation Forest,13_2,1,0.0
+113,60,False,True,Isolation Forest,13_3,1,0.0
+113,60,True,False,Rules,10_0,0,
+113,60,True,False,Rules,10_1,1,240.0
+113,60,True,False,Rules,10_2,1,420.0
+113,60,True,False,Rules,10_3,0,
+113,60,True,False,Rules,11_0,0,
+113,60,True,False,Rules,11_1,0,
+113,60,True,False,Rules,11_2,1,360.0
+113,60,True,False,Rules,11_3,0,
+113,60,True,False,Rules,12_0,0,
+113,60,True,False,Rules,12_1,1,240.0
+113,60,True,False,Rules,12_2,1,240.0
+113,60,True,False,Rules,12_3,0,
+113,60,True,False,Rules,13_0,0,
+113,60,True,False,Rules,13_1,0,
+113,60,True,False,Rules,13_2,1,240.0
+113,60,True,False,Rules,13_3,0,
+113,60,True,False,Isolation Forest,10_0,1,60.0
+113,60,True,False,Isolation Forest,10_1,1,120.0
+113,60,True,False,Isolation Forest,10_2,1,60.0
+113,60,True,False,Isolation Forest,10_3,1,0.0
+113,60,True,False,Isolation Forest,11_0,1,60.0
+113,60,True,False,Isolation Forest,11_1,1,0.0
+113,60,True,False,Isolation Forest,11_2,1,0.0
+113,60,True,False,Isolation Forest,11_3,1,60.0
+113,60,True,False,Isolation Forest,12_0,1,60.0
+113,60,True,False,Isolation Forest,12_1,1,60.0
+113,60,True,False,Isolation Forest,12_2,1,60.0
+113,60,True,False,Isolation Forest,12_3,1,0.0
+113,60,True,False,Isolation Forest,13_0,1,60.0
+113,60,True,False,Isolation Forest,13_1,1,60.0
+113,60,True,False,Isolation Forest,13_2,1,60.0
+113,60,True,False,Isolation Forest,13_3,1,60.0
+113,60,True,True,Rules,10_0,1,120.0
+113,60,True,True,Rules,10_1,1,120.0
+113,60,True,True,Rules,10_2,1,420.0
+113,60,True,True,Rules,10_3,0,
+113,60,True,True,Rules,11_0,0,
+113,60,True,True,Rules,11_1,0,
+113,60,True,True,Rules,11_2,1,360.0
+113,60,True,True,Rules,11_3,0,
+113,60,True,True,Rules,12_0,0,
+113,60,True,True,Rules,12_1,1,240.0
+113,60,True,True,Rules,12_2,1,240.0
+113,60,True,True,Rules,12_3,0,
+113,60,True,True,Rules,13_0,0,
+113,60,True,True,Rules,13_1,0,
+113,60,True,True,Rules,13_2,1,240.0
+113,60,True,True,Rules,13_3,0,
+113,60,True,True,Isolation Forest,10_0,1,0.0
+113,60,True,True,Isolation Forest,10_1,1,60.0
+113,60,True,True,Isolation Forest,10_2,1,60.0
+113,60,True,True,Isolation Forest,10_3,1,0.0
+113,60,True,True,Isolation Forest,11_0,1,60.0
+113,60,True,True,Isolation Forest,11_1,1,0.0
+113,60,True,True,Isolation Forest,11_2,1,0.0
+113,60,True,True,Isolation Forest,11_3,1,60.0
+113,60,True,True,Isolation Forest,12_0,1,60.0
+113,60,True,True,Isolation Forest,12_1,1,60.0
+113,60,True,True,Isolation Forest,12_2,1,60.0
+113,60,True,True,Isolation Forest,12_3,1,0.0
+113,60,True,True,Isolation Forest,13_0,1,60.0
+113,60,True,True,Isolation Forest,13_1,1,60.0
+113,60,True,True,Isolation Forest,13_2,1,60.0
+113,60,True,True,Isolation Forest,13_3,1,60.0
+113,150,False,False,Rules,10_0,0,
+113,150,False,False,Rules,10_1,1,600.0
+113,150,False,False,Rules,10_2,1,1050.0
+113,150,False,False,Rules,10_3,0,
+113,150,False,False,Rules,11_0,0,
+113,150,False,False,Rules,11_1,0,
+113,150,False,False,Rules,11_2,1,900.0
+113,150,False,False,Rules,11_3,0,
+113,150,False,False,Rules,12_0,0,
+113,150,False,False,Rules,12_1,1,600.0
+113,150,False,False,Rules,12_2,1,600.0
+113,150,False,False,Rules,12_3,0,
+113,150,False,False,Rules,13_0,0,
+113,150,False,False,Rules,13_1,0,
+113,150,False,False,Rules,13_2,1,600.0
+113,150,False,False,Rules,13_3,0,
+113,150,False,False,Isolation Forest,10_0,1,0.0
+113,150,False,False,Isolation Forest,10_1,1,0.0
+113,150,False,False,Isolation Forest,10_2,1,0.0
+113,150,False,False,Isolation Forest,10_3,1,0.0
+113,150,False,False,Isolation Forest,11_0,1,0.0
+113,150,False,False,Isolation Forest,11_1,1,0.0
+113,150,False,False,Isolation Forest,11_2,1,0.0
+113,150,False,False,Isolation Forest,11_3,1,0.0
+113,150,False,False,Isolation Forest,12_0,1,0.0
+113,150,False,False,Isolation Forest,12_1,1,0.0
+113,150,False,False,Isolation Forest,12_2,1,0.0
+113,150,False,False,Isolation Forest,12_3,1,0.0
+113,150,False,False,Isolation Forest,13_0,1,0.0
+113,150,False,False,Isolation Forest,13_1,1,0.0
+113,150,False,False,Isolation Forest,13_2,1,0.0
+113,150,False,False,Isolation Forest,13_3,1,0.0
+113,150,False,True,Rules,10_0,1,300.0
+113,150,False,True,Rules,10_1,1,300.0
+113,150,False,True,Rules,10_2,1,1050.0
+113,150,False,True,Rules,10_3,0,
+113,150,False,True,Rules,11_0,0,
+113,150,False,True,Rules,11_1,0,
+113,150,False,True,Rules,11_2,1,900.0
+113,150,False,True,Rules,11_3,0,
+113,150,False,True,Rules,12_0,0,
+113,150,False,True,Rules,12_1,1,600.0
+113,150,False,True,Rules,12_2,1,600.0
+113,150,False,True,Rules,12_3,0,
+113,150,False,True,Rules,13_0,0,
+113,150,False,True,Rules,13_1,0,
+113,150,False,True,Rules,13_2,1,600.0
+113,150,False,True,Rules,13_3,0,
+113,150,False,True,Isolation Forest,10_0,1,0.0
+113,150,False,True,Isolation Forest,10_1,1,0.0
+113,150,False,True,Isolation Forest,10_2,1,0.0
+113,150,False,True,Isolation Forest,10_3,1,0.0
+113,150,False,True,Isolation Forest,11_0,1,0.0
+113,150,False,True,Isolation Forest,11_1,1,0.0
+113,150,False,True,Isolation Forest,11_2,1,0.0
+113,150,False,True,Isolation Forest,11_3,1,0.0
+113,150,False,True,Isolation Forest,12_0,1,0.0
+113,150,False,True,Isolation Forest,12_1,1,0.0
+113,150,False,True,Isolation Forest,12_2,1,0.0
+113,150,False,True,Isolation Forest,12_3,1,0.0
+113,150,False,True,Isolation Forest,13_0,1,0.0
+113,150,False,True,Isolation Forest,13_1,1,0.0
+113,150,False,True,Isolation Forest,13_2,1,0.0
+113,150,False,True,Isolation Forest,13_3,1,0.0
+113,150,True,False,Rules,10_0,0,
+113,150,True,False,Rules,10_1,1,600.0
+113,150,True,False,Rules,10_2,1,1050.0
+113,150,True,False,Rules,10_3,0,
+113,150,True,False,Rules,11_0,0,
+113,150,True,False,Rules,11_1,0,
+113,150,True,False,Rules,11_2,1,900.0
+113,150,True,False,Rules,11_3,0,
+113,150,True,False,Rules,12_0,0,
+113,150,True,False,Rules,12_1,1,600.0
+113,150,True,False,Rules,12_2,1,600.0
+113,150,True,False,Rules,12_3,0,
+113,150,True,False,Rules,13_0,0,
+113,150,True,False,Rules,13_1,0,
+113,150,True,False,Rules,13_2,1,600.0
+113,150,True,False,Rules,13_3,0,
+113,150,True,False,Isolation Forest,10_0,1,150.0
+113,150,True,False,Isolation Forest,10_1,1,300.0
+113,150,True,False,Isolation Forest,10_2,1,150.0
+113,150,True,False,Isolation Forest,10_3,1,0.0
+113,150,True,False,Isolation Forest,11_0,1,150.0
+113,150,True,False,Isolation Forest,11_1,1,0.0
+113,150,True,False,Isolation Forest,11_2,1,0.0
+113,150,True,False,Isolation Forest,11_3,1,150.0
+113,150,True,False,Isolation Forest,12_0,1,150.0
+113,150,True,False,Isolation Forest,12_1,1,150.0
+113,150,True,False,Isolation Forest,12_2,1,150.0
+113,150,True,False,Isolation Forest,12_3,1,0.0
+113,150,True,False,Isolation Forest,13_0,1,150.0
+113,150,True,False,Isolation Forest,13_1,1,150.0
+113,150,True,False,Isolation Forest,13_2,1,150.0
+113,150,True,False,Isolation Forest,13_3,1,300.0
+113,150,True,True,Rules,10_0,1,300.0
+113,150,True,True,Rules,10_1,1,300.0
+113,150,True,True,Rules,10_2,1,1050.0
+113,150,True,True,Rules,10_3,0,
+113,150,True,True,Rules,11_0,0,
+113,150,True,True,Rules,11_1,0,
+113,150,True,True,Rules,11_2,1,900.0
+113,150,True,True,Rules,11_3,0,
+113,150,True,True,Rules,12_0,0,
+113,150,True,True,Rules,12_1,1,600.0
+113,150,True,True,Rules,12_2,1,600.0
+113,150,True,True,Rules,12_3,0,
+113,150,True,True,Rules,13_0,0,
+113,150,True,True,Rules,13_1,0,
+113,150,True,True,Rules,13_2,1,600.0
+113,150,True,True,Rules,13_3,0,
+113,150,True,True,Isolation Forest,10_0,1,0.0
+113,150,True,True,Isolation Forest,10_1,1,150.0
+113,150,True,True,Isolation Forest,10_2,1,150.0
+113,150,True,True,Isolation Forest,10_3,1,0.0
+113,150,True,True,Isolation Forest,11_0,1,150.0
+113,150,True,True,Isolation Forest,11_1,1,0.0
+113,150,True,True,Isolation Forest,11_2,1,0.0
+113,150,True,True,Isolation Forest,11_3,1,150.0
+113,150,True,True,Isolation Forest,12_0,1,150.0
+113,150,True,True,Isolation Forest,12_1,1,150.0
+113,150,True,True,Isolation Forest,12_2,1,150.0
+113,150,True,True,Isolation Forest,12_3,1,0.0
+113,150,True,True,Isolation Forest,13_0,1,150.0
+113,150,True,True,Isolation Forest,13_1,1,150.0
+113,150,True,True,Isolation Forest,13_2,1,150.0
+113,150,True,True,Isolation Forest,13_3,1,300.0
+127,20,False,False,Rules,10_0,0,
+127,20,False,False,Rules,10_1,1,80.0
+127,20,False,False,Rules,10_2,1,140.0
+127,20,False,False,Rules,10_3,0,
+127,20,False,False,Rules,11_0,0,
+127,20,False,False,Rules,11_1,1,80.0
+127,20,False,False,Rules,11_2,1,60.0
+127,20,False,False,Rules,11_3,0,
+127,20,False,False,Rules,12_0,0,
+127,20,False,False,Rules,12_1,0,
+127,20,False,False,Rules,12_2,0,
+127,20,False,False,Rules,12_3,0,
+127,20,False,False,Rules,13_0,0,
+127,20,False,False,Rules,13_1,1,80.0
+127,20,False,False,Rules,13_2,1,80.0
+127,20,False,False,Rules,13_3,0,
+127,20,False,False,Isolation Forest,10_0,1,0.0
+127,20,False,False,Isolation Forest,10_1,1,0.0
+127,20,False,False,Isolation Forest,10_2,1,0.0
+127,20,False,False,Isolation Forest,10_3,1,0.0
+127,20,False,False,Isolation Forest,11_0,1,0.0
+127,20,False,False,Isolation Forest,11_1,1,0.0
+127,20,False,False,Isolation Forest,11_2,1,0.0
+127,20,False,False,Isolation Forest,11_3,1,0.0
+127,20,False,False,Isolation Forest,12_0,1,0.0
+127,20,False,False,Isolation Forest,12_1,1,0.0
+127,20,False,False,Isolation Forest,12_2,1,0.0
+127,20,False,False,Isolation Forest,12_3,1,0.0
+127,20,False,False,Isolation Forest,13_0,1,0.0
+127,20,False,False,Isolation Forest,13_1,1,0.0
+127,20,False,False,Isolation Forest,13_2,1,0.0
+127,20,False,False,Isolation Forest,13_3,1,0.0
+127,20,False,True,Rules,10_0,0,
+127,20,False,True,Rules,10_1,1,80.0
+127,20,False,True,Rules,10_2,1,140.0
+127,20,False,True,Rules,10_3,0,
+127,20,False,True,Rules,11_0,0,
+127,20,False,True,Rules,11_1,1,80.0
+127,20,False,True,Rules,11_2,1,60.0
+127,20,False,True,Rules,11_3,0,
+127,20,False,True,Rules,12_0,0,
+127,20,False,True,Rules,12_1,0,
+127,20,False,True,Rules,12_2,0,
+127,20,False,True,Rules,12_3,0,
+127,20,False,True,Rules,13_0,0,
+127,20,False,True,Rules,13_1,1,60.0
+127,20,False,True,Rules,13_2,1,80.0
+127,20,False,True,Rules,13_3,0,
+127,20,False,True,Isolation Forest,10_0,1,0.0
+127,20,False,True,Isolation Forest,10_1,1,0.0
+127,20,False,True,Isolation Forest,10_2,1,0.0
+127,20,False,True,Isolation Forest,10_3,1,0.0
+127,20,False,True,Isolation Forest,11_0,1,0.0
+127,20,False,True,Isolation Forest,11_1,1,0.0
+127,20,False,True,Isolation Forest,11_2,1,0.0
+127,20,False,True,Isolation Forest,11_3,1,0.0
+127,20,False,True,Isolation Forest,12_0,1,0.0
+127,20,False,True,Isolation Forest,12_1,1,0.0
+127,20,False,True,Isolation Forest,12_2,1,0.0
+127,20,False,True,Isolation Forest,12_3,1,0.0
+127,20,False,True,Isolation Forest,13_0,1,0.0
+127,20,False,True,Isolation Forest,13_1,1,0.0
+127,20,False,True,Isolation Forest,13_2,1,0.0
+127,20,False,True,Isolation Forest,13_3,1,0.0
+127,20,True,False,Rules,10_0,0,
+127,20,True,False,Rules,10_1,1,80.0
+127,20,True,False,Rules,10_2,1,140.0
+127,20,True,False,Rules,10_3,0,
+127,20,True,False,Rules,11_0,0,
+127,20,True,False,Rules,11_1,1,80.0
+127,20,True,False,Rules,11_2,1,60.0
+127,20,True,False,Rules,11_3,0,
+127,20,True,False,Rules,12_0,0,
+127,20,True,False,Rules,12_1,0,
+127,20,True,False,Rules,12_2,0,
+127,20,True,False,Rules,12_3,0,
+127,20,True,False,Rules,13_0,0,
+127,20,True,False,Rules,13_1,1,80.0
+127,20,True,False,Rules,13_2,1,80.0
+127,20,True,False,Rules,13_3,0,
+127,20,True,False,Isolation Forest,10_0,1,20.0
+127,20,True,False,Isolation Forest,10_1,1,40.0
+127,20,True,False,Isolation Forest,10_2,1,20.0
+127,20,True,False,Isolation Forest,10_3,1,20.0
+127,20,True,False,Isolation Forest,11_0,1,20.0
+127,20,True,False,Isolation Forest,11_1,1,20.0
+127,20,True,False,Isolation Forest,11_2,1,20.0
+127,20,True,False,Isolation Forest,11_3,1,20.0
+127,20,True,False,Isolation Forest,12_0,1,20.0
+127,20,True,False,Isolation Forest,12_1,1,40.0
+127,20,True,False,Isolation Forest,12_2,1,20.0
+127,20,True,False,Isolation Forest,12_3,1,20.0
+127,20,True,False,Isolation Forest,13_0,1,20.0
+127,20,True,False,Isolation Forest,13_1,1,20.0
+127,20,True,False,Isolation Forest,13_2,1,20.0
+127,20,True,False,Isolation Forest,13_3,1,0.0
+127,20,True,True,Rules,10_0,0,
+127,20,True,True,Rules,10_1,1,80.0
+127,20,True,True,Rules,10_2,1,140.0
+127,20,True,True,Rules,10_3,0,
+127,20,True,True,Rules,11_0,0,
+127,20,True,True,Rules,11_1,1,80.0
+127,20,True,True,Rules,11_2,1,60.0
+127,20,True,True,Rules,11_3,0,
+127,20,True,True,Rules,12_0,0,
+127,20,True,True,Rules,12_1,0,
+127,20,True,True,Rules,12_2,0,
+127,20,True,True,Rules,12_3,0,
+127,20,True,True,Rules,13_0,0,
+127,20,True,True,Rules,13_1,1,60.0
+127,20,True,True,Rules,13_2,1,80.0
+127,20,True,True,Rules,13_3,0,
+127,20,True,True,Isolation Forest,10_0,1,0.0
+127,20,True,True,Isolation Forest,10_1,1,40.0
+127,20,True,True,Isolation Forest,10_2,1,20.0
+127,20,True,True,Isolation Forest,10_3,1,20.0
+127,20,True,True,Isolation Forest,11_0,1,20.0
+127,20,True,True,Isolation Forest,11_1,1,20.0
+127,20,True,True,Isolation Forest,11_2,1,20.0
+127,20,True,True,Isolation Forest,11_3,1,20.0
+127,20,True,True,Isolation Forest,12_0,1,20.0
+127,20,True,True,Isolation Forest,12_1,1,40.0
+127,20,True,True,Isolation Forest,12_2,1,0.0
+127,20,True,True,Isolation Forest,12_3,1,20.0
+127,20,True,True,Isolation Forest,13_0,1,0.0
+127,20,True,True,Isolation Forest,13_1,1,0.0
+127,20,True,True,Isolation Forest,13_2,1,20.0
+127,20,True,True,Isolation Forest,13_3,1,0.0
+127,60,False,False,Rules,10_0,0,
+127,60,False,False,Rules,10_1,1,240.0
+127,60,False,False,Rules,10_2,1,420.0
+127,60,False,False,Rules,10_3,0,
+127,60,False,False,Rules,11_0,0,
+127,60,False,False,Rules,11_1,1,240.0
+127,60,False,False,Rules,11_2,1,180.0
+127,60,False,False,Rules,11_3,0,
+127,60,False,False,Rules,12_0,0,
+127,60,False,False,Rules,12_1,0,
+127,60,False,False,Rules,12_2,1,360.0
+127,60,False,False,Rules,12_3,0,
+127,60,False,False,Rules,13_0,0,
+127,60,False,False,Rules,13_1,1,240.0
+127,60,False,False,Rules,13_2,1,240.0
+127,60,False,False,Rules,13_3,0,
+127,60,False,False,Isolation Forest,10_0,1,0.0
+127,60,False,False,Isolation Forest,10_1,1,0.0
+127,60,False,False,Isolation Forest,10_2,1,0.0
+127,60,False,False,Isolation Forest,10_3,1,0.0
+127,60,False,False,Isolation Forest,11_0,1,0.0
+127,60,False,False,Isolation Forest,11_1,1,0.0
+127,60,False,False,Isolation Forest,11_2,1,0.0
+127,60,False,False,Isolation Forest,11_3,1,0.0
+127,60,False,False,Isolation Forest,12_0,1,0.0
+127,60,False,False,Isolation Forest,12_1,1,0.0
+127,60,False,False,Isolation Forest,12_2,1,0.0
+127,60,False,False,Isolation Forest,12_3,1,0.0
+127,60,False,False,Isolation Forest,13_0,1,0.0
+127,60,False,False,Isolation Forest,13_1,1,0.0
+127,60,False,False,Isolation Forest,13_2,1,0.0
+127,60,False,False,Isolation Forest,13_3,1,0.0
+127,60,False,True,Rules,10_0,0,
+127,60,False,True,Rules,10_1,1,240.0
+127,60,False,True,Rules,10_2,1,420.0
+127,60,False,True,Rules,10_3,0,
+127,60,False,True,Rules,11_0,0,
+127,60,False,True,Rules,11_1,1,240.0
+127,60,False,True,Rules,11_2,1,180.0
+127,60,False,True,Rules,11_3,0,
+127,60,False,True,Rules,12_0,0,
+127,60,False,True,Rules,12_1,0,
+127,60,False,True,Rules,12_2,1,360.0
+127,60,False,True,Rules,12_3,0,
+127,60,False,True,Rules,13_0,0,
+127,60,False,True,Rules,13_1,1,180.0
+127,60,False,True,Rules,13_2,1,240.0
+127,60,False,True,Rules,13_3,0,
+127,60,False,True,Isolation Forest,10_0,1,0.0
+127,60,False,True,Isolation Forest,10_1,1,0.0
+127,60,False,True,Isolation Forest,10_2,1,0.0
+127,60,False,True,Isolation Forest,10_3,1,0.0
+127,60,False,True,Isolation Forest,11_0,1,0.0
+127,60,False,True,Isolation Forest,11_1,1,0.0
+127,60,False,True,Isolation Forest,11_2,1,0.0
+127,60,False,True,Isolation Forest,11_3,1,0.0
+127,60,False,True,Isolation Forest,12_0,1,0.0
+127,60,False,True,Isolation Forest,12_1,1,0.0
+127,60,False,True,Isolation Forest,12_2,1,0.0
+127,60,False,True,Isolation Forest,12_3,1,0.0
+127,60,False,True,Isolation Forest,13_0,1,0.0
+127,60,False,True,Isolation Forest,13_1,1,0.0
+127,60,False,True,Isolation Forest,13_2,1,0.0
+127,60,False,True,Isolation Forest,13_3,1,0.0
+127,60,True,False,Rules,10_0,0,
+127,60,True,False,Rules,10_1,1,240.0
+127,60,True,False,Rules,10_2,1,420.0
+127,60,True,False,Rules,10_3,0,
+127,60,True,False,Rules,11_0,0,
+127,60,True,False,Rules,11_1,1,240.0
+127,60,True,False,Rules,11_2,1,180.0
+127,60,True,False,Rules,11_3,0,
+127,60,True,False,Rules,12_0,0,
+127,60,True,False,Rules,12_1,0,
+127,60,True,False,Rules,12_2,1,360.0
+127,60,True,False,Rules,12_3,0,
+127,60,True,False,Rules,13_0,0,
+127,60,True,False,Rules,13_1,1,240.0
+127,60,True,False,Rules,13_2,1,240.0
+127,60,True,False,Rules,13_3,0,
+127,60,True,False,Isolation Forest,10_0,1,60.0
+127,60,True,False,Isolation Forest,10_1,1,120.0
+127,60,True,False,Isolation Forest,10_2,1,120.0
+127,60,True,False,Isolation Forest,10_3,1,60.0
+127,60,True,False,Isolation Forest,11_0,1,60.0
+127,60,True,False,Isolation Forest,11_1,1,60.0
+127,60,True,False,Isolation Forest,11_2,1,60.0
+127,60,True,False,Isolation Forest,11_3,1,60.0
+127,60,True,False,Isolation Forest,12_0,1,60.0
+127,60,True,False,Isolation Forest,12_1,1,120.0
+127,60,True,False,Isolation Forest,12_2,1,60.0
+127,60,True,False,Isolation Forest,12_3,1,60.0
+127,60,True,False,Isolation Forest,13_0,1,60.0
+127,60,True,False,Isolation Forest,13_1,1,60.0
+127,60,True,False,Isolation Forest,13_2,1,60.0
+127,60,True,False,Isolation Forest,13_3,1,0.0
+127,60,True,True,Rules,10_0,0,
+127,60,True,True,Rules,10_1,1,240.0
+127,60,True,True,Rules,10_2,1,420.0
+127,60,True,True,Rules,10_3,0,
+127,60,True,True,Rules,11_0,0,
+127,60,True,True,Rules,11_1,1,240.0
+127,60,True,True,Rules,11_2,1,180.0
+127,60,True,True,Rules,11_3,0,
+127,60,True,True,Rules,12_0,0,
+127,60,True,True,Rules,12_1,0,
+127,60,True,True,Rules,12_2,1,360.0
+127,60,True,True,Rules,12_3,0,
+127,60,True,True,Rules,13_0,0,
+127,60,True,True,Rules,13_1,1,180.0
+127,60,True,True,Rules,13_2,1,240.0
+127,60,True,True,Rules,13_3,0,
+127,60,True,True,Isolation Forest,10_0,1,0.0
+127,60,True,True,Isolation Forest,10_1,1,120.0
+127,60,True,True,Isolation Forest,10_2,1,120.0
+127,60,True,True,Isolation Forest,10_3,1,60.0
+127,60,True,True,Isolation Forest,11_0,1,60.0
+127,60,True,True,Isolation Forest,11_1,1,60.0
+127,60,True,True,Isolation Forest,11_2,1,60.0
+127,60,True,True,Isolation Forest,11_3,1,60.0
+127,60,True,True,Isolation Forest,12_0,1,60.0
+127,60,True,True,Isolation Forest,12_1,1,120.0
+127,60,True,True,Isolation Forest,12_2,1,0.0
+127,60,True,True,Isolation Forest,12_3,1,60.0
+127,60,True,True,Isolation Forest,13_0,1,0.0
+127,60,True,True,Isolation Forest,13_1,1,0.0
+127,60,True,True,Isolation Forest,13_2,1,60.0
+127,60,True,True,Isolation Forest,13_3,1,0.0
+127,150,False,False,Rules,10_0,0,
+127,150,False,False,Rules,10_1,1,600.0
+127,150,False,False,Rules,10_2,1,1050.0
+127,150,False,False,Rules,10_3,0,
+127,150,False,False,Rules,11_0,0,
+127,150,False,False,Rules,11_1,1,600.0
+127,150,False,False,Rules,11_2,1,450.0
+127,150,False,False,Rules,11_3,0,
+127,150,False,False,Rules,12_0,0,
+127,150,False,False,Rules,12_1,0,
+127,150,False,False,Rules,12_2,1,900.0
+127,150,False,False,Rules,12_3,0,
+127,150,False,False,Rules,13_0,0,
+127,150,False,False,Rules,13_1,1,600.0
+127,150,False,False,Rules,13_2,1,600.0
+127,150,False,False,Rules,13_3,0,
+127,150,False,False,Isolation Forest,10_0,1,0.0
+127,150,False,False,Isolation Forest,10_1,1,0.0
+127,150,False,False,Isolation Forest,10_2,1,0.0
+127,150,False,False,Isolation Forest,10_3,1,0.0
+127,150,False,False,Isolation Forest,11_0,1,0.0
+127,150,False,False,Isolation Forest,11_1,1,0.0
+127,150,False,False,Isolation Forest,11_2,1,0.0
+127,150,False,False,Isolation Forest,11_3,1,0.0
+127,150,False,False,Isolation Forest,12_0,1,0.0
+127,150,False,False,Isolation Forest,12_1,1,0.0
+127,150,False,False,Isolation Forest,12_2,1,0.0
+127,150,False,False,Isolation Forest,12_3,1,0.0
+127,150,False,False,Isolation Forest,13_0,1,0.0
+127,150,False,False,Isolation Forest,13_1,1,0.0
+127,150,False,False,Isolation Forest,13_2,1,0.0
+127,150,False,False,Isolation Forest,13_3,1,0.0
+127,150,False,True,Rules,10_0,0,
+127,150,False,True,Rules,10_1,1,600.0
+127,150,False,True,Rules,10_2,1,1050.0
+127,150,False,True,Rules,10_3,0,
+127,150,False,True,Rules,11_0,0,
+127,150,False,True,Rules,11_1,1,600.0
+127,150,False,True,Rules,11_2,1,450.0
+127,150,False,True,Rules,11_3,0,
+127,150,False,True,Rules,12_0,0,
+127,150,False,True,Rules,12_1,0,
+127,150,False,True,Rules,12_2,1,900.0
+127,150,False,True,Rules,12_3,0,
+127,150,False,True,Rules,13_0,0,
+127,150,False,True,Rules,13_1,1,450.0
+127,150,False,True,Rules,13_2,1,600.0
+127,150,False,True,Rules,13_3,0,
+127,150,False,True,Isolation Forest,10_0,1,0.0
+127,150,False,True,Isolation Forest,10_1,1,0.0
+127,150,False,True,Isolation Forest,10_2,1,0.0
+127,150,False,True,Isolation Forest,10_3,1,0.0
+127,150,False,True,Isolation Forest,11_0,1,0.0
+127,150,False,True,Isolation Forest,11_1,1,0.0
+127,150,False,True,Isolation Forest,11_2,1,0.0
+127,150,False,True,Isolation Forest,11_3,1,0.0
+127,150,False,True,Isolation Forest,12_0,1,0.0
+127,150,False,True,Isolation Forest,12_1,1,0.0
+127,150,False,True,Isolation Forest,12_2,1,0.0
+127,150,False,True,Isolation Forest,12_3,1,0.0
+127,150,False,True,Isolation Forest,13_0,1,0.0
+127,150,False,True,Isolation Forest,13_1,1,0.0
+127,150,False,True,Isolation Forest,13_2,1,0.0
+127,150,False,True,Isolation Forest,13_3,1,0.0
+127,150,True,False,Rules,10_0,0,
+127,150,True,False,Rules,10_1,1,600.0
+127,150,True,False,Rules,10_2,1,1050.0
+127,150,True,False,Rules,10_3,0,
+127,150,True,False,Rules,11_0,0,
+127,150,True,False,Rules,11_1,1,600.0
+127,150,True,False,Rules,11_2,1,450.0
+127,150,True,False,Rules,11_3,0,
+127,150,True,False,Rules,12_0,0,
+127,150,True,False,Rules,12_1,0,
+127,150,True,False,Rules,12_2,1,900.0
+127,150,True,False,Rules,12_3,0,
+127,150,True,False,Rules,13_0,0,
+127,150,True,False,Rules,13_1,1,600.0
+127,150,True,False,Rules,13_2,1,600.0
+127,150,True,False,Rules,13_3,0,
+127,150,True,False,Isolation Forest,10_0,1,150.0
+127,150,True,False,Isolation Forest,10_1,1,300.0
+127,150,True,False,Isolation Forest,10_2,1,300.0
+127,150,True,False,Isolation Forest,10_3,1,150.0
+127,150,True,False,Isolation Forest,11_0,1,150.0
+127,150,True,False,Isolation Forest,11_1,1,150.0
+127,150,True,False,Isolation Forest,11_2,1,150.0
+127,150,True,False,Isolation Forest,11_3,1,150.0
+127,150,True,False,Isolation Forest,12_0,1,150.0
+127,150,True,False,Isolation Forest,12_1,1,300.0
+127,150,True,False,Isolation Forest,12_2,1,300.0
+127,150,True,False,Isolation Forest,12_3,1,150.0
+127,150,True,False,Isolation Forest,13_0,1,150.0
+127,150,True,False,Isolation Forest,13_1,1,150.0
+127,150,True,False,Isolation Forest,13_2,1,150.0
+127,150,True,False,Isolation Forest,13_3,1,0.0
+127,150,True,True,Rules,10_0,0,
+127,150,True,True,Rules,10_1,1,600.0
+127,150,True,True,Rules,10_2,1,1050.0
+127,150,True,True,Rules,10_3,0,
+127,150,True,True,Rules,11_0,0,
+127,150,True,True,Rules,11_1,1,600.0
+127,150,True,True,Rules,11_2,1,450.0
+127,150,True,True,Rules,11_3,0,
+127,150,True,True,Rules,12_0,0,
+127,150,True,True,Rules,12_1,0,
+127,150,True,True,Rules,12_2,1,900.0
+127,150,True,True,Rules,12_3,0,
+127,150,True,True,Rules,13_0,0,
+127,150,True,True,Rules,13_1,1,450.0
+127,150,True,True,Rules,13_2,1,600.0
+127,150,True,True,Rules,13_3,0,
+127,150,True,True,Isolation Forest,10_0,1,0.0
+127,150,True,True,Isolation Forest,10_1,1,300.0
+127,150,True,True,Isolation Forest,10_2,1,300.0
+127,150,True,True,Isolation Forest,10_3,1,150.0
+127,150,True,True,Isolation Forest,11_0,1,150.0
+127,150,True,True,Isolation Forest,11_1,1,150.0
+127,150,True,True,Isolation Forest,11_2,1,150.0
+127,150,True,True,Isolation Forest,11_3,1,150.0
+127,150,True,True,Isolation Forest,12_0,1,150.0
+127,150,True,True,Isolation Forest,12_1,1,300.0
+127,150,True,True,Isolation Forest,12_2,1,0.0
+127,150,True,True,Isolation Forest,12_3,1,150.0
+127,150,True,True,Isolation Forest,13_0,1,0.0
+127,150,True,True,Isolation Forest,13_1,1,0.0
+127,150,True,True,Isolation Forest,13_2,1,150.0
+127,150,True,True,Isolation Forest,13_3,1,0.0
+131,20,False,False,Rules,10_0,0,
+131,20,False,False,Rules,10_1,1,80.0
+131,20,False,False,Rules,10_2,1,80.0
+131,20,False,False,Rules,10_3,0,
+131,20,False,False,Rules,11_0,0,
+131,20,False,False,Rules,11_1,1,80.0
+131,20,False,False,Rules,11_2,1,60.0
+131,20,False,False,Rules,11_3,0,
+131,20,False,False,Rules,12_0,0,
+131,20,False,False,Rules,12_1,1,80.0
+131,20,False,False,Rules,12_2,1,120.0
+131,20,False,False,Rules,12_3,0,
+131,20,False,False,Rules,13_0,0,
+131,20,False,False,Rules,13_1,1,80.0
+131,20,False,False,Rules,13_2,1,100.0
+131,20,False,False,Rules,13_3,0,
+131,20,False,False,Isolation Forest,10_0,1,0.0
+131,20,False,False,Isolation Forest,10_1,1,0.0
+131,20,False,False,Isolation Forest,10_2,1,0.0
+131,20,False,False,Isolation Forest,10_3,1,0.0
+131,20,False,False,Isolation Forest,11_0,1,0.0
+131,20,False,False,Isolation Forest,11_1,1,0.0
+131,20,False,False,Isolation Forest,11_2,1,0.0
+131,20,False,False,Isolation Forest,11_3,1,0.0
+131,20,False,False,Isolation Forest,12_0,1,0.0
+131,20,False,False,Isolation Forest,12_1,1,0.0
+131,20,False,False,Isolation Forest,12_2,1,0.0
+131,20,False,False,Isolation Forest,12_3,1,0.0
+131,20,False,False,Isolation Forest,13_0,1,0.0
+131,20,False,False,Isolation Forest,13_1,1,0.0
+131,20,False,False,Isolation Forest,13_2,1,0.0
+131,20,False,False,Isolation Forest,13_3,1,0.0
+131,20,False,True,Rules,10_0,0,
+131,20,False,True,Rules,10_1,1,80.0
+131,20,False,True,Rules,10_2,1,80.0
+131,20,False,True,Rules,10_3,0,
+131,20,False,True,Rules,11_0,0,
+131,20,False,True,Rules,11_1,1,80.0
+131,20,False,True,Rules,11_2,1,60.0
+131,20,False,True,Rules,11_3,0,
+131,20,False,True,Rules,12_0,0,
+131,20,False,True,Rules,12_1,1,80.0
+131,20,False,True,Rules,12_2,1,120.0
+131,20,False,True,Rules,12_3,0,
+131,20,False,True,Rules,13_0,0,
+131,20,False,True,Rules,13_1,1,80.0
+131,20,False,True,Rules,13_2,1,100.0
+131,20,False,True,Rules,13_3,0,
+131,20,False,True,Isolation Forest,10_0,1,0.0
+131,20,False,True,Isolation Forest,10_1,1,0.0
+131,20,False,True,Isolation Forest,10_2,1,0.0
+131,20,False,True,Isolation Forest,10_3,1,0.0
+131,20,False,True,Isolation Forest,11_0,1,0.0
+131,20,False,True,Isolation Forest,11_1,1,0.0
+131,20,False,True,Isolation Forest,11_2,1,0.0
+131,20,False,True,Isolation Forest,11_3,1,0.0
+131,20,False,True,Isolation Forest,12_0,1,0.0
+131,20,False,True,Isolation Forest,12_1,1,0.0
+131,20,False,True,Isolation Forest,12_2,1,0.0
+131,20,False,True,Isolation Forest,12_3,1,0.0
+131,20,False,True,Isolation Forest,13_0,1,0.0
+131,20,False,True,Isolation Forest,13_1,1,0.0
+131,20,False,True,Isolation Forest,13_2,1,0.0
+131,20,False,True,Isolation Forest,13_3,1,0.0
+131,20,True,False,Rules,10_0,0,
+131,20,True,False,Rules,10_1,1,80.0
+131,20,True,False,Rules,10_2,1,80.0
+131,20,True,False,Rules,10_3,0,
+131,20,True,False,Rules,11_0,0,
+131,20,True,False,Rules,11_1,1,80.0
+131,20,True,False,Rules,11_2,1,60.0
+131,20,True,False,Rules,11_3,0,
+131,20,True,False,Rules,12_0,0,
+131,20,True,False,Rules,12_1,1,80.0
+131,20,True,False,Rules,12_2,1,120.0
+131,20,True,False,Rules,12_3,0,
+131,20,True,False,Rules,13_0,0,
+131,20,True,False,Rules,13_1,1,80.0
+131,20,True,False,Rules,13_2,1,100.0
+131,20,True,False,Rules,13_3,0,
+131,20,True,False,Isolation Forest,10_0,1,20.0
+131,20,True,False,Isolation Forest,10_1,1,20.0
+131,20,True,False,Isolation Forest,10_2,1,20.0
+131,20,True,False,Isolation Forest,10_3,1,20.0
+131,20,True,False,Isolation Forest,11_0,1,0.0
+131,20,True,False,Isolation Forest,11_1,1,20.0
+131,20,True,False,Isolation Forest,11_2,1,20.0
+131,20,True,False,Isolation Forest,11_3,1,20.0
+131,20,True,False,Isolation Forest,12_0,1,20.0
+131,20,True,False,Isolation Forest,12_1,1,40.0
+131,20,True,False,Isolation Forest,12_2,1,20.0
+131,20,True,False,Isolation Forest,12_3,1,20.0
+131,20,True,False,Isolation Forest,13_0,1,20.0
+131,20,True,False,Isolation Forest,13_1,1,20.0
+131,20,True,False,Isolation Forest,13_2,1,20.0
+131,20,True,False,Isolation Forest,13_3,1,20.0
+131,20,True,True,Rules,10_0,0,
+131,20,True,True,Rules,10_1,1,80.0
+131,20,True,True,Rules,10_2,1,80.0
+131,20,True,True,Rules,10_3,0,
+131,20,True,True,Rules,11_0,0,
+131,20,True,True,Rules,11_1,1,80.0
+131,20,True,True,Rules,11_2,1,60.0
+131,20,True,True,Rules,11_3,0,
+131,20,True,True,Rules,12_0,0,
+131,20,True,True,Rules,12_1,1,80.0
+131,20,True,True,Rules,12_2,1,120.0
+131,20,True,True,Rules,12_3,0,
+131,20,True,True,Rules,13_0,0,
+131,20,True,True,Rules,13_1,1,80.0
+131,20,True,True,Rules,13_2,1,100.0
+131,20,True,True,Rules,13_3,0,
+131,20,True,True,Isolation Forest,10_0,1,20.0
+131,20,True,True,Isolation Forest,10_1,1,0.0
+131,20,True,True,Isolation Forest,10_2,1,20.0
+131,20,True,True,Isolation Forest,10_3,1,20.0
+131,20,True,True,Isolation Forest,11_0,1,0.0
+131,20,True,True,Isolation Forest,11_1,1,20.0
+131,20,True,True,Isolation Forest,11_2,1,20.0
+131,20,True,True,Isolation Forest,11_3,1,20.0
+131,20,True,True,Isolation Forest,12_0,1,20.0
+131,20,True,True,Isolation Forest,12_1,1,40.0
+131,20,True,True,Isolation Forest,12_2,1,20.0
+131,20,True,True,Isolation Forest,12_3,1,20.0
+131,20,True,True,Isolation Forest,13_0,1,20.0
+131,20,True,True,Isolation Forest,13_1,1,20.0
+131,20,True,True,Isolation Forest,13_2,1,20.0
+131,20,True,True,Isolation Forest,13_3,1,20.0
+131,60,False,False,Rules,10_0,0,
+131,60,False,False,Rules,10_1,1,240.0
+131,60,False,False,Rules,10_2,1,240.0
+131,60,False,False,Rules,10_3,0,
+131,60,False,False,Rules,11_0,0,
+131,60,False,False,Rules,11_1,1,240.0
+131,60,False,False,Rules,11_2,1,180.0
+131,60,False,False,Rules,11_3,0,
+131,60,False,False,Rules,12_0,0,
+131,60,False,False,Rules,12_1,1,240.0
+131,60,False,False,Rules,12_2,1,360.0
+131,60,False,False,Rules,12_3,0,
+131,60,False,False,Rules,13_0,0,
+131,60,False,False,Rules,13_1,1,240.0
+131,60,False,False,Rules,13_2,1,300.0
+131,60,False,False,Rules,13_3,0,
+131,60,False,False,Isolation Forest,10_0,1,0.0
+131,60,False,False,Isolation Forest,10_1,1,0.0
+131,60,False,False,Isolation Forest,10_2,1,0.0
+131,60,False,False,Isolation Forest,10_3,1,0.0
+131,60,False,False,Isolation Forest,11_0,1,0.0
+131,60,False,False,Isolation Forest,11_1,1,0.0
+131,60,False,False,Isolation Forest,11_2,1,0.0
+131,60,False,False,Isolation Forest,11_3,1,0.0
+131,60,False,False,Isolation Forest,12_0,1,0.0
+131,60,False,False,Isolation Forest,12_1,1,0.0
+131,60,False,False,Isolation Forest,12_2,1,0.0
+131,60,False,False,Isolation Forest,12_3,1,0.0
+131,60,False,False,Isolation Forest,13_0,1,0.0
+131,60,False,False,Isolation Forest,13_1,1,0.0
+131,60,False,False,Isolation Forest,13_2,1,0.0
+131,60,False,False,Isolation Forest,13_3,1,0.0
+131,60,False,True,Rules,10_0,0,
+131,60,False,True,Rules,10_1,1,240.0
+131,60,False,True,Rules,10_2,1,240.0
+131,60,False,True,Rules,10_3,0,
+131,60,False,True,Rules,11_0,0,
+131,60,False,True,Rules,11_1,1,240.0
+131,60,False,True,Rules,11_2,1,180.0
+131,60,False,True,Rules,11_3,0,
+131,60,False,True,Rules,12_0,0,
+131,60,False,True,Rules,12_1,1,240.0
+131,60,False,True,Rules,12_2,1,360.0
+131,60,False,True,Rules,12_3,0,
+131,60,False,True,Rules,13_0,0,
+131,60,False,True,Rules,13_1,1,240.0
+131,60,False,True,Rules,13_2,1,300.0
+131,60,False,True,Rules,13_3,0,
+131,60,False,True,Isolation Forest,10_0,1,0.0
+131,60,False,True,Isolation Forest,10_1,1,0.0
+131,60,False,True,Isolation Forest,10_2,1,0.0
+131,60,False,True,Isolation Forest,10_3,1,0.0
+131,60,False,True,Isolation Forest,11_0,1,0.0
+131,60,False,True,Isolation Forest,11_1,1,0.0
+131,60,False,True,Isolation Forest,11_2,1,0.0
+131,60,False,True,Isolation Forest,11_3,1,0.0
+131,60,False,True,Isolation Forest,12_0,1,0.0
+131,60,False,True,Isolation Forest,12_1,1,0.0
+131,60,False,True,Isolation Forest,12_2,1,0.0
+131,60,False,True,Isolation Forest,12_3,1,0.0
+131,60,False,True,Isolation Forest,13_0,1,0.0
+131,60,False,True,Isolation Forest,13_1,1,0.0
+131,60,False,True,Isolation Forest,13_2,1,0.0
+131,60,False,True,Isolation Forest,13_3,1,0.0
+131,60,True,False,Rules,10_0,0,
+131,60,True,False,Rules,10_1,1,240.0
+131,60,True,False,Rules,10_2,1,240.0
+131,60,True,False,Rules,10_3,0,
+131,60,True,False,Rules,11_0,0,
+131,60,True,False,Rules,11_1,1,240.0
+131,60,True,False,Rules,11_2,1,180.0
+131,60,True,False,Rules,11_3,0,
+131,60,True,False,Rules,12_0,0,
+131,60,True,False,Rules,12_1,1,240.0
+131,60,True,False,Rules,12_2,1,360.0
+131,60,True,False,Rules,12_3,0,
+131,60,True,False,Rules,13_0,0,
+131,60,True,False,Rules,13_1,1,240.0
+131,60,True,False,Rules,13_2,1,300.0
+131,60,True,False,Rules,13_3,0,
+131,60,True,False,Isolation Forest,10_0,1,60.0
+131,60,True,False,Isolation Forest,10_1,1,60.0
+131,60,True,False,Isolation Forest,10_2,1,60.0
+131,60,True,False,Isolation Forest,10_3,1,60.0
+131,60,True,False,Isolation Forest,11_0,1,0.0
+131,60,True,False,Isolation Forest,11_1,1,60.0
+131,60,True,False,Isolation Forest,11_2,1,60.0
+131,60,True,False,Isolation Forest,11_3,1,60.0
+131,60,True,False,Isolation Forest,12_0,1,60.0
+131,60,True,False,Isolation Forest,12_1,1,120.0
+131,60,True,False,Isolation Forest,12_2,1,60.0
+131,60,True,False,Isolation Forest,12_3,1,60.0
+131,60,True,False,Isolation Forest,13_0,1,60.0
+131,60,True,False,Isolation Forest,13_1,1,60.0
+131,60,True,False,Isolation Forest,13_2,1,60.0
+131,60,True,False,Isolation Forest,13_3,1,60.0
+131,60,True,True,Rules,10_0,0,
+131,60,True,True,Rules,10_1,1,240.0
+131,60,True,True,Rules,10_2,1,240.0
+131,60,True,True,Rules,10_3,0,
+131,60,True,True,Rules,11_0,0,
+131,60,True,True,Rules,11_1,1,240.0
+131,60,True,True,Rules,11_2,1,180.0
+131,60,True,True,Rules,11_3,0,
+131,60,True,True,Rules,12_0,0,
+131,60,True,True,Rules,12_1,1,240.0
+131,60,True,True,Rules,12_2,1,360.0
+131,60,True,True,Rules,12_3,0,
+131,60,True,True,Rules,13_0,0,
+131,60,True,True,Rules,13_1,1,240.0
+131,60,True,True,Rules,13_2,1,300.0
+131,60,True,True,Rules,13_3,0,
+131,60,True,True,Isolation Forest,10_0,1,60.0
+131,60,True,True,Isolation Forest,10_1,1,0.0
+131,60,True,True,Isolation Forest,10_2,1,60.0
+131,60,True,True,Isolation Forest,10_3,1,60.0
+131,60,True,True,Isolation Forest,11_0,1,0.0
+131,60,True,True,Isolation Forest,11_1,1,60.0
+131,60,True,True,Isolation Forest,11_2,1,60.0
+131,60,True,True,Isolation Forest,11_3,1,60.0
+131,60,True,True,Isolation Forest,12_0,1,60.0
+131,60,True,True,Isolation Forest,12_1,1,120.0
+131,60,True,True,Isolation Forest,12_2,1,60.0
+131,60,True,True,Isolation Forest,12_3,1,60.0
+131,60,True,True,Isolation Forest,13_0,1,60.0
+131,60,True,True,Isolation Forest,13_1,1,60.0
+131,60,True,True,Isolation Forest,13_2,1,60.0
+131,60,True,True,Isolation Forest,13_3,1,60.0
+131,150,False,False,Rules,10_0,0,
+131,150,False,False,Rules,10_1,1,600.0
+131,150,False,False,Rules,10_2,1,600.0
+131,150,False,False,Rules,10_3,0,
+131,150,False,False,Rules,11_0,0,
+131,150,False,False,Rules,11_1,1,600.0
+131,150,False,False,Rules,11_2,1,450.0
+131,150,False,False,Rules,11_3,0,
+131,150,False,False,Rules,12_0,0,
+131,150,False,False,Rules,12_1,1,600.0
+131,150,False,False,Rules,12_2,1,900.0
+131,150,False,False,Rules,12_3,0,
+131,150,False,False,Rules,13_0,0,
+131,150,False,False,Rules,13_1,1,600.0
+131,150,False,False,Rules,13_2,1,750.0
+131,150,False,False,Rules,13_3,0,
+131,150,False,False,Isolation Forest,10_0,1,0.0
+131,150,False,False,Isolation Forest,10_1,1,0.0
+131,150,False,False,Isolation Forest,10_2,1,0.0
+131,150,False,False,Isolation Forest,10_3,1,0.0
+131,150,False,False,Isolation Forest,11_0,1,0.0
+131,150,False,False,Isolation Forest,11_1,1,0.0
+131,150,False,False,Isolation Forest,11_2,1,0.0
+131,150,False,False,Isolation Forest,11_3,1,0.0
+131,150,False,False,Isolation Forest,12_0,1,0.0
+131,150,False,False,Isolation Forest,12_1,1,0.0
+131,150,False,False,Isolation Forest,12_2,1,0.0
+131,150,False,False,Isolation Forest,12_3,1,0.0
+131,150,False,False,Isolation Forest,13_0,1,0.0
+131,150,False,False,Isolation Forest,13_1,1,0.0
+131,150,False,False,Isolation Forest,13_2,1,0.0
+131,150,False,False,Isolation Forest,13_3,1,0.0
+131,150,False,True,Rules,10_0,0,
+131,150,False,True,Rules,10_1,1,600.0
+131,150,False,True,Rules,10_2,1,600.0
+131,150,False,True,Rules,10_3,0,
+131,150,False,True,Rules,11_0,0,
+131,150,False,True,Rules,11_1,1,600.0
+131,150,False,True,Rules,11_2,1,450.0
+131,150,False,True,Rules,11_3,0,
+131,150,False,True,Rules,12_0,0,
+131,150,False,True,Rules,12_1,1,600.0
+131,150,False,True,Rules,12_2,1,900.0
+131,150,False,True,Rules,12_3,0,
+131,150,False,True,Rules,13_0,0,
+131,150,False,True,Rules,13_1,1,600.0
+131,150,False,True,Rules,13_2,1,750.0
+131,150,False,True,Rules,13_3,0,
+131,150,False,True,Isolation Forest,10_0,1,0.0
+131,150,False,True,Isolation Forest,10_1,1,0.0
+131,150,False,True,Isolation Forest,10_2,1,0.0
+131,150,False,True,Isolation Forest,10_3,1,0.0
+131,150,False,True,Isolation Forest,11_0,1,0.0
+131,150,False,True,Isolation Forest,11_1,1,0.0
+131,150,False,True,Isolation Forest,11_2,1,0.0
+131,150,False,True,Isolation Forest,11_3,1,0.0
+131,150,False,True,Isolation Forest,12_0,1,0.0
+131,150,False,True,Isolation Forest,12_1,1,0.0
+131,150,False,True,Isolation Forest,12_2,1,0.0
+131,150,False,True,Isolation Forest,12_3,1,0.0
+131,150,False,True,Isolation Forest,13_0,1,0.0
+131,150,False,True,Isolation Forest,13_1,1,0.0
+131,150,False,True,Isolation Forest,13_2,1,0.0
+131,150,False,True,Isolation Forest,13_3,1,0.0
+131,150,True,False,Rules,10_0,0,
+131,150,True,False,Rules,10_1,1,600.0
+131,150,True,False,Rules,10_2,1,600.0
+131,150,True,False,Rules,10_3,0,
+131,150,True,False,Rules,11_0,0,
+131,150,True,False,Rules,11_1,1,600.0
+131,150,True,False,Rules,11_2,1,450.0
+131,150,True,False,Rules,11_3,0,
+131,150,True,False,Rules,12_0,0,
+131,150,True,False,Rules,12_1,1,600.0
+131,150,True,False,Rules,12_2,1,900.0
+131,150,True,False,Rules,12_3,0,
+131,150,True,False,Rules,13_0,0,
+131,150,True,False,Rules,13_1,1,600.0
+131,150,True,False,Rules,13_2,1,750.0
+131,150,True,False,Rules,13_3,0,
+131,150,True,False,Isolation Forest,10_0,1,300.0
+131,150,True,False,Isolation Forest,10_1,1,150.0
+131,150,True,False,Isolation Forest,10_2,1,300.0
+131,150,True,False,Isolation Forest,10_3,1,150.0
+131,150,True,False,Isolation Forest,11_0,1,0.0
+131,150,True,False,Isolation Forest,11_1,1,150.0
+131,150,True,False,Isolation Forest,11_2,1,300.0
+131,150,True,False,Isolation Forest,11_3,1,300.0
+131,150,True,False,Isolation Forest,12_0,1,300.0
+131,150,True,False,Isolation Forest,12_1,1,300.0
+131,150,True,False,Isolation Forest,12_2,1,300.0
+131,150,True,False,Isolation Forest,12_3,1,150.0
+131,150,True,False,Isolation Forest,13_0,1,150.0
+131,150,True,False,Isolation Forest,13_1,1,300.0
+131,150,True,False,Isolation Forest,13_2,1,300.0
+131,150,True,False,Isolation Forest,13_3,1,300.0
+131,150,True,True,Rules,10_0,0,
+131,150,True,True,Rules,10_1,1,600.0
+131,150,True,True,Rules,10_2,1,600.0
+131,150,True,True,Rules,10_3,0,
+131,150,True,True,Rules,11_0,0,
+131,150,True,True,Rules,11_1,1,600.0
+131,150,True,True,Rules,11_2,1,450.0
+131,150,True,True,Rules,11_3,0,
+131,150,True,True,Rules,12_0,0,
+131,150,True,True,Rules,12_1,1,600.0
+131,150,True,True,Rules,12_2,1,900.0
+131,150,True,True,Rules,12_3,0,
+131,150,True,True,Rules,13_0,0,
+131,150,True,True,Rules,13_1,1,600.0
+131,150,True,True,Rules,13_2,1,750.0
+131,150,True,True,Rules,13_3,0,
+131,150,True,True,Isolation Forest,10_0,1,300.0
+131,150,True,True,Isolation Forest,10_1,1,0.0
+131,150,True,True,Isolation Forest,10_2,1,300.0
+131,150,True,True,Isolation Forest,10_3,1,150.0
+131,150,True,True,Isolation Forest,11_0,1,0.0
+131,150,True,True,Isolation Forest,11_1,1,150.0
+131,150,True,True,Isolation Forest,11_2,1,300.0
+131,150,True,True,Isolation Forest,11_3,1,300.0
+131,150,True,True,Isolation Forest,12_0,1,300.0
+131,150,True,True,Isolation Forest,12_1,1,300.0
+131,150,True,True,Isolation Forest,12_2,1,300.0
+131,150,True,True,Isolation Forest,12_3,1,150.0
+131,150,True,True,Isolation Forest,13_0,1,150.0
+131,150,True,True,Isolation Forest,13_1,1,300.0
+131,150,True,True,Isolation Forest,13_2,1,150.0
+131,150,True,True,Isolation Forest,13_3,1,300.0
+137,20,False,False,Rules,10_0,0,
+137,20,False,False,Rules,10_1,1,80.0
+137,20,False,False,Rules,10_2,1,140.0
+137,20,False,False,Rules,10_3,0,
+137,20,False,False,Rules,11_0,0,
+137,20,False,False,Rules,11_1,0,
+137,20,False,False,Rules,11_2,1,100.0
+137,20,False,False,Rules,11_3,0,
+137,20,False,False,Rules,12_0,0,
+137,20,False,False,Rules,12_1,0,
+137,20,False,False,Rules,12_2,1,60.0
+137,20,False,False,Rules,12_3,0,
+137,20,False,False,Rules,13_0,0,
+137,20,False,False,Rules,13_1,0,
+137,20,False,False,Rules,13_2,1,140.0
+137,20,False,False,Rules,13_3,0,
+137,20,False,False,Isolation Forest,10_0,1,0.0
+137,20,False,False,Isolation Forest,10_1,1,0.0
+137,20,False,False,Isolation Forest,10_2,1,0.0
+137,20,False,False,Isolation Forest,10_3,1,0.0
+137,20,False,False,Isolation Forest,11_0,1,0.0
+137,20,False,False,Isolation Forest,11_1,1,0.0
+137,20,False,False,Isolation Forest,11_2,1,0.0
+137,20,False,False,Isolation Forest,11_3,1,0.0
+137,20,False,False,Isolation Forest,12_0,1,0.0
+137,20,False,False,Isolation Forest,12_1,1,0.0
+137,20,False,False,Isolation Forest,12_2,1,0.0
+137,20,False,False,Isolation Forest,12_3,1,0.0
+137,20,False,False,Isolation Forest,13_0,1,0.0
+137,20,False,False,Isolation Forest,13_1,1,0.0
+137,20,False,False,Isolation Forest,13_2,1,0.0
+137,20,False,False,Isolation Forest,13_3,1,0.0
+137,20,False,True,Rules,10_0,0,
+137,20,False,True,Rules,10_1,1,80.0
+137,20,False,True,Rules,10_2,1,140.0
+137,20,False,True,Rules,10_3,0,
+137,20,False,True,Rules,11_0,0,
+137,20,False,True,Rules,11_1,0,
+137,20,False,True,Rules,11_2,1,100.0
+137,20,False,True,Rules,11_3,0,
+137,20,False,True,Rules,12_0,0,
+137,20,False,True,Rules,12_1,0,
+137,20,False,True,Rules,12_2,1,60.0
+137,20,False,True,Rules,12_3,0,
+137,20,False,True,Rules,13_0,0,
+137,20,False,True,Rules,13_1,1,60.0
+137,20,False,True,Rules,13_2,1,140.0
+137,20,False,True,Rules,13_3,0,
+137,20,False,True,Isolation Forest,10_0,1,0.0
+137,20,False,True,Isolation Forest,10_1,1,0.0
+137,20,False,True,Isolation Forest,10_2,1,0.0
+137,20,False,True,Isolation Forest,10_3,1,0.0
+137,20,False,True,Isolation Forest,11_0,1,0.0
+137,20,False,True,Isolation Forest,11_1,1,0.0
+137,20,False,True,Isolation Forest,11_2,1,0.0
+137,20,False,True,Isolation Forest,11_3,1,0.0
+137,20,False,True,Isolation Forest,12_0,1,0.0
+137,20,False,True,Isolation Forest,12_1,1,0.0
+137,20,False,True,Isolation Forest,12_2,1,0.0
+137,20,False,True,Isolation Forest,12_3,1,0.0
+137,20,False,True,Isolation Forest,13_0,1,0.0
+137,20,False,True,Isolation Forest,13_1,1,0.0
+137,20,False,True,Isolation Forest,13_2,1,0.0
+137,20,False,True,Isolation Forest,13_3,1,0.0
+137,20,True,False,Rules,10_0,0,
+137,20,True,False,Rules,10_1,1,80.0
+137,20,True,False,Rules,10_2,1,140.0
+137,20,True,False,Rules,10_3,0,
+137,20,True,False,Rules,11_0,0,
+137,20,True,False,Rules,11_1,0,
+137,20,True,False,Rules,11_2,1,100.0
+137,20,True,False,Rules,11_3,0,
+137,20,True,False,Rules,12_0,0,
+137,20,True,False,Rules,12_1,0,
+137,20,True,False,Rules,12_2,1,60.0
+137,20,True,False,Rules,12_3,0,
+137,20,True,False,Rules,13_0,0,
+137,20,True,False,Rules,13_1,0,
+137,20,True,False,Rules,13_2,1,140.0
+137,20,True,False,Rules,13_3,0,
+137,20,True,False,Isolation Forest,10_0,1,20.0
+137,20,True,False,Isolation Forest,10_1,1,40.0
+137,20,True,False,Isolation Forest,10_2,1,20.0
+137,20,True,False,Isolation Forest,10_3,1,20.0
+137,20,True,False,Isolation Forest,11_0,1,20.0
+137,20,True,False,Isolation Forest,11_1,1,40.0
+137,20,True,False,Isolation Forest,11_2,1,20.0
+137,20,True,False,Isolation Forest,11_3,1,20.0
+137,20,True,False,Isolation Forest,12_0,1,20.0
+137,20,True,False,Isolation Forest,12_1,1,40.0
+137,20,True,False,Isolation Forest,12_2,1,20.0
+137,20,True,False,Isolation Forest,12_3,1,20.0
+137,20,True,False,Isolation Forest,13_0,1,20.0
+137,20,True,False,Isolation Forest,13_1,1,20.0
+137,20,True,False,Isolation Forest,13_2,1,20.0
+137,20,True,False,Isolation Forest,13_3,1,20.0
+137,20,True,True,Rules,10_0,0,
+137,20,True,True,Rules,10_1,1,80.0
+137,20,True,True,Rules,10_2,1,140.0
+137,20,True,True,Rules,10_3,0,
+137,20,True,True,Rules,11_0,0,
+137,20,True,True,Rules,11_1,0,
+137,20,True,True,Rules,11_2,1,100.0
+137,20,True,True,Rules,11_3,0,
+137,20,True,True,Rules,12_0,0,
+137,20,True,True,Rules,12_1,0,
+137,20,True,True,Rules,12_2,1,60.0
+137,20,True,True,Rules,12_3,0,
+137,20,True,True,Rules,13_0,0,
+137,20,True,True,Rules,13_1,1,60.0
+137,20,True,True,Rules,13_2,1,140.0
+137,20,True,True,Rules,13_3,0,
+137,20,True,True,Isolation Forest,10_0,1,20.0
+137,20,True,True,Isolation Forest,10_1,1,40.0
+137,20,True,True,Isolation Forest,10_2,1,20.0
+137,20,True,True,Isolation Forest,10_3,1,20.0
+137,20,True,True,Isolation Forest,11_0,1,20.0
+137,20,True,True,Isolation Forest,11_1,1,20.0
+137,20,True,True,Isolation Forest,11_2,1,20.0
+137,20,True,True,Isolation Forest,11_3,1,20.0
+137,20,True,True,Isolation Forest,12_0,1,20.0
+137,20,True,True,Isolation Forest,12_1,1,40.0
+137,20,True,True,Isolation Forest,12_2,1,20.0
+137,20,True,True,Isolation Forest,12_3,1,0.0
+137,20,True,True,Isolation Forest,13_0,1,20.0
+137,20,True,True,Isolation Forest,13_1,1,0.0
+137,20,True,True,Isolation Forest,13_2,1,20.0
+137,20,True,True,Isolation Forest,13_3,1,20.0
+137,60,False,False,Rules,10_0,0,
+137,60,False,False,Rules,10_1,1,240.0
+137,60,False,False,Rules,10_2,1,420.0
+137,60,False,False,Rules,10_3,0,
+137,60,False,False,Rules,11_0,0,
+137,60,False,False,Rules,11_1,0,
+137,60,False,False,Rules,11_2,1,300.0
+137,60,False,False,Rules,11_3,0,
+137,60,False,False,Rules,12_0,0,
+137,60,False,False,Rules,12_1,0,
+137,60,False,False,Rules,12_2,1,180.0
+137,60,False,False,Rules,12_3,0,
+137,60,False,False,Rules,13_0,0,
+137,60,False,False,Rules,13_1,0,
+137,60,False,False,Rules,13_2,1,420.0
+137,60,False,False,Rules,13_3,0,
+137,60,False,False,Isolation Forest,10_0,1,0.0
+137,60,False,False,Isolation Forest,10_1,1,0.0
+137,60,False,False,Isolation Forest,10_2,1,0.0
+137,60,False,False,Isolation Forest,10_3,1,0.0
+137,60,False,False,Isolation Forest,11_0,1,0.0
+137,60,False,False,Isolation Forest,11_1,1,0.0
+137,60,False,False,Isolation Forest,11_2,1,0.0
+137,60,False,False,Isolation Forest,11_3,1,0.0
+137,60,False,False,Isolation Forest,12_0,1,0.0
+137,60,False,False,Isolation Forest,12_1,1,0.0
+137,60,False,False,Isolation Forest,12_2,1,0.0
+137,60,False,False,Isolation Forest,12_3,1,0.0
+137,60,False,False,Isolation Forest,13_0,1,0.0
+137,60,False,False,Isolation Forest,13_1,1,0.0
+137,60,False,False,Isolation Forest,13_2,1,0.0
+137,60,False,False,Isolation Forest,13_3,1,0.0
+137,60,False,True,Rules,10_0,0,
+137,60,False,True,Rules,10_1,1,240.0
+137,60,False,True,Rules,10_2,1,420.0
+137,60,False,True,Rules,10_3,0,
+137,60,False,True,Rules,11_0,0,
+137,60,False,True,Rules,11_1,0,
+137,60,False,True,Rules,11_2,1,300.0
+137,60,False,True,Rules,11_3,0,
+137,60,False,True,Rules,12_0,0,
+137,60,False,True,Rules,12_1,0,
+137,60,False,True,Rules,12_2,1,180.0
+137,60,False,True,Rules,12_3,0,
+137,60,False,True,Rules,13_0,0,
+137,60,False,True,Rules,13_1,1,120.0
+137,60,False,True,Rules,13_2,1,420.0
+137,60,False,True,Rules,13_3,0,
+137,60,False,True,Isolation Forest,10_0,1,0.0
+137,60,False,True,Isolation Forest,10_1,1,0.0
+137,60,False,True,Isolation Forest,10_2,1,0.0
+137,60,False,True,Isolation Forest,10_3,1,0.0
+137,60,False,True,Isolation Forest,11_0,1,0.0
+137,60,False,True,Isolation Forest,11_1,1,0.0
+137,60,False,True,Isolation Forest,11_2,1,0.0
+137,60,False,True,Isolation Forest,11_3,1,0.0
+137,60,False,True,Isolation Forest,12_0,1,0.0
+137,60,False,True,Isolation Forest,12_1,1,0.0
+137,60,False,True,Isolation Forest,12_2,1,0.0
+137,60,False,True,Isolation Forest,12_3,1,0.0
+137,60,False,True,Isolation Forest,13_0,1,0.0
+137,60,False,True,Isolation Forest,13_1,1,0.0
+137,60,False,True,Isolation Forest,13_2,1,0.0
+137,60,False,True,Isolation Forest,13_3,1,0.0
+137,60,True,False,Rules,10_0,0,
+137,60,True,False,Rules,10_1,1,240.0
+137,60,True,False,Rules,10_2,1,420.0
+137,60,True,False,Rules,10_3,0,
+137,60,True,False,Rules,11_0,0,
+137,60,True,False,Rules,11_1,0,
+137,60,True,False,Rules,11_2,1,300.0
+137,60,True,False,Rules,11_3,0,
+137,60,True,False,Rules,12_0,0,
+137,60,True,False,Rules,12_1,0,
+137,60,True,False,Rules,12_2,1,180.0
+137,60,True,False,Rules,12_3,0,
+137,60,True,False,Rules,13_0,0,
+137,60,True,False,Rules,13_1,0,
+137,60,True,False,Rules,13_2,1,420.0
+137,60,True,False,Rules,13_3,0,
+137,60,True,False,Isolation Forest,10_0,1,60.0
+137,60,True,False,Isolation Forest,10_1,1,120.0
+137,60,True,False,Isolation Forest,10_2,1,60.0
+137,60,True,False,Isolation Forest,10_3,1,60.0
+137,60,True,False,Isolation Forest,11_0,1,60.0
+137,60,True,False,Isolation Forest,11_1,1,120.0
+137,60,True,False,Isolation Forest,11_2,1,60.0
+137,60,True,False,Isolation Forest,11_3,1,60.0
+137,60,True,False,Isolation Forest,12_0,1,60.0
+137,60,True,False,Isolation Forest,12_1,1,120.0
+137,60,True,False,Isolation Forest,12_2,1,60.0
+137,60,True,False,Isolation Forest,12_3,1,60.0
+137,60,True,False,Isolation Forest,13_0,1,60.0
+137,60,True,False,Isolation Forest,13_1,1,60.0
+137,60,True,False,Isolation Forest,13_2,1,60.0
+137,60,True,False,Isolation Forest,13_3,1,60.0
+137,60,True,True,Rules,10_0,0,
+137,60,True,True,Rules,10_1,1,240.0
+137,60,True,True,Rules,10_2,1,420.0
+137,60,True,True,Rules,10_3,0,
+137,60,True,True,Rules,11_0,0,
+137,60,True,True,Rules,11_1,0,
+137,60,True,True,Rules,11_2,1,300.0
+137,60,True,True,Rules,11_3,0,
+137,60,True,True,Rules,12_0,0,
+137,60,True,True,Rules,12_1,0,
+137,60,True,True,Rules,12_2,1,180.0
+137,60,True,True,Rules,12_3,0,
+137,60,True,True,Rules,13_0,0,
+137,60,True,True,Rules,13_1,1,120.0
+137,60,True,True,Rules,13_2,1,420.0
+137,60,True,True,Rules,13_3,0,
+137,60,True,True,Isolation Forest,10_0,1,60.0
+137,60,True,True,Isolation Forest,10_1,1,120.0
+137,60,True,True,Isolation Forest,10_2,1,60.0
+137,60,True,True,Isolation Forest,10_3,1,60.0
+137,60,True,True,Isolation Forest,11_0,1,60.0
+137,60,True,True,Isolation Forest,11_1,1,60.0
+137,60,True,True,Isolation Forest,11_2,1,60.0
+137,60,True,True,Isolation Forest,11_3,1,60.0
+137,60,True,True,Isolation Forest,12_0,1,60.0
+137,60,True,True,Isolation Forest,12_1,1,120.0
+137,60,True,True,Isolation Forest,12_2,1,60.0
+137,60,True,True,Isolation Forest,12_3,1,0.0
+137,60,True,True,Isolation Forest,13_0,1,60.0
+137,60,True,True,Isolation Forest,13_1,1,0.0
+137,60,True,True,Isolation Forest,13_2,1,60.0
+137,60,True,True,Isolation Forest,13_3,1,60.0
+137,150,False,False,Rules,10_0,0,
+137,150,False,False,Rules,10_1,1,600.0
+137,150,False,False,Rules,10_2,1,1050.0
+137,150,False,False,Rules,10_3,0,
+137,150,False,False,Rules,11_0,0,
+137,150,False,False,Rules,11_1,0,
+137,150,False,False,Rules,11_2,1,750.0
+137,150,False,False,Rules,11_3,0,
+137,150,False,False,Rules,12_0,0,
+137,150,False,False,Rules,12_1,0,
+137,150,False,False,Rules,12_2,1,450.0
+137,150,False,False,Rules,12_3,0,
+137,150,False,False,Rules,13_0,0,
+137,150,False,False,Rules,13_1,0,
+137,150,False,False,Rules,13_2,1,1050.0
+137,150,False,False,Rules,13_3,0,
+137,150,False,False,Isolation Forest,10_0,1,0.0
+137,150,False,False,Isolation Forest,10_1,1,0.0
+137,150,False,False,Isolation Forest,10_2,1,0.0
+137,150,False,False,Isolation Forest,10_3,1,0.0
+137,150,False,False,Isolation Forest,11_0,1,0.0
+137,150,False,False,Isolation Forest,11_1,1,0.0
+137,150,False,False,Isolation Forest,11_2,1,0.0
+137,150,False,False,Isolation Forest,11_3,1,0.0
+137,150,False,False,Isolation Forest,12_0,1,0.0
+137,150,False,False,Isolation Forest,12_1,1,0.0
+137,150,False,False,Isolation Forest,12_2,1,0.0
+137,150,False,False,Isolation Forest,12_3,1,0.0
+137,150,False,False,Isolation Forest,13_0,1,0.0
+137,150,False,False,Isolation Forest,13_1,1,0.0
+137,150,False,False,Isolation Forest,13_2,1,0.0
+137,150,False,False,Isolation Forest,13_3,1,0.0
+137,150,False,True,Rules,10_0,0,
+137,150,False,True,Rules,10_1,1,600.0
+137,150,False,True,Rules,10_2,1,1050.0
+137,150,False,True,Rules,10_3,0,
+137,150,False,True,Rules,11_0,0,
+137,150,False,True,Rules,11_1,0,
+137,150,False,True,Rules,11_2,1,750.0
+137,150,False,True,Rules,11_3,0,
+137,150,False,True,Rules,12_0,0,
+137,150,False,True,Rules,12_1,0,
+137,150,False,True,Rules,12_2,1,450.0
+137,150,False,True,Rules,12_3,0,
+137,150,False,True,Rules,13_0,0,
+137,150,False,True,Rules,13_1,1,300.0
+137,150,False,True,Rules,13_2,1,1050.0
+137,150,False,True,Rules,13_3,0,
+137,150,False,True,Isolation Forest,10_0,1,0.0
+137,150,False,True,Isolation Forest,10_1,1,0.0
+137,150,False,True,Isolation Forest,10_2,1,0.0
+137,150,False,True,Isolation Forest,10_3,1,0.0
+137,150,False,True,Isolation Forest,11_0,1,0.0
+137,150,False,True,Isolation Forest,11_1,1,0.0
+137,150,False,True,Isolation Forest,11_2,1,0.0
+137,150,False,True,Isolation Forest,11_3,1,0.0
+137,150,False,True,Isolation Forest,12_0,1,0.0
+137,150,False,True,Isolation Forest,12_1,1,0.0
+137,150,False,True,Isolation Forest,12_2,1,0.0
+137,150,False,True,Isolation Forest,12_3,1,0.0
+137,150,False,True,Isolation Forest,13_0,1,0.0
+137,150,False,True,Isolation Forest,13_1,1,0.0
+137,150,False,True,Isolation Forest,13_2,1,0.0
+137,150,False,True,Isolation Forest,13_3,1,0.0
+137,150,True,False,Rules,10_0,0,
+137,150,True,False,Rules,10_1,1,600.0
+137,150,True,False,Rules,10_2,1,1050.0
+137,150,True,False,Rules,10_3,0,
+137,150,True,False,Rules,11_0,0,
+137,150,True,False,Rules,11_1,0,
+137,150,True,False,Rules,11_2,1,750.0
+137,150,True,False,Rules,11_3,0,
+137,150,True,False,Rules,12_0,0,
+137,150,True,False,Rules,12_1,0,
+137,150,True,False,Rules,12_2,1,450.0
+137,150,True,False,Rules,12_3,0,
+137,150,True,False,Rules,13_0,0,
+137,150,True,False,Rules,13_1,0,
+137,150,True,False,Rules,13_2,1,1050.0
+137,150,True,False,Rules,13_3,0,
+137,150,True,False,Isolation Forest,10_0,1,150.0
+137,150,True,False,Isolation Forest,10_1,1,300.0
+137,150,True,False,Isolation Forest,10_2,1,150.0
+137,150,True,False,Isolation Forest,10_3,1,150.0
+137,150,True,False,Isolation Forest,11_0,1,150.0
+137,150,True,False,Isolation Forest,11_1,1,300.0
+137,150,True,False,Isolation Forest,11_2,1,150.0
+137,150,True,False,Isolation Forest,11_3,1,150.0
+137,150,True,False,Isolation Forest,12_0,1,150.0
+137,150,True,False,Isolation Forest,12_1,1,300.0
+137,150,True,False,Isolation Forest,12_2,1,150.0
+137,150,True,False,Isolation Forest,12_3,1,150.0
+137,150,True,False,Isolation Forest,13_0,1,150.0
+137,150,True,False,Isolation Forest,13_1,1,150.0
+137,150,True,False,Isolation Forest,13_2,1,150.0
+137,150,True,False,Isolation Forest,13_3,1,150.0
+137,150,True,True,Rules,10_0,0,
+137,150,True,True,Rules,10_1,1,600.0
+137,150,True,True,Rules,10_2,1,1050.0
+137,150,True,True,Rules,10_3,0,
+137,150,True,True,Rules,11_0,0,
+137,150,True,True,Rules,11_1,0,
+137,150,True,True,Rules,11_2,1,750.0
+137,150,True,True,Rules,11_3,0,
+137,150,True,True,Rules,12_0,0,
+137,150,True,True,Rules,12_1,0,
+137,150,True,True,Rules,12_2,1,450.0
+137,150,True,True,Rules,12_3,0,
+137,150,True,True,Rules,13_0,0,
+137,150,True,True,Rules,13_1,1,300.0
+137,150,True,True,Rules,13_2,1,1050.0
+137,150,True,True,Rules,13_3,0,
+137,150,True,True,Isolation Forest,10_0,1,150.0
+137,150,True,True,Isolation Forest,10_1,1,300.0
+137,150,True,True,Isolation Forest,10_2,1,150.0
+137,150,True,True,Isolation Forest,10_3,1,150.0
+137,150,True,True,Isolation Forest,11_0,1,150.0
+137,150,True,True,Isolation Forest,11_1,1,150.0
+137,150,True,True,Isolation Forest,11_2,1,150.0
+137,150,True,True,Isolation Forest,11_3,1,150.0
+137,150,True,True,Isolation Forest,12_0,1,150.0
+137,150,True,True,Isolation Forest,12_1,1,300.0
+137,150,True,True,Isolation Forest,12_2,1,150.0
+137,150,True,True,Isolation Forest,12_3,1,0.0
+137,150,True,True,Isolation Forest,13_0,1,150.0
+137,150,True,True,Isolation Forest,13_1,1,0.0
+137,150,True,True,Isolation Forest,13_2,1,150.0
+137,150,True,True,Isolation Forest,13_3,1,150.0
+139,20,False,False,Rules,10_0,0,
+139,20,False,False,Rules,10_1,1,80.0
+139,20,False,False,Rules,10_2,1,60.0
+139,20,False,False,Rules,10_3,0,
+139,20,False,False,Rules,11_0,0,
+139,20,False,False,Rules,11_1,1,80.0
+139,20,False,False,Rules,11_2,1,60.0
+139,20,False,False,Rules,11_3,0,
+139,20,False,False,Rules,12_0,0,
+139,20,False,False,Rules,12_1,1,80.0
+139,20,False,False,Rules,12_2,1,80.0
+139,20,False,False,Rules,12_3,0,
+139,20,False,False,Rules,13_0,0,
+139,20,False,False,Rules,13_1,1,80.0
+139,20,False,False,Rules,13_2,0,
+139,20,False,False,Rules,13_3,0,
+139,20,False,False,Isolation Forest,10_0,1,0.0
+139,20,False,False,Isolation Forest,10_1,1,0.0
+139,20,False,False,Isolation Forest,10_2,1,0.0
+139,20,False,False,Isolation Forest,10_3,1,0.0
+139,20,False,False,Isolation Forest,11_0,1,0.0
+139,20,False,False,Isolation Forest,11_1,1,0.0
+139,20,False,False,Isolation Forest,11_2,1,0.0
+139,20,False,False,Isolation Forest,11_3,1,0.0
+139,20,False,False,Isolation Forest,12_0,1,0.0
+139,20,False,False,Isolation Forest,12_1,1,0.0
+139,20,False,False,Isolation Forest,12_2,1,0.0
+139,20,False,False,Isolation Forest,12_3,1,0.0
+139,20,False,False,Isolation Forest,13_0,1,0.0
+139,20,False,False,Isolation Forest,13_1,1,0.0
+139,20,False,False,Isolation Forest,13_2,1,0.0
+139,20,False,False,Isolation Forest,13_3,1,0.0
+139,20,False,True,Rules,10_0,0,
+139,20,False,True,Rules,10_1,1,80.0
+139,20,False,True,Rules,10_2,1,60.0
+139,20,False,True,Rules,10_3,0,
+139,20,False,True,Rules,11_0,0,
+139,20,False,True,Rules,11_1,1,60.0
+139,20,False,True,Rules,11_2,1,60.0
+139,20,False,True,Rules,11_3,0,
+139,20,False,True,Rules,12_0,0,
+139,20,False,True,Rules,12_1,1,80.0
+139,20,False,True,Rules,12_2,1,80.0
+139,20,False,True,Rules,12_3,0,
+139,20,False,True,Rules,13_0,0,
+139,20,False,True,Rules,13_1,1,40.0
+139,20,False,True,Rules,13_2,0,
+139,20,False,True,Rules,13_3,0,
+139,20,False,True,Isolation Forest,10_0,1,0.0
+139,20,False,True,Isolation Forest,10_1,1,0.0
+139,20,False,True,Isolation Forest,10_2,1,0.0
+139,20,False,True,Isolation Forest,10_3,1,0.0
+139,20,False,True,Isolation Forest,11_0,1,0.0
+139,20,False,True,Isolation Forest,11_1,1,0.0
+139,20,False,True,Isolation Forest,11_2,1,0.0
+139,20,False,True,Isolation Forest,11_3,1,0.0
+139,20,False,True,Isolation Forest,12_0,1,0.0
+139,20,False,True,Isolation Forest,12_1,1,0.0
+139,20,False,True,Isolation Forest,12_2,1,0.0
+139,20,False,True,Isolation Forest,12_3,1,0.0
+139,20,False,True,Isolation Forest,13_0,1,0.0
+139,20,False,True,Isolation Forest,13_1,1,0.0
+139,20,False,True,Isolation Forest,13_2,1,0.0
+139,20,False,True,Isolation Forest,13_3,1,0.0
+139,20,True,False,Rules,10_0,0,
+139,20,True,False,Rules,10_1,1,80.0
+139,20,True,False,Rules,10_2,1,60.0
+139,20,True,False,Rules,10_3,0,
+139,20,True,False,Rules,11_0,0,
+139,20,True,False,Rules,11_1,1,80.0
+139,20,True,False,Rules,11_2,1,60.0
+139,20,True,False,Rules,11_3,0,
+139,20,True,False,Rules,12_0,0,
+139,20,True,False,Rules,12_1,1,80.0
+139,20,True,False,Rules,12_2,1,80.0
+139,20,True,False,Rules,12_3,0,
+139,20,True,False,Rules,13_0,0,
+139,20,True,False,Rules,13_1,1,80.0
+139,20,True,False,Rules,13_2,0,
+139,20,True,False,Rules,13_3,0,
+139,20,True,False,Isolation Forest,10_0,1,40.0
+139,20,True,False,Isolation Forest,10_1,1,120.0
+139,20,True,False,Isolation Forest,10_2,1,40.0
+139,20,True,False,Isolation Forest,10_3,1,40.0
+139,20,True,False,Isolation Forest,11_0,1,20.0
+139,20,True,False,Isolation Forest,11_1,0,
+139,20,True,False,Isolation Forest,11_2,1,40.0
+139,20,True,False,Isolation Forest,11_3,1,40.0
+139,20,True,False,Isolation Forest,12_0,1,40.0
+139,20,True,False,Isolation Forest,12_1,0,
+139,20,True,False,Isolation Forest,12_2,1,20.0
+139,20,True,False,Isolation Forest,12_3,1,40.0
+139,20,True,False,Isolation Forest,13_0,1,40.0
+139,20,True,False,Isolation Forest,13_1,0,
+139,20,True,False,Isolation Forest,13_2,1,20.0
+139,20,True,False,Isolation Forest,13_3,1,20.0
+139,20,True,True,Rules,10_0,0,
+139,20,True,True,Rules,10_1,1,80.0
+139,20,True,True,Rules,10_2,1,60.0
+139,20,True,True,Rules,10_3,0,
+139,20,True,True,Rules,11_0,0,
+139,20,True,True,Rules,11_1,1,60.0
+139,20,True,True,Rules,11_2,1,60.0
+139,20,True,True,Rules,11_3,0,
+139,20,True,True,Rules,12_0,0,
+139,20,True,True,Rules,12_1,1,80.0
+139,20,True,True,Rules,12_2,1,80.0
+139,20,True,True,Rules,12_3,0,
+139,20,True,True,Rules,13_0,0,
+139,20,True,True,Rules,13_1,1,40.0
+139,20,True,True,Rules,13_2,0,
+139,20,True,True,Rules,13_3,0,
+139,20,True,True,Isolation Forest,10_0,1,40.0
+139,20,True,True,Isolation Forest,10_1,1,120.0
+139,20,True,True,Isolation Forest,10_2,1,40.0
+139,20,True,True,Isolation Forest,10_3,1,40.0
+139,20,True,True,Isolation Forest,11_0,1,20.0
+139,20,True,True,Isolation Forest,11_1,0,
+139,20,True,True,Isolation Forest,11_2,1,40.0
+139,20,True,True,Isolation Forest,11_3,1,40.0
+139,20,True,True,Isolation Forest,12_0,1,40.0
+139,20,True,True,Isolation Forest,12_1,0,
+139,20,True,True,Isolation Forest,12_2,1,20.0
+139,20,True,True,Isolation Forest,12_3,1,40.0
+139,20,True,True,Isolation Forest,13_0,1,20.0
+139,20,True,True,Isolation Forest,13_1,1,0.0
+139,20,True,True,Isolation Forest,13_2,1,20.0
+139,20,True,True,Isolation Forest,13_3,1,0.0
+139,60,False,False,Rules,10_0,0,
+139,60,False,False,Rules,10_1,1,240.0
+139,60,False,False,Rules,10_2,1,180.0
+139,60,False,False,Rules,10_3,0,
+139,60,False,False,Rules,11_0,0,
+139,60,False,False,Rules,11_1,1,240.0
+139,60,False,False,Rules,11_2,1,180.0
+139,60,False,False,Rules,11_3,0,
+139,60,False,False,Rules,12_0,0,
+139,60,False,False,Rules,12_1,1,240.0
+139,60,False,False,Rules,12_2,1,240.0
+139,60,False,False,Rules,12_3,0,
+139,60,False,False,Rules,13_0,0,
+139,60,False,False,Rules,13_1,1,240.0
+139,60,False,False,Rules,13_2,0,
+139,60,False,False,Rules,13_3,0,
+139,60,False,False,Isolation Forest,10_0,1,0.0
+139,60,False,False,Isolation Forest,10_1,1,0.0
+139,60,False,False,Isolation Forest,10_2,1,0.0
+139,60,False,False,Isolation Forest,10_3,1,0.0
+139,60,False,False,Isolation Forest,11_0,1,0.0
+139,60,False,False,Isolation Forest,11_1,1,0.0
+139,60,False,False,Isolation Forest,11_2,1,0.0
+139,60,False,False,Isolation Forest,11_3,1,0.0
+139,60,False,False,Isolation Forest,12_0,1,0.0
+139,60,False,False,Isolation Forest,12_1,1,0.0
+139,60,False,False,Isolation Forest,12_2,1,0.0
+139,60,False,False,Isolation Forest,12_3,1,0.0
+139,60,False,False,Isolation Forest,13_0,1,0.0
+139,60,False,False,Isolation Forest,13_1,1,0.0
+139,60,False,False,Isolation Forest,13_2,1,0.0
+139,60,False,False,Isolation Forest,13_3,1,0.0
+139,60,False,True,Rules,10_0,0,
+139,60,False,True,Rules,10_1,1,240.0
+139,60,False,True,Rules,10_2,1,180.0
+139,60,False,True,Rules,10_3,0,
+139,60,False,True,Rules,11_0,0,
+139,60,False,True,Rules,11_1,1,240.0
+139,60,False,True,Rules,11_2,1,180.0
+139,60,False,True,Rules,11_3,0,
+139,60,False,True,Rules,12_0,0,
+139,60,False,True,Rules,12_1,1,240.0
+139,60,False,True,Rules,12_2,1,240.0
+139,60,False,True,Rules,12_3,0,
+139,60,False,True,Rules,13_0,0,
+139,60,False,True,Rules,13_1,1,180.0
+139,60,False,True,Rules,13_2,0,
+139,60,False,True,Rules,13_3,0,
+139,60,False,True,Isolation Forest,10_0,1,0.0
+139,60,False,True,Isolation Forest,10_1,1,0.0
+139,60,False,True,Isolation Forest,10_2,1,0.0
+139,60,False,True,Isolation Forest,10_3,1,0.0
+139,60,False,True,Isolation Forest,11_0,1,0.0
+139,60,False,True,Isolation Forest,11_1,1,0.0
+139,60,False,True,Isolation Forest,11_2,1,0.0
+139,60,False,True,Isolation Forest,11_3,1,0.0
+139,60,False,True,Isolation Forest,12_0,1,0.0
+139,60,False,True,Isolation Forest,12_1,1,0.0
+139,60,False,True,Isolation Forest,12_2,1,0.0
+139,60,False,True,Isolation Forest,12_3,1,0.0
+139,60,False,True,Isolation Forest,13_0,1,0.0
+139,60,False,True,Isolation Forest,13_1,1,0.0
+139,60,False,True,Isolation Forest,13_2,1,0.0
+139,60,False,True,Isolation Forest,13_3,1,0.0
+139,60,True,False,Rules,10_0,0,
+139,60,True,False,Rules,10_1,1,240.0
+139,60,True,False,Rules,10_2,1,180.0
+139,60,True,False,Rules,10_3,0,
+139,60,True,False,Rules,11_0,0,
+139,60,True,False,Rules,11_1,1,240.0
+139,60,True,False,Rules,11_2,1,180.0
+139,60,True,False,Rules,11_3,0,
+139,60,True,False,Rules,12_0,0,
+139,60,True,False,Rules,12_1,1,240.0
+139,60,True,False,Rules,12_2,1,240.0
+139,60,True,False,Rules,12_3,0,
+139,60,True,False,Rules,13_0,0,
+139,60,True,False,Rules,13_1,1,240.0
+139,60,True,False,Rules,13_2,0,
+139,60,True,False,Rules,13_3,0,
+139,60,True,False,Isolation Forest,10_0,1,120.0
+139,60,True,False,Isolation Forest,10_1,1,360.0
+139,60,True,False,Isolation Forest,10_2,1,120.0
+139,60,True,False,Isolation Forest,10_3,1,120.0
+139,60,True,False,Isolation Forest,11_0,1,60.0
+139,60,True,False,Isolation Forest,11_1,0,
+139,60,True,False,Isolation Forest,11_2,1,120.0
+139,60,True,False,Isolation Forest,11_3,1,120.0
+139,60,True,False,Isolation Forest,12_0,1,120.0
+139,60,True,False,Isolation Forest,12_1,0,
+139,60,True,False,Isolation Forest,12_2,1,60.0
+139,60,True,False,Isolation Forest,12_3,1,120.0
+139,60,True,False,Isolation Forest,13_0,1,120.0
+139,60,True,False,Isolation Forest,13_1,0,
+139,60,True,False,Isolation Forest,13_2,1,60.0
+139,60,True,False,Isolation Forest,13_3,1,60.0
+139,60,True,True,Rules,10_0,0,
+139,60,True,True,Rules,10_1,1,240.0
+139,60,True,True,Rules,10_2,1,180.0
+139,60,True,True,Rules,10_3,0,
+139,60,True,True,Rules,11_0,0,
+139,60,True,True,Rules,11_1,1,240.0
+139,60,True,True,Rules,11_2,1,180.0
+139,60,True,True,Rules,11_3,0,
+139,60,True,True,Rules,12_0,0,
+139,60,True,True,Rules,12_1,1,240.0
+139,60,True,True,Rules,12_2,1,240.0
+139,60,True,True,Rules,12_3,0,
+139,60,True,True,Rules,13_0,0,
+139,60,True,True,Rules,13_1,1,180.0
+139,60,True,True,Rules,13_2,0,
+139,60,True,True,Rules,13_3,0,
+139,60,True,True,Isolation Forest,10_0,1,120.0
+139,60,True,True,Isolation Forest,10_1,1,360.0
+139,60,True,True,Isolation Forest,10_2,1,120.0
+139,60,True,True,Isolation Forest,10_3,1,120.0
+139,60,True,True,Isolation Forest,11_0,1,60.0
+139,60,True,True,Isolation Forest,11_1,0,
+139,60,True,True,Isolation Forest,11_2,1,120.0
+139,60,True,True,Isolation Forest,11_3,1,120.0
+139,60,True,True,Isolation Forest,12_0,1,120.0
+139,60,True,True,Isolation Forest,12_1,0,
+139,60,True,True,Isolation Forest,12_2,1,60.0
+139,60,True,True,Isolation Forest,12_3,1,120.0
+139,60,True,True,Isolation Forest,13_0,1,60.0
+139,60,True,True,Isolation Forest,13_1,1,0.0
+139,60,True,True,Isolation Forest,13_2,1,60.0
+139,60,True,True,Isolation Forest,13_3,1,0.0
+139,150,False,False,Rules,10_0,0,
+139,150,False,False,Rules,10_1,1,600.0
+139,150,False,False,Rules,10_2,1,450.0
+139,150,False,False,Rules,10_3,0,
+139,150,False,False,Rules,11_0,0,
+139,150,False,False,Rules,11_1,1,600.0
+139,150,False,False,Rules,11_2,1,450.0
+139,150,False,False,Rules,11_3,0,
+139,150,False,False,Rules,12_0,0,
+139,150,False,False,Rules,12_1,1,600.0
+139,150,False,False,Rules,12_2,1,600.0
+139,150,False,False,Rules,12_3,0,
+139,150,False,False,Rules,13_0,0,
+139,150,False,False,Rules,13_1,1,600.0
+139,150,False,False,Rules,13_2,0,
+139,150,False,False,Rules,13_3,0,
+139,150,False,False,Isolation Forest,10_0,1,0.0
+139,150,False,False,Isolation Forest,10_1,1,0.0
+139,150,False,False,Isolation Forest,10_2,1,0.0
+139,150,False,False,Isolation Forest,10_3,1,0.0
+139,150,False,False,Isolation Forest,11_0,1,0.0
+139,150,False,False,Isolation Forest,11_1,1,0.0
+139,150,False,False,Isolation Forest,11_2,1,0.0
+139,150,False,False,Isolation Forest,11_3,1,0.0
+139,150,False,False,Isolation Forest,12_0,1,0.0
+139,150,False,False,Isolation Forest,12_1,1,0.0
+139,150,False,False,Isolation Forest,12_2,1,0.0
+139,150,False,False,Isolation Forest,12_3,1,0.0
+139,150,False,False,Isolation Forest,13_0,1,0.0
+139,150,False,False,Isolation Forest,13_1,1,0.0
+139,150,False,False,Isolation Forest,13_2,1,0.0
+139,150,False,False,Isolation Forest,13_3,1,0.0
+139,150,False,True,Rules,10_0,0,
+139,150,False,True,Rules,10_1,1,600.0
+139,150,False,True,Rules,10_2,1,450.0
+139,150,False,True,Rules,10_3,0,
+139,150,False,True,Rules,11_0,0,
+139,150,False,True,Rules,11_1,1,600.0
+139,150,False,True,Rules,11_2,1,450.0
+139,150,False,True,Rules,11_3,0,
+139,150,False,True,Rules,12_0,0,
+139,150,False,True,Rules,12_1,1,600.0
+139,150,False,True,Rules,12_2,1,600.0
+139,150,False,True,Rules,12_3,0,
+139,150,False,True,Rules,13_0,0,
+139,150,False,True,Rules,13_1,1,450.0
+139,150,False,True,Rules,13_2,0,
+139,150,False,True,Rules,13_3,0,
+139,150,False,True,Isolation Forest,10_0,1,0.0
+139,150,False,True,Isolation Forest,10_1,1,0.0
+139,150,False,True,Isolation Forest,10_2,1,0.0
+139,150,False,True,Isolation Forest,10_3,1,0.0
+139,150,False,True,Isolation Forest,11_0,1,0.0
+139,150,False,True,Isolation Forest,11_1,1,0.0
+139,150,False,True,Isolation Forest,11_2,1,0.0
+139,150,False,True,Isolation Forest,11_3,1,0.0
+139,150,False,True,Isolation Forest,12_0,1,0.0
+139,150,False,True,Isolation Forest,12_1,1,0.0
+139,150,False,True,Isolation Forest,12_2,1,0.0
+139,150,False,True,Isolation Forest,12_3,1,0.0
+139,150,False,True,Isolation Forest,13_0,1,0.0
+139,150,False,True,Isolation Forest,13_1,1,0.0
+139,150,False,True,Isolation Forest,13_2,1,0.0
+139,150,False,True,Isolation Forest,13_3,1,0.0
+139,150,True,False,Rules,10_0,0,
+139,150,True,False,Rules,10_1,1,600.0
+139,150,True,False,Rules,10_2,1,450.0
+139,150,True,False,Rules,10_3,0,
+139,150,True,False,Rules,11_0,0,
+139,150,True,False,Rules,11_1,1,600.0
+139,150,True,False,Rules,11_2,1,450.0
+139,150,True,False,Rules,11_3,0,
+139,150,True,False,Rules,12_0,0,
+139,150,True,False,Rules,12_1,1,600.0
+139,150,True,False,Rules,12_2,1,600.0
+139,150,True,False,Rules,12_3,0,
+139,150,True,False,Rules,13_0,0,
+139,150,True,False,Rules,13_1,1,600.0
+139,150,True,False,Rules,13_2,0,
+139,150,True,False,Rules,13_3,0,
+139,150,True,False,Isolation Forest,10_0,1,300.0
+139,150,True,False,Isolation Forest,10_1,1,900.0
+139,150,True,False,Isolation Forest,10_2,1,300.0
+139,150,True,False,Isolation Forest,10_3,1,300.0
+139,150,True,False,Isolation Forest,11_0,1,150.0
+139,150,True,False,Isolation Forest,11_1,0,
+139,150,True,False,Isolation Forest,11_2,1,300.0
+139,150,True,False,Isolation Forest,11_3,1,300.0
+139,150,True,False,Isolation Forest,12_0,1,300.0
+139,150,True,False,Isolation Forest,12_1,0,
+139,150,True,False,Isolation Forest,12_2,1,150.0
+139,150,True,False,Isolation Forest,12_3,1,300.0
+139,150,True,False,Isolation Forest,13_0,1,300.0
+139,150,True,False,Isolation Forest,13_1,0,
+139,150,True,False,Isolation Forest,13_2,1,150.0
+139,150,True,False,Isolation Forest,13_3,1,150.0
+139,150,True,True,Rules,10_0,0,
+139,150,True,True,Rules,10_1,1,600.0
+139,150,True,True,Rules,10_2,1,450.0
+139,150,True,True,Rules,10_3,0,
+139,150,True,True,Rules,11_0,0,
+139,150,True,True,Rules,11_1,1,600.0
+139,150,True,True,Rules,11_2,1,450.0
+139,150,True,True,Rules,11_3,0,
+139,150,True,True,Rules,12_0,0,
+139,150,True,True,Rules,12_1,1,600.0
+139,150,True,True,Rules,12_2,1,600.0
+139,150,True,True,Rules,12_3,0,
+139,150,True,True,Rules,13_0,0,
+139,150,True,True,Rules,13_1,1,450.0
+139,150,True,True,Rules,13_2,0,
+139,150,True,True,Rules,13_3,0,
+139,150,True,True,Isolation Forest,10_0,1,300.0
+139,150,True,True,Isolation Forest,10_1,1,900.0
+139,150,True,True,Isolation Forest,10_2,1,300.0
+139,150,True,True,Isolation Forest,10_3,1,300.0
+139,150,True,True,Isolation Forest,11_0,1,150.0
+139,150,True,True,Isolation Forest,11_1,0,
+139,150,True,True,Isolation Forest,11_2,1,300.0
+139,150,True,True,Isolation Forest,11_3,1,300.0
+139,150,True,True,Isolation Forest,12_0,1,300.0
+139,150,True,True,Isolation Forest,12_1,0,
+139,150,True,True,Isolation Forest,12_2,1,150.0
+139,150,True,True,Isolation Forest,12_3,1,300.0
+139,150,True,True,Isolation Forest,13_0,1,150.0
+139,150,True,True,Isolation Forest,13_1,1,0.0
+139,150,True,True,Isolation Forest,13_2,1,150.0
+139,150,True,True,Isolation Forest,13_3,1,0.0

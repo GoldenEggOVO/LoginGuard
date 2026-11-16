@@ -1,0 +1,5 @@
+source_row,success,account_failures_60s,ip_failures_60s,ip_distinct_users_10m,prior_consecutive_failures,has_prior_success,ip_seen_on_prior_success,has_prior_known_type,type_seen_on_prior_success,current_type_available,prior_success_count,baseline_validation_score,baseline_validation_alert,history_validation_score,history_validation_alert
+1799492,1,0,0,1,0,0,0,0,0,1,0,0.37159699955538306,False,0.3804862345262556,False
+1845944,1,0,0,1,1,0,0,0,0,1,0,0.5054996561220805,False,0.4833321762700355,False
+1851695,1,0,0,1,0,0,0,0,0,1,0,0.37159699955538306,False,0.3804862345262556,False
+1908328,1,0,0,1,0,0,0,0,0,1,0,0.37159699955538306,False,0.3804862345262556,False

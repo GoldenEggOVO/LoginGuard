@@ -1,0 +1,18 @@
+case,event_id,timestamp,user_id,ip_address,device_id,status,hour,success,account_failures_60s,ip_failures_60s,ip_distinct_users_10m,new_device,prior_consecutive_failures,split,rule_names,rule_prediction,anomaly_score,model_prediction,is_anomaly,attack_type
+rule_false_positive,1684,2024-01-11 10:22:02,user_21,198.51.100.200,device_21_0,success,10,1,0,0,1,0,3,test,success_after_failures,1,0.6397685962014655,0,0,normal
+rule_false_positive,1696,2024-01-11 11:40:37,user_19,198.51.100.200,device_19_1,success,11,1,0,0,2,0,4,test,success_after_failures,1,0.7201436956593684,1,0,normal
+rule_false_positive,1752,2024-01-11 17:11:44,user_07,198.51.100.200,device_7_0,success,17,1,0,0,1,0,7,test,success_after_failures,1,0.6612855419998726,0,0,normal
+rule_false_positive,1839,2024-01-12 09:40:14,user_20,192.0.2.21,device_20_0,success,9,1,0,0,1,0,6,test,success_after_failures,1,0.638879759140816,0,0,normal
+rule_false_positive,1880,2024-01-12 13:17:00,user_10,192.0.2.11,device_10_0,success,13,1,0,0,1,0,3,test,success_after_failures,1,0.6448324372655296,0,0,normal
+rule_false_negative,1637,2024-01-11 07:07:00,user_19,203.0.113.42,unknown_10_1,failure,7,0,1,1,1,1,0,test,,0,0.7242825870017623,1,1,password_spray
+rule_false_negative,1638,2024-01-11 07:07:26,user_20,203.0.113.42,unknown_10_1,failure,7,0,1,2,2,1,0,test,,0,0.745107196232447,1,1,password_spray
+rule_false_negative,1639,2024-01-11 07:07:40,user_21,203.0.113.42,unknown_10_1,failure,7,0,1,3,3,1,0,test,,0,0.7660274087170866,1,1,password_spray
+rule_false_negative,1640,2024-01-11 07:07:45,user_22,203.0.113.42,unknown_10_1,failure,7,0,1,4,4,1,0,test,,0,0.7660274087170866,1,1,password_spray
+rule_false_negative,1667,2024-01-11 08:31:00,user_19,203.0.113.44,unknown_10_3,failure,8,0,1,1,1,1,0,test,,0,0.7177211396115808,1,1,brute_force
+model_false_positive,1646,2024-01-11 07:10:42,user_21,192.0.2.22,device_21_0,failure,7,0,1,1,1,0,1,test,,0,0.7050237815874644,1,0,normal
+model_false_positive,1660,2024-01-11 07:57:05,user_21,192.0.2.22,device_21_0,failure,7,0,1,1,1,0,2,test,,0,0.7287782280708938,1,0,normal
+model_false_positive,1696,2024-01-11 11:40:37,user_19,198.51.100.200,device_19_1,success,11,1,0,0,2,0,4,test,success_after_failures,1,0.7201436956593684,1,0,normal
+model_false_positive,1724,2024-01-11 14:27:31,user_24,198.51.100.200,device_24_0,success,14,1,0,0,2,0,2,test,,0,0.7177848184805032,1,0,normal
+model_false_positive,1746,2024-01-11 16:27:34,user_23,192.0.2.24,device_23_0,failure,16,0,1,1,1,0,1,test,,0,0.6923549079251472,1,0,normal
+model_false_negative,1703,2024-01-11 11:46:28,user_13,203.0.113.43,unknown_10_2,success,11,1,0,0,1,0,4,test,success_after_failures,1,0.6433126857467858,0,1,suspicious_success
+model_false_negative,1714,2024-01-11 13:57:09,user_07,203.0.113.41,unknown_10_0,failure,13,0,2,2,1,0,1,test,,0,0.6879117644547001,0,1,brute_force

@@ -1,0 +1,644 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>LoginGuard synthetic triage</title><style>body{font-family:system-ui;max-width:1200px;margin:2rem auto;padding:0 1rem;color:#17223b}table{border-collapse:collapse;width:100%;font-size:.9rem}th,td{border-bottom:1px solid #ccd4e2;padding:.5rem;text-align:left}th{background:#edf2fa}caption,p{line-height:1.5}.scroll{overflow-x:auto}</style></head><body><h1>Synthetic alert triage</h1><p>Offline example; generated data only. Seed 241, union detector, first-come daily budget 5. Admitted cases remain monitored for later alerts in their fixed ten-minute window. Rows show the completed window; admission used only information available when the case opened.</p><p>57 cases · 20 admitted · 37 over budget</p><div class="scroll"><table border="1" class="dataframe cases">
+  <thead>
+    <tr style="text-align: right;">
+      <th>case_id</th>
+      <th>opened_at</th>
+      <th>user_id</th>
+      <th>ip_address</th>
+      <th>alert_count</th>
+      <th>rules</th>
+      <th>model_alert_seen</th>
+      <th>max_score</th>
+      <th>admitted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2024-01-11 06:39:00</td>
+      <td>user_16</td>
+      <td>203.0.113.42</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7304</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2024-01-11 06:39:24</td>
+      <td>user_17</td>
+      <td>203.0.113.42</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7501</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2024-01-11 06:39:42</td>
+      <td>user_18</td>
+      <td>203.0.113.42</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7704</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>2024-01-11 06:39:48</td>
+      <td>user_19</td>
+      <td>203.0.113.42</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7704</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>2024-01-11 06:40:00</td>
+      <td>user_21</td>
+      <td>203.0.113.42</td>
+      <td>1</td>
+      <td>password_spraying</td>
+      <td>True</td>
+      <td>0.7995</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2024-01-11 06:40:32</td>
+      <td>user_22</td>
+      <td>192.0.2.23</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7120</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>2024-01-11 06:40:48</td>
+      <td>user_20</td>
+      <td>203.0.113.42</td>
+      <td>1</td>
+      <td>password_spraying</td>
+      <td>True</td>
+      <td>0.7704</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>2024-01-11 06:41:12</td>
+      <td>user_22</td>
+      <td>203.0.113.42</td>
+      <td>1</td>
+      <td>password_spraying</td>
+      <td>True</td>
+      <td>0.8103</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>2024-01-11 07:13:18</td>
+      <td>user_16</td>
+      <td>192.0.2.17</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7050</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>2024-01-11 09:04:00</td>
+      <td>user_11</td>
+      <td>203.0.113.43</td>
+      <td>6</td>
+      <td>success_after_failures</td>
+      <td>True</td>
+      <td>0.7505</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>2024-01-11 10:48:19</td>
+      <td>user_22</td>
+      <td>192.0.2.23</td>
+      <td>1</td>
+      <td>success_after_failures</td>
+      <td>False</td>
+      <td>0.6398</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>2024-01-11 21:55:00</td>
+      <td>user_18</td>
+      <td>203.0.113.41</td>
+      <td>6</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7658</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>2024-01-11 22:06:21</td>
+      <td>user_18</td>
+      <td>192.0.2.19</td>
+      <td>1</td>
+      <td>success_after_failures</td>
+      <td>False</td>
+      <td>0.6806</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>2024-01-11 22:25:00</td>
+      <td>user_17</td>
+      <td>203.0.113.44</td>
+      <td>4</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7497</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>2024-01-11 22:44:17</td>
+      <td>user_17</td>
+      <td>192.0.2.18</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7497</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>2024-01-12 06:44:00</td>
+      <td>user_05</td>
+      <td>203.0.113.47</td>
+      <td>5</td>
+      <td>success_after_failures</td>
+      <td>True</td>
+      <td>0.7340</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>2024-01-12 07:24:42</td>
+      <td>user_17</td>
+      <td>192.0.2.18</td>
+      <td>1</td>
+      <td>success_after_failures</td>
+      <td>False</td>
+      <td>0.6542</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>2024-01-12 09:36:34</td>
+      <td>user_24</td>
+      <td>192.0.2.25</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.6890</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>2024-01-12 09:46:00</td>
+      <td>user_15</td>
+      <td>203.0.113.48</td>
+      <td>3</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7162</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>2024-01-12 10:18:18</td>
+      <td>user_15</td>
+      <td>192.0.2.16</td>
+      <td>1</td>
+      <td>success_after_failures</td>
+      <td>False</td>
+      <td>0.6398</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>2024-01-12 17:45:00</td>
+      <td>user_09</td>
+      <td>203.0.113.45</td>
+      <td>4</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7526</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>2024-01-12 20:33:00</td>
+      <td>user_10</td>
+      <td>203.0.113.46</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7306</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>2024-01-12 20:33:20</td>
+      <td>user_12</td>
+      <td>203.0.113.46</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7511</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>2024-01-12 20:33:27</td>
+      <td>user_11</td>
+      <td>203.0.113.46</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7678</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>2024-01-12 20:33:39</td>
+      <td>user_13</td>
+      <td>203.0.113.46</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7678</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>2024-01-12 20:34:28</td>
+      <td>user_14</td>
+      <td>203.0.113.46</td>
+      <td>1</td>
+      <td>password_spraying</td>
+      <td>True</td>
+      <td>0.7678</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>2024-01-13 08:26:00</td>
+      <td>user_01</td>
+      <td>203.0.113.51</td>
+      <td>4</td>
+      <td>success_after_failures</td>
+      <td>True</td>
+      <td>0.7563</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>2024-01-13 08:39:51</td>
+      <td>user_10</td>
+      <td>192.0.2.11</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7015</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>2024-01-13 09:03:43</td>
+      <td>user_09</td>
+      <td>192.0.2.10</td>
+      <td>1</td>
+      <td>success_after_failures</td>
+      <td>False</td>
+      <td>0.6389</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>2024-01-13 13:06:00</td>
+      <td>user_15</td>
+      <td>203.0.113.49</td>
+      <td>6</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7485</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>2024-01-13 13:35:04</td>
+      <td>user_15</td>
+      <td>192.0.2.16</td>
+      <td>1</td>
+      <td>success_after_failures</td>
+      <td>False</td>
+      <td>0.6448</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>2024-01-13 15:44:00</td>
+      <td>user_20</td>
+      <td>203.0.113.50</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7510</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>2024-01-13 15:44:15</td>
+      <td>user_21</td>
+      <td>203.0.113.50</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7740</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>2024-01-13 15:44:26</td>
+      <td>user_22</td>
+      <td>203.0.113.50</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7528</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>2024-01-13 15:44:32</td>
+      <td>user_24</td>
+      <td>203.0.113.50</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7528</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>2024-01-13 15:45:06</td>
+      <td>user_23</td>
+      <td>203.0.113.50</td>
+      <td>1</td>
+      <td>password_spraying</td>
+      <td>True</td>
+      <td>0.7528</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>2024-01-13 16:49:02</td>
+      <td>user_24</td>
+      <td>198.51.100.200</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.6924</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>2024-01-13 20:07:41</td>
+      <td>user_06</td>
+      <td>192.0.2.7</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7063</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>2024-01-13 20:57:00</td>
+      <td>user_01</td>
+      <td>203.0.113.52</td>
+      <td>7</td>
+      <td>repeated_failures</td>
+      <td>True</td>
+      <td>0.7325</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>2024-01-14 03:03:31</td>
+      <td>user_00</td>
+      <td>192.0.2.1</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7327</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>2024-01-14 06:09:00</td>
+      <td>user_07</td>
+      <td>203.0.113.54</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7304</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>2024-01-14 06:09:20</td>
+      <td>user_09</td>
+      <td>203.0.113.54</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7501</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>2024-01-14 06:09:29</td>
+      <td>user_08</td>
+      <td>203.0.113.54</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7704</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>2024-01-14 06:09:45</td>
+      <td>user_10</td>
+      <td>203.0.113.54</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7704</td>
+      <td>Admitted</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>2024-01-14 06:10:06</td>
+      <td>user_13</td>
+      <td>203.0.113.54</td>
+      <td>1</td>
+      <td>password_spraying</td>
+      <td>True</td>
+      <td>0.7704</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>2024-01-14 06:10:52</td>
+      <td>user_11</td>
+      <td>203.0.113.54</td>
+      <td>1</td>
+      <td>password_spraying</td>
+      <td>True</td>
+      <td>0.7704</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>2024-01-14 06:10:55</td>
+      <td>user_12</td>
+      <td>203.0.113.54</td>
+      <td>1</td>
+      <td>password_spraying</td>
+      <td>True</td>
+      <td>0.7704</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>2024-01-14 07:06:01</td>
+      <td>user_01</td>
+      <td>192.0.2.2</td>
+      <td>1</td>
+      <td>success_after_failures</td>
+      <td>False</td>
+      <td>0.6542</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>2024-01-14 09:46:51</td>
+      <td>user_13</td>
+      <td>192.0.2.14</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.6890</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>2024-01-14 11:29:06</td>
+      <td>user_24</td>
+      <td>192.0.2.25</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.6959</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>2024-01-14 12:25:13</td>
+      <td>user_02</td>
+      <td>192.0.2.3</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.6909</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>2024-01-14 16:03:59</td>
+      <td>user_11</td>
+      <td>192.0.2.12</td>
+      <td>1</td>
+      <td></td>
+      <td>True</td>
+      <td>0.6924</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>2024-01-14 18:32:00</td>
+      <td>user_01</td>
+      <td>203.0.113.53</td>
+      <td>4</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7276</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>2024-01-14 18:36:00</td>
+      <td>user_12</td>
+      <td>203.0.113.56</td>
+      <td>7</td>
+      <td></td>
+      <td>True</td>
+      <td>0.7276</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>2024-01-14 19:19:36</td>
+      <td>user_01</td>
+      <td>192.0.2.2</td>
+      <td>1</td>
+      <td>success_after_failures</td>
+      <td>False</td>
+      <td>0.6618</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>2024-01-14 20:12:27</td>
+      <td>user_12</td>
+      <td>192.0.2.13</td>
+      <td>1</td>
+      <td>success_after_failures</td>
+      <td>False</td>
+      <td>0.6656</td>
+      <td>Over budget</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>2024-01-14 20:22:00</td>
+      <td>user_18</td>
+      <td>203.0.113.55</td>
+      <td>8</td>
+      <td>success_after_failures</td>
+      <td>True</td>
+      <td>0.7325</td>
+      <td>Over budget</td>
+    </tr>
+  </tbody>
+</table></div></body></html>

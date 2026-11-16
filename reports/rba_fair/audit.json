@@ -1,0 +1,21 @@
+{
+  "archive_sha256": "ca1d974e97aebfb30878a613f4ca5c793860a98ba2acb5185c9bc610d7432a33",
+  "source_rows": 16000000,
+  "excluded_rows": 0,
+  "excluded_known_positive": 0,
+  "selection_sha256": "1e1ef708ebcf9c76d88b7318924d205acb149982b6d22e4096bbd075b13c6212",
+  "elapsed_seconds": 450.666922400007,
+  "peak_working_set_bytes": 3687026688,
+  "platform": "Windows",
+  "python": "3.14.7",
+  "logical_cpus": 20,
+  "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+  "chunksize": 100000,
+  "first_evaluation_timestamp": "2020-07-18 13:26:44.974000",
+  "last_evaluation_timestamp": "2020-09-12 20:53:14.075000",
+  "versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "scikit-learn": "1.9.1"
+  }
+}

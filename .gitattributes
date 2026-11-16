@@ -1,0 +1,2 @@
+# Frozen manifests hash exact bytes, including original CSV line endings.
+* -text

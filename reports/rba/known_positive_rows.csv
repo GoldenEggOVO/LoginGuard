@@ -1,0 +1,5 @@
+source_row,model_score,model_alert,rule_alert,success,account_failures_60s,ip_failures_60s,ip_distinct_users_10m,prior_consecutive_failures
+1799492,0.37159699955538306,False,False,1,0,0,1,0
+1845944,0.5054996561220805,False,False,1,0,0,1,1
+1851695,0.37159699955538306,False,False,1,0,0,1,0
+1908328,0.37159699955538306,False,False,1,0,0,1,0

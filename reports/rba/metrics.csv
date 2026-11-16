@@ -1,0 +1,3 @@
+method,test_events,alerts,alert_rate,known_positives,known_positives_alerted,known_positive_recall,unlabelled_events,unlabelled_alerts,unlabelled_alert_rate
+Rules,400000,144001,0.3600025,4,0,0.0,399996,144001,0.3600061000610006
+Isolation Forest,400000,5123,0.0128075,4,0,0.0,399996,5123,0.012807628076280763

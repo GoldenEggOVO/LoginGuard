@@ -1,0 +1,80 @@
+{
+  "reference_seed": 42,
+  "evaluation_seeds": [
+    311,
+    313,
+    317,
+    331,
+    337,
+    347,
+    349,
+    353
+  ],
+  "profiles": {
+    "unfamiliar_fast": [
+      20,
+      false,
+      false
+    ],
+    "primary_slow_shared": [
+      150,
+      true,
+      true
+    ]
+  },
+  "rule_thresholds": {
+    "failure_limit": 2,
+    "spray_limit": 3,
+    "success_failure_limit": 5
+  },
+  "rule_candidates": 245,
+  "forest_threshold": 0.6882307636065044,
+  "forest_candidates": 60,
+  "forest_validation_f1": 0.9548387096774194,
+  "validation_metrics": {
+    "fixed_rules": {
+      "TP": 13,
+      "FP": 7,
+      "TN": 458,
+      "FN": 62,
+      "precision": 0.65,
+      "recall": 0.17333333333333334,
+      "f1": 0.2736842105263158,
+      "fpr": 0.015053763440860216,
+      "fnr": 0.8266666666666667
+    },
+    "calibrated_rules": {
+      "TP": 57,
+      "FP": 7,
+      "TN": 458,
+      "FN": 18,
+      "precision": 0.890625,
+      "recall": 0.76,
+      "f1": 0.8201438848920863,
+      "fpr": 0.015053763440860216,
+      "fnr": 0.24
+    },
+    "forest": {
+      "TP": 74,
+      "FP": 6,
+      "TN": 459,
+      "FN": 1,
+      "precision": 0.925,
+      "recall": 0.9866666666666667,
+      "f1": 0.9548387096774194,
+      "fpr": 0.012903225806451613,
+      "fnr": 0.013333333333333334
+    }
+  },
+  "reference_events_sha256": "e449f3b2a7a2de0337192bb8631ca38ac025ff7bcabd0f7153547f74b7564357",
+  "reference_labels_sha256": "1e9199c341e30d2c4b14a5b2872e1f5dd760a745d5697df1b7cd4f3fae846192",
+  "protocol_sha256": "271ab80299a5b9c383ebdf7ba3a5595392c0ad2c21838ab7a2571eca24d5ccdd",
+  "source_sha256": {
+    "fair_calibration.py": "b4343fff72b86fff59bedd71379a18e47a28629c0a98f24c3ca43371af99680c",
+    "generate_data.py": "89dcc4f92cf98b7280398482cb5af338ec61aa8b89a37e217fa118a2b031b49d",
+    "features.py": "075c0b521a70df08a91f623f8aaf0bf99d8865b88da7b3d938e5df1c0c54ce4c",
+    "model.py": "9fb2a877408e504d346f2249e2c139be00d7a025d35e3cc2b2523ffb3257195e",
+    "rules.py": "24e2eec4edf52e882c0c38ea7609b6968df94dad03527d0a052485d54eea666c"
+  },
+  "model_sha256": "87c3c1e5a1a85550b989e0d2e7a4624d3ff1a64ab057edd23e13357968a79417"
+}

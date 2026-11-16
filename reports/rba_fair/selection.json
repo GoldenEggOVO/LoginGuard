@@ -1,0 +1,155 @@
+{
+  "archive_sha256": "ca1d974e97aebfb30878a613f4ca5c793860a98ba2acb5185c9bc610d7432a33",
+  "archive_md5": "cc1b1078b3929650e6c08678caffcc57",
+  "train_end": 1200000,
+  "calibration_end": 2000000,
+  "evaluation_start": 12000000,
+  "evaluation_end": 16000000,
+  "alpha": 10,
+  "tie_seed": 20261114,
+  "primary_budget": 0.02,
+  "cutoffs": {
+    "count_forest_successfit": [
+      {
+        "budget": 0.005,
+        "eligible": 380910,
+        "allowed": 1904,
+        "score": 0.7691434383725787,
+        "tie_key": 14322811988817191527
+      },
+      {
+        "budget": 0.01,
+        "eligible": 380910,
+        "allowed": 3809,
+        "score": 0.7343609065083738,
+        "tie_key": 6849367079030190254
+      },
+      {
+        "budget": 0.02,
+        "eligible": 380910,
+        "allowed": 7618,
+        "score": 0.7271494457751004,
+        "tie_key": 3425980743801961085
+      }
+    ],
+    "global_field_forest": [
+      {
+        "budget": 0.005,
+        "eligible": 380910,
+        "allowed": 1904,
+        "score": 0.6563949672251651,
+        "tie_key": 10875554284121537588
+      },
+      {
+        "budget": 0.01,
+        "eligible": 380910,
+        "allowed": 3809,
+        "score": 0.638923020339366,
+        "tie_key": 1524443322799366032
+      },
+      {
+        "budget": 0.02,
+        "eligible": 380910,
+        "allowed": 7618,
+        "score": 0.6181675554679079,
+        "tie_key": 8060376759791698363
+      }
+    ],
+    "personal_field_forest": [
+      {
+        "budget": 0.005,
+        "eligible": 380910,
+        "allowed": 1904,
+        "score": 0.656161117467451,
+        "tie_key": 2465696861267070520
+      },
+      {
+        "budget": 0.01,
+        "eligible": 380910,
+        "allowed": 3809,
+        "score": 0.6368475636096667,
+        "tie_key": 12378717381747587895
+      },
+      {
+        "budget": 0.02,
+        "eligible": 380910,
+        "allowed": 7618,
+        "score": 0.6121774740666364,
+        "tie_key": 7249894984516884323
+      }
+    ],
+    "global_mean": [
+      {
+        "budget": 0.005,
+        "eligible": 380910,
+        "allowed": 1904,
+        "score": 6.933076609169611,
+        "tie_key": 3323493750426270468
+      },
+      {
+        "budget": 0.01,
+        "eligible": 380910,
+        "allowed": 3809,
+        "score": 6.598800064707849,
+        "tie_key": 1334230389779544284
+      },
+      {
+        "budget": 0.02,
+        "eligible": 380910,
+        "allowed": 7618,
+        "score": 6.228233696558664,
+        "tie_key": 9746678798977391451
+      }
+    ],
+    "personal_mean": [
+      {
+        "budget": 0.005,
+        "eligible": 380910,
+        "allowed": 1904,
+        "score": 6.661871687695761,
+        "tie_key": 1657189719216581718
+      },
+      {
+        "budget": 0.01,
+        "eligible": 380910,
+        "allowed": 3809,
+        "score": 6.293739247216462,
+        "tie_key": 12949502063592749871
+      },
+      {
+        "budget": 0.02,
+        "eligible": 380910,
+        "allowed": 7618,
+        "score": 5.899772895625347,
+        "tie_key": 14285439982313814338
+      }
+    ]
+  },
+  "context_fields": [
+    "IP Address",
+    "ASN",
+    "Country",
+    "OS Name and Version",
+    "Browser Name and Version",
+    "Device Type"
+  ],
+  "context_vector": "six surprisals then six availability indicators",
+  "forest_fit_population": "successful training records only",
+  "forest_fit_records": {
+    "count_forest_successfit": 573654,
+    "global_field_forest": 573654,
+    "personal_field_forest": 573654
+  },
+  "protocol_sha256": "271ab80299a5b9c383ebdf7ba3a5595392c0ad2c21838ab7a2571eca24d5ccdd",
+  "source_sha256": {
+    "rba_fair.py": "b687c963b9bb7a5756679f9406504318c104f71b5b1a2e18eea595a0f5fc1002",
+    "rba_context.py": "1b662223107774fc4c3362e39724cca3eb2c373aea449f221e4ed0344eb11737",
+    "rba_validation.py": "d902d4fcf39d6e139c42395e3ccf2569e9b32095c032b659302466c798a15e6c",
+    "experiment_runs.py": "ee36c6aedfb6617216320098706720bcf023c5bc8a78e14588ca3848f073ded7"
+  },
+  "model_sha256": {
+    "count_forest_successfit": "0ab7f85d2538ebb7aed87f958899c1debf4ea3eb22288bed15ff833735e45763",
+    "global_field_forest": "1d8115b03c0dae9a401c94d2476523ff304e4a1ad68921589f9f73accd0e4141",
+    "personal_field_forest": "1bd471361a756c9ff949808b253c35003c5c557cf5e5adf3fa49045b34912f82"
+  }
+}
